@@ -1,0 +1,79 @@
+site_url: https://kristopherray.com
+display_url: https://kristopherray.com
+logo_url: https://kristopherray.com/img/login-logo.svg
+show_preview_links: false
+backend:
+  name: git-gateway
+  repo: kristopherray/
+  branch: master
+# This line should *not* be indented
+media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+public_folder: "/img"
+collections:
+  - name: "home"
+    label: "Home"
+    files:
+      - label: "Home Content and Settings"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - {label: "Meta Title / Banner Title", name: "title", widget: "string"}
+          - {label: "Description and Banner Text", name: "description", widget: "text", required: false}
+          - {label: "Lightbox Content", name: "body", widget: "markdown", required: false}
+  - name: "logos"
+    label: "Logo Carousel"
+    folder: "content/logos"
+    media_folder: '/static/img/logos'
+    public_folder: '/img/logos'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Logo Name / Title / Alt Tag", name: "title", widget: "string"}
+      - {label: "Logo Image", name: "image", widget: "image" }
+      - {label: "Order", name: "weight", widget: "number" }
+  - name: "home_sections"
+    label: "Home Sections"
+    folder: "content/home_sections"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Reference Title (hidden)", name: "title", widget: "string"}
+      - {label: "Section Content", name: "body", widget: "markdown"}
+      - {label: "Background Image", name: "image", widget: "image" }
+      - {label: "Order", name: "weight", widget: "number" }
+  - name: "news"
+    label: "News"
+    folder: "content/news"
+    media_folder: '/static/img/news'
+    public_folder: '/img/news'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image" }
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+  - label: "Configuration"
+    name: "configuration"
+    files:
+      - name: "config"
+        label: "Global Site Settings"
+        file: "config.yaml"
+        fields:
+          - name: "params"
+            label: "Params"
+            widget: "object"
+            fields:
+              - { label: "Twitter User", name: "twitter_user", widget: "string", required: false }
+              - { label: "Facebook Link", name: "facebook_link", widget: "string", required: false }
+              - { label: "Instagram Link", name: "instagram_link", widget: "string", required: false }
+              - { label: "Paid For Language", name: "paid_for", widget: "string", required: false }
+              - { label: "Form Endpoint", name: "form_endpoint", widget: "string", required: false }
