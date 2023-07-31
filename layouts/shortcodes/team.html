@@ -1,0 +1,11 @@
+{{ $myVar := .Get 0  }}
+<div class="row team-row">
+    {{ $mgatag := index site.Taxonomies.team_categories }}
+    {{ range $k, $v := $mgatag }}
+    {{ if eq $k $myVar }}
+        {{ range $v.Pages }}
+        {{ partial "team-entry.html" . }}
+        {{ end }}
+    {{ end }}
+    {{ end }}
+</div>

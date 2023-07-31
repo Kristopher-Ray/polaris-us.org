@@ -1,15 +1,27 @@
-<div class="entry col-12 mb-3">
-    <div class="d-flex justify-content-center align-items-center">
-        {{ if .Params.image }}
-            <div class="col col-sm-4">
-                {{ if .Params.outbound }}
-                <a href="{{ .Params.outbound }}" target="_blank"><img src='{{ .Param "image"}}' class="img-fluid lazy" alt="{{ .Title | safeHTML }}"></a>
-                {{else}}
-                <a href="{{ .Permalink }}"><img src='{{ .Param "image"}}' class="img-fluid lazy" alt="{{ .Title | safeHTML }}"></a>
-                {{end}}
+<div class="col col-12 col-sm-6 col-md-4">
+    <div class="entry {{ if .Params.image }} withImg {{else}} withoutImg {{end}}">
+        <div class="entry-img bg-image">
+            {{if .Params.image}}
+            <img src='{{ .Param "image"}}' class="lazy" alt="{{ .Title | safeHTML }}">
+            {{else}}
+            <img src='{{ "img/logo_mask.svg" | relURL }}'  class="lazy" alt="{{ .Title | safeHTML }}"/>            
+            {{end}}
+            {{ if .Params.outbound }}
+            <a href="{{ .Params.outbound }}" target="_blank"><span class="linkOver"></span></a>
+            {{else}}
+            <a href="{{ .Permalink }}"><span class="linkOver"></span></a>
+            {{end}}
+            <div class="postMeta">
+                <div class="post-categories">
+                    {{ range $idx, $category := .Params.categories }}
+                    {{- if ne $idx 0 }} <span>,</span> {{ end }}<a href='{{ "/categories/" | relURL }}{{ $category | urlize }}'>{{ $category }}</a>
+                    {{- end }}
+                </div>
+                <span>-</span>
+                <div class="date">{{ .Date.Format "01.02.2006" }} </div> 
             </div>
-        {{end}}
-        <div class="content col col-sm-8">
+        </div>
+        <div class="entry-content">
             <h3>
                 {{ if .Params.outbound }}
                 <a href="{{ .Params.outbound }}" target="_blank">{{ .Title | safeHTML }}</a>
@@ -17,12 +29,16 @@
                 <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
                 {{end}}
             </h3>
-            <span>{{ .Date.Format "January 2, 2006" }}</span>
-            <p>{{ .Description }}</p>
+            {{if .Params.image}}
+            <p>{{ .Summary | safeHTML | truncate 220 }}</p>
+        {{else}}
+        <p>{{ .Summary | safeHTML | truncate 280 }}</p>
+        {{end}}
+
             {{ if .Params.outbound }}
-                <a href="{{ .Params.outbound }}" target="_blank" class="button buttonOutline">Read More &rsaquo;</a>
-                {{else}}
-                <a href="{{ .Permalink }}" class="button buttonOutline">Read More &rsaquo;</a>
+            <a href="{{ .Params.outbound }}" target="_blank" class="button btn-xs">READ MORE →</a>
+            {{else}}
+            <a href="{{ .Permalink }}" class="button  btn-xs">READ MORE →</a>
             {{end}}
         </div>
     </div>

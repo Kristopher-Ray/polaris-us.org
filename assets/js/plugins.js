@@ -1,6 +1,7 @@
+$(document).ready(function() {
 $("#status").fadeOut(); // will first fade out the loading animation
 $("#preloader").delay(350).fadeOut("slow"); // will fade out the white DIV that covers the website.
-
+});
 $(document).ready(function() {
     // Mobile Navigation Toggle
     $('#toggle-menu').click(function(){
@@ -13,7 +14,7 @@ $(document).ready(function() {
 });
 
 $(document).mouseup(function(e){
-    if(window.matchMedia('(max-width: 1199px)').matches){
+    if(window.matchMedia('(max-width: 767px)').matches){
         var menu = $('nav ul');
         if (!menu.is(e.target) // The target of the click isn't the container.
         && menu.has(e.target).length === 0) // Nor a child element of the container
@@ -24,12 +25,48 @@ $(document).mouseup(function(e){
 });
 
 $(window).resize(function() {
-    if(window.matchMedia('(min-width: 1200px)').matches) {
+    if(window.matchMedia('(min-width: 768px)').matches) {
         $('nav ul').show();
     }
-    if(window.matchMedia('(max-width: 1199px)').matches) {
+    if(window.matchMedia('(max-width: 767px)').matches) {
         $('nav ul').hide();
     }
+});
+
+// Accordions
+$(document).ready(function() {
+    var allPanels = $('.accordion .accordionA').hide();
+    //$('.accordion > .accordionBx:first-child .accordionA').show();
+    //$('.accordion > .accordionBx:first-child .accordionQ').addClass('active-accordion');
+    $('.accordion .accordionQ').click(function() {
+        if ($(this).hasClass('active-accordion')) {
+            $(this).next().slideUp(250);
+            $('.accordion .accordionQ').removeClass('active-accordion');
+        } else {
+            allPanels.slideUp();
+            $('.accordion .accordionQ').removeClass('active-accordion');
+            $(this).next().slideDown(250);
+            $(this).addClass('active-accordion');
+            return false;
+        }
+    });
+});
+
+// Home Slider
+$(document).ready(function() {
+    $('.home-slider').flexslider({
+        useCSS: false,
+        controlNav: true,
+        directionNav: true,
+        smoothHeight: true,
+        controlsContainer: $(".custom-controls-container"),
+        slideshow: true,
+        slideshowSpeed: 10000,
+        animationSpeed: 1000,
+        prevText: '<i class="fa-solid fa-caret-left"></i>',
+        nextText: '<i class="fa-solid fa-caret-right"></i>',
+        touch:false
+    });
 });
 
 /* AOS */

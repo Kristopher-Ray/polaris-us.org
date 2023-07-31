@@ -1,0 +1,34 @@
+<div class="entry entry_memorandum {{ if .Params.image }} withImg {{else}} withoutImg {{end}}" id="{{ .File.ContentBaseName }}">
+    <div class="entry-img bg-image">
+        {{if .Params.image}}
+        <img src='{{ .Param "image"}}' class="lazy" alt="{{ .Title | safeHTML }}">
+        {{else}}
+        <img src='{{ "img/logo_mask.svg" | relURL }}'  class="lazy" alt="{{ .Title | safeHTML }}"/>            
+        {{end}}
+        {{ if .Params.outbound }}
+        <a href="{{ .Params.outbound }}" target="_blank"><span class="linkOver"></span></a>
+        {{else}}
+        <a href="{{ .Permalink }}"><span class="linkOver"></span></a>
+        {{end}}
+    </div>
+    <div class="entry-content">
+        <div class="entry-content-in">
+        <h3>
+            {{ if .Params.outbound }}
+            <a href="{{ .Params.outbound }}" target="_blank">{{ .Title | safeHTML }}</a>
+            {{else}}
+            <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+            {{end}}
+        </h3>
+        {{if .Params.image}}
+            <p>{{ .Summary | safeHTML }}</p>
+        {{end}}
+
+        {{ if .Params.outbound }}
+        <a href="{{ .Params.outbound }}" target="_blank" class="button btn-xs">Find Out More →</a>
+        {{else}}
+        <a href="{{ .Permalink }}" class="button  btn-xs">Find Out More →</a>
+        {{end}}
+    </div>
+    </div>
+</div>

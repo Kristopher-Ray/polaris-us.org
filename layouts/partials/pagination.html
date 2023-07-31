@@ -1,9 +1,9 @@
-<div id="paginationWrapper" class="col-xs-12">
+<div id="paginationWrapper" class="col col-xs-12">
     {{ $pag := $.Paginator }}
     {{ if gt $pag.TotalPages 1 }}
 
     <div class="page-item{{ if not $pag.HasPrev }} disabled{{ end }}">
-        <a  {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}" class="button" {{else}}class="button inactive"{{ end }}  aria-label="Previous"><span aria-hidden="true">&laquo; Newer</span></a>
+        <a  {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}" class="button" {{else}}class="button inactive"{{ end }}  aria-label="Previous"><span aria-hidden="true">Prev. Page</span></a>
     </div>
 
     <ul class="pagination">
@@ -31,7 +31,7 @@
     </ul>
 
     <div class="page-item{{ if not $pag.HasNext }} disabled{{ end }}">
-        <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}" class="button"{{else}}class="button inactive"{{ end }} aria-label="Next"><span aria-hidden="true">Older &raquo;</span></a>
+        <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}" class="button"{{else}}class="button inactive"{{ end }} aria-label="Next"><span aria-hidden="true">Next Page</span></a>
     </div>
     {{ end }}
 </div>

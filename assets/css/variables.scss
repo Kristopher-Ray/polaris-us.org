@@ -1,28 +1,36 @@
 /* Default Variables */
-$header-font:proxima-nova, sans-serif;
-$body-font: proxima-nova, sans-serif;
-$button-font: proxima-nova, sans-serif;
-$base-fontsize: 16px;
+$header-font:"proxima-nova",sans-serif;
+$body-font: "proxima-nova",sans-serif;
+$button-font: "proxima-nova",sans-serif;
+$base-fontsize: 18px;
+$base-lineheight: 1.3em;
 
 /* Form and Button Styling */
-$button-radius: 8px;
-$form-radius: 8px;
-$line-height-desktop: 64px;
-$line-height-mobile: 48px;
+$button-radius: 7px;
+$form-radius: 7px;
+$line-height-desktop: 56px;
+$line-height-mobile: 39px;
 
 $input-padding-top: 7px;
 $input-padding-right: 7px;
 $input-padding-bottom: 7px;
 $input-padding-left: 7px;
 
-$max-width: 1200px;
-$body-background: #fff;
+$max-width: 1240px;
 
 $transition: .25s;
 
 /* Colors */
-$default: #333;
+$default: #fff;
 $light-grey: #555;
-$btn-color: $default;
+$primary-dark: #0E1637;
+$action-color: #A5191D;
+$blue: #244284;
+$red: #FF0000;
+$secondary: #8D8D8D;
+$standardonwhite: #222222;
+$btn-color: $action-color;
+$body-background: $primary-dark;
 $facebook-blue: #3b5998;
 $twitter-blue: #1DA1F2;
+$highlight: $action-color;

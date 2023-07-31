@@ -1,0 +1,36 @@
+<div class="col col-12 col-sm-6 col-md-4">
+    <div class="entry entry_alt {{ if .Params.image }} withImg {{else}} withoutImg {{end}}">
+        <div class="entry-img bg-image">
+            {{if .Params.image}}
+            <img src='{{ .Param "image"}}' class="lazy" alt="{{ .Title | safeHTML }}">
+            {{end}}
+            <div class="entry-img-bg">
+            <div class="postMeta">
+                <div class="post-categories">
+                    {{ range $idx, $category := .Params.categories }}
+                    {{- if ne $idx 0 }} <span>,</span> {{ end }}<a href='{{ "/categories/" | relURL }}{{ $category | urlize }}'>{{ $category }}</a>
+                    {{- end }}
+                </div>
+                <span>-</span>
+                <div class="date">{{ .Date.Format "01.02.2006" }} </div> 
+            </div>
+            <h3>
+                {{ if .Params.outbound }}
+                <a href="{{ .Params.outbound }}" target="_blank">{{ .Title | safeHTML }}</a>
+                {{else}}
+                <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+                {{end}}
+            </h3>
+        </div>
+        </div>
+        <div class="entry-content">
+            <p>{{ .Summary | safeHTML | truncate 120 }}</p>
+
+            {{ if .Params.outbound }}
+            <a href="{{ .Params.outbound }}" target="_blank" class="button btn-xs">READ MORE →</a>
+            {{else}}
+            <a href="{{ .Permalink }}" class="button  btn-xs">READ MORE →</a>
+            {{end}}
+        </div>
+    </div>
+</div>

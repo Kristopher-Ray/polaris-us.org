@@ -1,0 +1,37 @@
+<div class="col col-12 col-sm-6 col-md-4">
+    <div class="teamBx">
+        {{ if .Params.image }}
+        <div class="team-image bg-image aos-item" data-aos="fade-in">
+            <img src='{{ .Params.image }}' class="lazy img-fluid" alt="{{ .Site.Title }} - {{ .Title }} Image">
+        </div>
+        {{end}}
+        <div class="teamMeta">
+            <h3 class="teamTitle">{{.Title}}</h3>
+            {{if .Params.position}}
+            <div class="teamPositions">{{.Params.position}}</div>
+            {{end}}
+            {{if .Params.career}}
+            <div class="teamCareer">{{.Params.career}}</div>
+            {{end}}
+            <div class="teamBtn">
+                <a class="button btn-xs" data-fancybox="{{ .File.ContentBaseName }}"
+                    data-src="#{{ .File.ContentBaseName }}" href="javascript:;">READ BIO →</a>
+            </div>
+        </div>
+    </div>
+    <div class="team-popup lightbox" id="{{ .File.ContentBaseName }}">
+        <div class="teamBx">
+        <div class="teamImgBx"><img src="{{.Params.image}}" /></div>
+        <div class="teamMeta">
+        <h3 class="teamName">{{ .Title }}</h3>
+        {{if .Params.position}}
+        <div class="teamPositions">{{.Params.position}}</div>
+        {{end}}
+        {{if .Params.career}}
+        <div class="teamCareer">{{.Params.career}}</div>
+        {{end}}
+    </div>
+    </div>
+    <div class="teamContent">{{ .Content }}</div>
+    </div>
+</div>

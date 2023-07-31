@@ -1,0 +1,36 @@
+<section class="home-slider" id="banner">
+    <div class="banner-slides flexslider">
+        <ul class="slides clearfix">
+            {{ range first 3 (where (where .Site.RegularPages "Type" "updates") ".Params.featured" "=" true) }}
+            <li>
+                <div class="banner-slide">
+                    {{if .Params.image}}
+                    <div class="banner-image bg-image"><img src="{{.Params.image}}" alt="{{.Title}} Img" /></div>
+                    {{end}}
+                    <div class="container">
+                        <div class="row">
+                            <div class="col col-12 col-md-7">
+                                <div class="headline">
+                                    <div class="bannerMeta"> <strong>Featured In The News</strong> <span>-</span> <div class="date">{{ .Date.Format "1.02.2006" }} </div> </div>
+                                </div>
+                                <h2> {{.Title}}</h2>
+                                <div class="bannerTxt">
+                                    {{.Summary}}
+                                </div>
+                                <div class="bannerBtns">
+                                    <a href="{{.Permalink}}" class="button btn-outline">View Now On <i class="fa-brands fa-youtube"></i> Youtube →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            {{end}}
+        </ul>
+    </div>
+    <div class="slider-controls">
+        <div class="container">
+            <div class="custom-controls-container"></div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,154 @@
+{{ partial "head.html" . }}
+
+<body {{ if .Params.id }} id='{{ .Params.id }}' {{end}} class="single-focus">
+
+    {{ partial "header.html" . }}
+
+    <section id="banner">
+        {{if .Params.image}}
+        <div class="banner-image bg-image"><img src="{{.Params.image}}" /></div>
+        {{end}}
+        {{if .Params.banner_video}}
+        <div class="banner-image bg-image video-wrapper">
+            <iframe src="https://player.vimeo.com/video/{{.Params.banner_video}}?background=1&muted=1" frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture" frameborder="0" webkitallowfullscreen
+                mozallowfullscreen allowfullscreen></iframe>
+            <script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+        {{end}}
+        <div class="container">
+            <div class="row">
+                <div class="col col-12 col-md-7 col-lg-5 bannerTxtCol">
+                    <div class="bannerTxtBx animated fadeIn">
+                        <div class="postMeta">
+                            <div class="backBtn">
+                                <a href='{{ "/focus/" | relURL }}'
+                                    class="button btn-xs text-transform-none btn-outline-white">
+                                    ← Back to All Focus Areas
+                                </a>
+                            </div>
+                        </div>
+                        <h2>
+                            {{if .Params.banner_title}}
+                            {{.Params.banner_title|safeHTML}}
+                            {{ else}}
+                            {{ .Title | safeHTML }}
+                            {{end}}
+                        </h2>
+                        {{if .Params.banner_tagline}}
+                        <div class="bannerTagline">
+                            {{.Params.banner_tagline | safeHTML}}
+                        </div>
+                        {{end}}
+                        {{if .Params.banner_cta}}
+                        <div class="bannerCTA">{{ .Params.banner_cta|safeHTML}}</div>
+                        {{end}}
+                        <div class="bannerBtns">
+                            <a href="#policy-memorandums" class="button btn-outline">Explore Our policy memorandums
+                                →</a>
+                        </div>
+                        {{ if or (.Params.pdf) (.Params.banner_link_label) }}
+                        <div class="bannerBtns">
+                            {{ if .Params.pdf}}
+                            <a class="button btn-xs" href="{{.Params.pdf}}" target="_blank">View / Donload PDF</a>
+                            {{end}}
+                            {{ if .Params.banner_link_label}}
+                            <a class="button btn-blank" href="{{.Params.banner_link}}">{{.Params.banner_link_label |
+                                safeHTML}}</a>
+                            {{end}}
+                        </div>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <main>
+        <div class="container aos-item" data-aos="fade">
+            <div class="row flex reverse">
+                {{if .Params.section_img}}
+                <div class="col col-12 col-md-5">
+                    <div class="sectionImg"><img src="{{.Params.section_img}}" alt="{{.Title}} Image" />
+                    </div>
+                </div>
+                {{end}}
+                <div class="col col-12 col-md-7">
+                    <div class="sectionTxtBx">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    {{if .Params.accordions}}
+    <section id="focus-accordions">
+        <div class="container aos-item" data-aos="fade">
+            <div class="accordion">
+                {{ $myVar := .Params.accordions }}
+                {{ $mgatag := index site.Taxonomies.accordion_categories }}
+                {{ range $k, $v := $mgatag }}
+                {{ if eq $k $myVar }}
+                {{ range $v.Pages }}
+                <div class="accordionBx">
+                    <div class="accordionQ"><span>{{.Title | safeHTML}}</span></div>
+                    <div class="accordionA"><div class="accordionContent">{{.Content | safeHTML}}</div></div>
+                </div>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{end}}
+
+    {{if .Params.memorandums}}
+    <section id="policy-memorandums">
+        <div class="container aos-item" data-aos="fade">
+            <div class="headline">
+                <h2>Policy Memorandums</h2>
+            </div>
+            <div class="memorandums_all">
+                {{ $memorandumsVar := .Params.memorandums }}
+                {{ $memorandumstag := index site.Taxonomies.memorandum_categories }}
+                {{ range $k, $v := $memorandumstag }}
+                {{ if eq $k $memorandumsVar }}
+                {{ range $v.Pages }}
+                {{ partial "memorandum-entry.html" . }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{end}}
+
+    {{if .Params.updates}}
+    <section id="focus-updates">
+        <div class="container aos-item" data-aos="fade">
+            <div class="headline">
+                <h2>Latest Updates</h2>
+            </div>
+            <div class="row entries_all entries_shortcode">
+                {{ $updatesVar := .Params.updates }}
+                {{ $updatestag := index site.Taxonomies.categories }}
+                {{ range $k, $v := $updatestag }}
+                {{ if eq $k $updatesVar }}
+                {{ range $v.Pages }}
+                {{ partial "news-entry-alt.html" . }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{end}}
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

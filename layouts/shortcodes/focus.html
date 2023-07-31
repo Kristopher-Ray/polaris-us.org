@@ -1,0 +1,3 @@
+{{ range (where .Site.RegularPages "Type" "focus") }}
+{{ partial "entry-focus.html" . }}
+{{end}}

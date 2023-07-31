@@ -1,0 +1,27 @@
+{{ with .Site.GetPage "/sections" }}
+{{ with .GetPage "home-help-us.md" }}
+<section id="{{ .Params.id }}" class="facts-section">
+    {{ if .Params.image }}
+    <div class="bg-image">
+        <img src='{{ .Params.image }}' class="lazy img-fluid" alt="{{ .Site.Title }} - {{ .Title }} Image">
+    </div>
+    {{end}}
+    {{ if .Params.vimeobg }}
+    <div class="video-wrapper"><iframe src="https://player.vimeo.com/video/{{.Params.vimeobg}}?background=1&muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
+    {{end}}
+    <div class="container">
+        <div class="row {{ .Params.position }} ">
+            {{if .Params.section_image}}
+            <div class="col sectionImgCol">
+                <img src="{{.Params.section_image}}"/>
+            </div>
+            {{end}}
+            <div class="col col-12 sectionColTxt {{ .Params.size }}" >
+                <div class="sectionTxtBx">
+                {{ .Content }}</div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

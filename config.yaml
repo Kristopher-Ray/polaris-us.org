@@ -1,8 +1,12 @@
 baseURL:
 languageCode: en-us
-title: Naked Hugo
+title: Polaris National Security
 taxonomies:
   category: categories
+  tag: tags
+  memorandum_category: memorandum_categories
+  accordion_category: accordion_categories
+  team_category: team_categories
   section_category: section_categories
 enableRobotsTXT: true
 paginate: 1
@@ -10,10 +14,11 @@ params:
   twitter_user: kris_ray
   twitter_link: https://twitter.com/
   facebook_link: http://www.facebook.com/
-  instagram_link: https://www.instagram.com/
+  youtube_link: https://www.youtube.com/
   #google_analytics: UA-
-  paid_for: Paid for by Language - Kristopher Ray Creative
+  paid_for: Paid for by Polaris National Security
   form_endpoint: 123456
+  donate_link: /#
 markup:
   goldmark:
     extensions:
@@ -38,9 +43,31 @@ markup:
       xhtml: false
 menu:
   main:
+    - name: Our Focus
+      url: /focus
+      weight: 10
+    - name: Updates
+      url: /updates
+      weight: 20
+    - name: About
+      url: /about
+      weight: 30
+    - name: Contact
+      url: /contact
+      weight: 40
+  footer:
     - name: Home
       url: /
-      weight: -20
-    - name: News
-      url: /news/
-      weight: -10
+      weight: 10
+    - name: Our Focus
+      url: /focus
+      weight: 20
+    - name: Updates
+      url: /updates
+      weight: 30
+    - name: About
+      url: /about
+      weight: 40
+    - name: Contact
+      url: /contact
+      weight: 50

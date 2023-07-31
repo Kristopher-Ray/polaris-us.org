@@ -1,0 +1,48 @@
+{{ $myPermalink := .Permalink }}
+<section class="focus-section">
+    {{ if .Params.image }}
+    <div class="bg-image">
+        <img src='{{ .Params.image }}' class="lazy img-fluid" alt="{{ .Site.Title }} - {{ .Title }} Image">
+    </div>
+    {{end}}
+    <div class="container">
+        <div class="row">
+            <div class="col col-12 col-md-7">
+                <div class="sectionTxtBx">
+                    <h2 class="primaryTitle">{{.Title}}</h2>
+                    {{if .Summary}}
+                    <p>{{ .Summary | safeHTML }}</p>
+                    {{end}}
+                    <div class="section-btn">
+                        <a href="{{.Permalink}}" class="button btn-outline">
+                            {{if .Params.btn_label}}
+                            {{.Params.btn_label}}
+                            {{else}}
+                            Learn More →
+                            {{end}}
+                        </a>
+                    </div>
+                    {{if .Params.memorandums}}
+                    <div class="section-memorandums">
+                        <ul class="memorandums-list">
+                            {{ $memorandumsVar := .Params.memorandums }}
+                            {{ $memorandumstag := index site.Taxonomies.memorandum_categories }}
+                            {{ range $k, $v := $memorandumstag }}
+                            {{ if eq $k $memorandumsVar }}
+                            {{ range $v.Pages }}
+                            <li>
+                                <a class="button btn-xs btn-white-opacity"
+                                    href="{{$myPermalink}}#{{ .File.ContentBaseName }}">{{.Title}}</a>
+                            </li>
+                            {{ end }}
+                            {{ end }}
+                            {{ end }}
+                        </ul>
+                    </div>
+                    {{end}}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

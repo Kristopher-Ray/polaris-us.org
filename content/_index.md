@@ -10,6 +10,7 @@ banner_video: 845939562
 banner_btn_label: Call to Action →
 sitemap:
   priority: 1
+id: home
 ---
 
 ## Single Home Section Lightbox Plain Content

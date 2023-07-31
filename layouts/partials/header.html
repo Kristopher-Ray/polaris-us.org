@@ -1,18 +1,18 @@
 <div id="preloader"></div>
 
 <header aria-label="header">
-
-    <a href='{{ "/" | relURL }}' id="headerLogo"><img src='{{ "img/logo.svg" | relURL }}' alt="{{ .Site.Title }} Logo"></a>
-
+<div id="headerLogo">
+    <a href='{{ "/" | relURL }}'><img src='{{ "img/logo.svg" | relURL }}' alt="{{ .Site.Title }} Logo"></a>
+</div>
     <nav role="navigation" aria-label="menu">
         <a href="javascript:void(0)" id="toggle-menu"><i class="fa fa-bars"></i>&nbsp; Menu</a>
         <ul>
             {{ partial "menu.html" . }}
-            {{ partial "social.html" . }}
-            <li>
-                <a href="#formSection" class="button">Button &rsaquo;</a>
-            </li>
         </ul>
     </nav>
+
+    {{if .Site.Params.donate_link}}
+    <div id="headerBtn"><a href="{{.Site.Params.donate_link}}" class="button">DONATE →</a></div>
+    {{end}}
 
 </header>

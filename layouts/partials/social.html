@@ -1,3 +1,4 @@
+<ul class="social-share">
 {{ if isset .Site.Params "facebook_link" }}
 <li class="social"><a href="{{ .Site.Params.facebook_link }}" target=_blank><i class="fab fa-facebook" aria-hidden="true" title="facebook link"></i><span class="sr-only">Facebook</span></a></li>
 {{ else }}{{ end }}
@@ -13,3 +14,4 @@
 {{ if isset .Site.Params "youtube_link" }}
 <li class="social"><a href="{{ .Site.Params.youtube_link }}" target=_blank><i class="fab fa-youtube" aria-hidden="true" title="youtube link"></i><span class="sr-only">Youtube</span></a></li>
 {{ else }}{{ end }}
+</ul>

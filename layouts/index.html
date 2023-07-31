@@ -1,23 +1,15 @@
 {{ partial "head.html" . }}
 
-<body id="home">
+<body {{ if .Params.id }} id='{{ .Params.id }}'{{end}}>
 
 {{ partial "header.html" . }}
 
+{{ partial "home-slider.html" . }}
 
-<section id="banner" role="banner">
 
-    {{if .Params.banner_image}} 
-    <div class="banner-image bg-image"><img src="{{.Params.banner_image}}" /></div>
-    {{end}}
+<!--<section id="banner" role="banner">
 
-    {{if .Params.banner_video}} 
-    <div class="banner-image bg-image video-wrapper">
-        <iframe src="https://player.vimeo.com/video/{{.Params.banner_video}}?background=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        <script src="https://player.vimeo.com/api/player.js"></script>
-    </div>
-    {{end}}
-
+    
     <div class="container">
         <div class="row">
             <div class="col col-12 col-md-8 col-lg-8 bannerTxtCol">
@@ -52,27 +44,12 @@
         </div>
     </div>
 
-</section>
+</section> -->
 
-{{ partial "client-logos.html" . }}
 
 
 <main role="main" class="main-sections">
 
-    <section id="signup">
-        <div class="container">
-            
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h2 class="mb-3">
-                        <a href="#signup">Sign Up for Updates</a>
-                    </h2>
-                </div>
-            </div>
-            {{ partial "signup.html" .}}
-    
-        </div>
-    </section>
 
     {{ $myVar := .Params.sections }}
     {{ $mgatag := index site.Taxonomies.section_categories }}
@@ -110,20 +87,6 @@
         {{ end }}
 </main>
 
-<div id="inquire" class="mfp-hide">
-
-    <div class="container">
-
-        <div class="row">
-            <div class="col text-center">
-                {{ .Content }}
-            </div>
-        </div>
-    </div>
-
-</div>
-
-{{ partial "latest-news.html" . }}
 
 {{ partial "footer.html" . }}
 
