@@ -1,7 +1,7 @@
 ---
 title: China’s Technological and Societal Threat
 accordion_categories:
-   - Staying Tough On China
+   - China
 weight: 5
 ---
 

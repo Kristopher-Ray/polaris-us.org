@@ -12,13 +12,14 @@ enableRobotsTXT: true
 paginate: 1
 params:
   twitter_user: kris_ray
-  twitter_link: https://twitter.com/
-  facebook_link: http://www.facebook.com/
-  youtube_link: https://www.youtube.com/
+  twitter_link: https://www.twitter.com/polarisnatsec
+  facebook_link: https://www.facebook.com/101769448776724
+  instagram_link: https://www.instagram.com/polarisnatsec/
+  youtube_link: https://www.youtube.com/channel/UCtGcOmOrtHtPFyjdzwGGvpA
   #google_analytics: UA-
   paid_for: Paid for by Polaris National Security
   form_endpoint: 123456
-  donate_link: /#
+  donate_link: https://secure.winred.com/polaris-national-security-pac/donate
 markup:
   goldmark:
     extensions:

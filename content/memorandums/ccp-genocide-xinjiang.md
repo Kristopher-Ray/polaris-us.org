@@ -4,7 +4,7 @@ summary: Since 2014, the CCP has placed over one million Muslims of the Uyghur m
 image: /img/memorandums/img_ccp-genocide-xinjiang.png
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
-   - Staying Tough On China
+   - China
 weight: 4
 ---
 

@@ -4,7 +4,7 @@ summary: The rapid Chinese military build-up has outpaced U.S. intelligence and 
 image: /img/memorandums/img_chinese_military_buildup.png
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
-   - Staying Tough On China
+   - China
 weight: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: China’s Military is Almost Beating Ours
 accordion_categories:
-   - Staying Tough On China
+   - China
 weight: 3
 ---
 

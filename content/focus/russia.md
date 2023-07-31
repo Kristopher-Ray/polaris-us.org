@@ -1,13 +1,13 @@
 ---
-title: Confronting the Threat of Iran
-summary: Biden wants to give Iran, the world's leading state sponsor of terrorism, a $90 billion bailout and a clear path to a nuclear weapon. The only way to stop Biden is for Congress to stand firm and block sanctions relief.
-image: /img/focus/img_confronting-the-threat-of-iran.jpg
+title: Standing Up To Russia
+summary: After years of talk, Biden has failed to deter Putin's invasion of Ukraine. Instead, behind the scenes he has given concessions to Russia. So much for standing up to tyranny.
+image: /img/focus/img_standing-up-to-russia.jpg
 section_img: /img/focus/section_img.png
-btn_label: Find out what Biden is planning and how to stop it →
-memorandums: "confronting-threat-of-iran"
-accordions: "confronting-threat-of-iran"
-updates: "confronting-threat-of-iran"
-weight: 2
+btn_label: Read about how to help stop the spread of tyranny abroad →
+memorandums: "russia"
+accordions: "russia"
+updates: "russia"
+weight: 3
 ---
 
 

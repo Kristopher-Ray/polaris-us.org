@@ -1,8 +1,8 @@
 ---
-title: Updates
-banner_title: Our Latest Updates
+title: Memorandums
+banner_title: Our Memorandums
 description: >-
-   Description
+   Explore Polaris National Security's Latest Policy Memorandums
 sitemap:
   priority: 0.8
 ---

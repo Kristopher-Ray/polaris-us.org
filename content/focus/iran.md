@@ -1,13 +1,13 @@
 ---
-title: Biden’s Border Crisis
-summary: President Biden has created a disastrous border crisis that threatens the security of Americans, and it’s only getting worse. Thousands of Americans are dying because of the humanitarian, drug, and crime crises at the U.S./Mexico border. Yet, the Biden administration continues to defend their dangerous policies.
-image: /img/focus/img_bidens-border-crisis.jpg
+title: Confronting the Threat of Iran
+summary: Biden wants to give Iran, the world's leading state sponsor of terrorism, a $90 billion bailout and a clear path to a nuclear weapon. The only way to stop Biden is for Congress to stand firm and block sanctions relief.
+image: /img/focus/img_confronting-the-threat-of-iran.jpg
 section_img: /img/focus/section_img.png
-btn_label: Learn more about the dangers of a wide-open border →
-memorandums: "bidens-border-crisis"
-accordions: "bidens-border-crisis"
-updates: "bidens-border-crisis"
-weight: 4
+btn_label: Find out what Biden is planning and how to stop it →
+memorandums: "iran"
+accordions: "iran"
+updates: "iran"
+weight: 2
 ---
 
 

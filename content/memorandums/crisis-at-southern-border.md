@@ -4,7 +4,7 @@ summary: China’s growing authoritarian role in the world runs directly counter
 image: /img/memorandums/img_why-defending-taiwan-matters.png
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
-   - Biden’s Border Crisis
+   - Border Crisis
 weight: 1
 ---
 

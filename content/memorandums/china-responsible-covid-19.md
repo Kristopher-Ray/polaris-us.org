@@ -4,7 +4,7 @@ summary: The Chinese Communist Party lied, engaged in a cover-up, and bullied an
 image: /img/memorandums/img_china-responsible-covid-19.png
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
-   - Staying Tough On China
+   - China
 weight: 2
 ---
 

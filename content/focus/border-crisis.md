@@ -1,13 +1,13 @@
 ---
-title: Standing Up To Russia
-summary: After years of talk, Biden has failed to deter Putin's invasion of Ukraine. Instead, behind the scenes he has given concessions to Russia. So much for standing up to tyranny.
-image: /img/focus/img_standing-up-to-russia.jpg
+title: Biden’s Border Crisis
+summary: President Biden has created a disastrous border crisis that threatens the security of Americans, and it’s only getting worse. Thousands of Americans are dying because of the humanitarian, drug, and crime crises at the U.S./Mexico border. Yet, the Biden administration continues to defend their dangerous policies.
+image: /img/focus/img_bidens-border-crisis.jpg
 section_img: /img/focus/section_img.png
-btn_label: Read about how to help stop the spread of tyranny abroad →
-memorandums: "standing-up-to-russia"
-accordions: "standing-up-to-russia"
-updates: "standing-up-to-russia"
-weight: 3
+btn_label: Learn more about the dangers of a wide-open border →
+memorandums: "border-crisis"
+accordions: "border-crisis"
+updates: "border-crisis"
+weight: 4
 ---
 
 

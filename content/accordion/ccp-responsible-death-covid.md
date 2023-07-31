@@ -1,7 +1,7 @@
 ---
 title: The CCP is responsible for every death from COVID
 accordion_categories:
-   - Staying Tough On China
+   - China
 weight: 1
 ---
 

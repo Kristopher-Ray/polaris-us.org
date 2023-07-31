@@ -17,4 +17,4 @@ section_categories:
 - Something else you can give?
 {.checklist .pt-2 .mt-1}
 
-<a href="#" class="button btn-big mt-3">Make A Contribution →</a>
+<a href="https://secure.winred.com/polaris-national-security-pac/donate" class="button btn-big mt-3">Make A Contribution →</a>

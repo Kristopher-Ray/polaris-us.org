@@ -1,7 +1,7 @@
 ---
 title: Why We Need to Defend Taiwan
 accordion_categories:
-   - Staying Tough On China
+   - China
 weight: 4
 ---
 

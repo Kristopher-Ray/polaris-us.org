@@ -1,5 +1,5 @@
 <div class="row entries_all entries_shortcode">
 {{ range first 3 (where .Site.RegularPages "Type" "updates") }}
-{{ partial "news-entry-alt.html" . }}
+{{ partial "news-entry.html" . }}
 {{end}}
 </div>

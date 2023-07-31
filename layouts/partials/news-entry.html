@@ -17,8 +17,10 @@
                     {{- if ne $idx 0 }} <span>,</span> {{ end }}<a href='{{ "/categories/" | relURL }}{{ $category | urlize }}'>{{ $category }}</a>
                     {{- end }}
                 </div>
+                {{ if .Params.Date }}
                 <span>-</span>
                 <div class="date">{{ .Date.Format "01.02.2006" }} </div> 
+                {{end}}
             </div>
         </div>
         <div class="entry-content">

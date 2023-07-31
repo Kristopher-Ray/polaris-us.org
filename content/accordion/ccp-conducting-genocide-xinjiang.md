@@ -1,7 +1,7 @@
 ---
 title: The CCP is conducting a genocide in Xinjiang
 accordion_categories:
-   - Staying Tough On China
+   - China
 weight: 2
 ---
 

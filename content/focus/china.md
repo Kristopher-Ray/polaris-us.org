@@ -4,8 +4,8 @@ summary: China is committing genocide in Xinjiang and throwing Hong Kong disside
 image: /img/focus/img_staying_tough_on_china.jpg
 section_img: /img/focus/section_img.png
 btn_label: Learn how America can push back on China →
-memorandums: "staying-tough-on-china"
-accordions: "staying-tough-on-china"
+memorandums: "china"
+accordions: "china"
 updates: "china"
 weight: 1
 ---

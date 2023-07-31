@@ -136,7 +136,7 @@
                 {{ range $k, $v := $updatestag }}
                 {{ if eq $k $updatesVar }}
                 {{ range $v.Pages }}
-                {{ partial "news-entry-alt.html" . }}
+                {{ partial "news-entry.html" . }}
                 {{ end }}
                 {{ end }}
                 {{ end }}
