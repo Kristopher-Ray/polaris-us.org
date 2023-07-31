@@ -828,7 +828,7 @@ header {
     padding-top: 0;
     padding-bottom: 0.35em;
     color: #e7ebf6;
-    font-family: Bebas Neue;
+    font-family: $bebas-font;
     font-size: 1.722rem;
     font-style: normal;
     font-weight: 700;
@@ -842,7 +842,7 @@ header {
     display: flex;
     align-items: center;
     color: #fff;
-    font-family: Bebas Neue;
+    font-family: $bebas-font;
     font-size: 1.55rem;
     font-style: normal;
     font-weight: 375;
@@ -1586,7 +1586,7 @@ ul.slides {
       .bannerTagline {
         padding-top: 0.6em;
         color: #e7ebf6;
-        font-family: Bebas Neue;
+        font-family: $bebas-font;
         font-size: 1.722rem;
         font-style: normal;
         font-weight: 700;
@@ -1671,7 +1671,7 @@ ul.checklist {
   list-style: none;
   color: #666;
   li {
-    font-family: Bebas Neue;
+    font-family: $bebas-font;
     font-size: 1.722rem;
     font-style: normal;
     font-weight: 700;
