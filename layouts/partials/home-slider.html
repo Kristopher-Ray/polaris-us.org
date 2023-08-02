@@ -18,7 +18,11 @@
                                     {{.Summary}}
                                 </div>
                                 <div class="bannerBtns">
-                                    <a href="{{.Permalink}}" class="button btn-outline">View Now On <i class="fa-brands fa-youtube"></i> Youtube →</a>
+                                    {{ if .Params.cta }}
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-outline">{{.Params.cta | safeHTML}}</a>
+                                    {{else}}
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-outline">View Now →</a>
+                                    {{end}}
                                 </div>
                             </div>
                         </div>

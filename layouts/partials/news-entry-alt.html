@@ -26,11 +26,11 @@
         <div class="entry-content">
             <p>{{ .Summary | safeHTML | truncate 120 }}</p>
 
-            {{ if .Params.outbound }}
-            <a href="{{ .Params.outbound }}" target="_blank" class="button btn-xs">READ MORE →</a>
-            {{else}}
-            <a href="{{ .Permalink }}" class="button  btn-xs">READ MORE →</a>
-            {{end}}
+            {{ if .Params.cta }}
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-xs">{{.Params.cta | safeHTML}}</a>
+                                    {{else}}
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-xs">View Now →</a>
+                                    {{end}}
         </div>
     </div>
 </div>

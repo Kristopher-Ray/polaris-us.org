@@ -2005,14 +2005,26 @@ ul.list-spacing {
     h6 {
       margin-top: 0;
     }
+
     .container {
       max-width: 822px;
     }
     .entry {
       margin-top: -1.6rem;
       padding: 40px;
+
+      h2 {
+        text-transform: uppercase;
+        color: $action-color;
+      }
       p {
         margin-bottom: 0.8em;
+      }
+
+      ul {
+        li {
+          margin-bottom:16px;
+        }
       }
 
       img {
@@ -2090,6 +2102,12 @@ ul.list-spacing {
       position: relative;
       .accordionContent {
         max-width: 780px;
+
+        ul {
+          li {
+            margin: 0 0 16px;
+          }
+        }
       }
       p,
       ul {

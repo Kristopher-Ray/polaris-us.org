@@ -5,7 +5,7 @@ taxonomies:
   category: categories
   tag: tags
   memorandum_category: memorandum_categories
-  accordion_category: accordion_categories
+  faqs_category: faqs_categories
   team_category: team_categories
   section_category: section_categories
 enableRobotsTXT: true

@@ -87,7 +87,7 @@
         <div class="container aos-item" data-aos="fade">
             <div class="accordion">
                 {{ $myVar := .Params.accordions }}
-                {{ $mgatag := index site.Taxonomies.accordion_categories }}
+                {{ $mgatag := index site.Taxonomies.faqs_categories }}
                 {{ range $k, $v := $mgatag }}
                 {{ if eq $k $myVar }}
                 {{ range $v.Pages }}

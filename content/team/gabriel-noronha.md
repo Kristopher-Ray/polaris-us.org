@@ -8,8 +8,6 @@ team_categories:
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porta in odio eu euismod. Curabitur vehicula nisi eget vestibulum mattis. Pellentesque vehicula turpis sed velit dignissim, vel mattis lectus viverra. Aenean eget lacus molestie, dignissim sem quis, cursus metus. Suspendisse nec est sit amet quam maximus egestas id sed diam. Cras dapibus dolor vel sapien facilisis, id ultricies lorem elementum. Integer vitae mi rhoncus, faucibus urna et, facilisis ligula. 
- 
-Vivamus suscipit luctus sapien, et sodales sapien pharetra nec. Nam eleifend erat nisi. Ut ut scelerisque purus. Nunc rutrum erat libero, euismod lacinia lacus ornare at. Proin in tincidunt nibh, mollis maximus magna. Quisque ac semper felis, quis viverra odio. Mauris lectus massa, sollicitudin ac lacinia sit amet, sollicitudin eu sem. 
- 
-Proin egestas quam eget ligula tincidunt imperdiet. Praesent rhoncus massa nec lacus ullamcorper sagittis.
+Gabriel Noronha is the Executive Director of POLARIS National Security. From 2019 to 2021, he served as Special Advisor for the Iran Action Group at the U.S. Department of State, where he coordinated policy and directed the Department's communications and congressional affairs for Iran. Gabriel Noronha
+
+From 2017-2019, he worked as the Special Assistant for the Senate Armed Services Committee under Chairmen John McCain and Jim Inhofe, helping write and pass Congress’ annual national security legislation. Gabriel worked for U.S. Senator Kelly Ayotte from 2015-2016. He is also a fellow in JINSA's Gemunder Center for Defense and Strategy. He previously served as Executive Director of the Forum for American Leadership and works on a range of national security and political projects. Gabriel speaks and conducts research in Russian, Mandarin, and Spanish.

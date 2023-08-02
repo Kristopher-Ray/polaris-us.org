@@ -1,8 +1,8 @@
 ---
-title: The CCP is conducting a genocide in Xinjiang
-accordion_categories:
+title: China’s Technological and Societal Threat
+faqs_categories:
    - China
-weight: 2
+weight: 5
 ---
 
 - China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
@@ -10,4 +10,3 @@ weight: 2
 - Here’s what we know: that China arrested scientists and doctors who tried to warn about the dangers of COVID. We know they lied to the World Health Organization about how deadly the disease was. We know they shredded and burned thousands of documents at the Wuhan Institute of Virology right after this disease emerged.
 - The Chinese Communist Party enabled COVID to escape China and infect the world, killing nearly a million Americans. They must be held accountable. Unfortunately, the Biden Administration isn’t putting pressure on China to tell the truth. One of Biden first acts as president was to shut down the State Department’s investigation of COVID’s origin.
 - Worse, he rejoined the World Health Organization and gave them $200M even when they helped China cover up the investigation and claimed China was doing everything right.
-{.list-spacing}

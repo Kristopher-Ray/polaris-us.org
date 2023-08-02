@@ -4,6 +4,7 @@ summary: Our nation has a debt problem fueled by out-of-control welfare programs
 image: /img/updates/img-statement-on-debt-ceiling-agreement.png
 author: POLARIS Founder, Morgan Ortagus
 date: 2023-07-28
+draft: true
 categories:
    - In The Press
 ---

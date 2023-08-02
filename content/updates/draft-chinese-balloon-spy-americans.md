@@ -1,11 +1,13 @@
 ---
-title: Morgan Ortagus joins Varney & Co. to discuss President Biden's deterrence failures.
-summary: Morgan Ortagus joins Varney & Co. on Fox Business to discuss the Biden Administration's failure to deter Russia's invasion of Ukraine and how we cannot afford to make the same mistake with China.
-image: /img/updates/morgan-ortagus.png
+title: Chinese Balloon Used American Tech to Spy on Americans
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies lectus id eleifend fringilla. Vivamus facilisis, lorem eget pellentesque tempus, neque nulla hendrerit erat, vel consequat tellus mi nec elit. Curabitur id dolor eget dui ultricies vulputate vitae in elit neque nulla hendrerit erat.
+#image: /img/updates/img-statement-on-debt-ceiling-agreement.png
 author: POLARIS Founder, Morgan Ortagus
-date: 2023-05-26
+outbound: https://google.com
+date: 2023-07-27
+draft: true
 categories:
-   - In The Press
+   - China
 ---
 
 Our nation has a debt problem fueled by out-of-control welfare programs and decades of irresponsible decisions. We must spend less. Speaker McCarthy earned some important concessions from the White House to cap Democrats’ relentless waste and transparent attempts to buy votes on the backs of American taxpayers.

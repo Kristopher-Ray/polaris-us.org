@@ -8,8 +8,10 @@ team_categories:
 weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porta in odio eu euismod. Curabitur vehicula nisi eget vestibulum mattis. Pellentesque vehicula turpis sed velit dignissim, vel mattis lectus viverra. Aenean eget lacus molestie, dignissim sem quis, cursus metus. Suspendisse nec est sit amet quam maximus egestas id sed diam. Cras dapibus dolor vel sapien facilisis, id ultricies lorem elementum. Integer vitae mi rhoncus, faucibus urna et, facilisis ligula. 
- 
-Vivamus suscipit luctus sapien, et sodales sapien pharetra nec. Nam eleifend erat nisi. Ut ut scelerisque purus. Nunc rutrum erat libero, euismod lacinia lacus ornare at. Proin in tincidunt nibh, mollis maximus magna. Quisque ac semper felis, quis viverra odio. Mauris lectus massa, sollicitudin ac lacinia sit amet, sollicitudin eu sem. 
- 
-Proin egestas quam eget ligula tincidunt imperdiet. Praesent rhoncus massa nec lacus ullamcorper sagittis.
+Jeremy Hunt is senior advisor to POLARIS and a media fellow at The Hudson Institute.
+
+In 2015, Mr. Hunt graduated from the United States Military Academy at West Point. He commissioned as an active-duty military intelligence officer, stationed in South Georgia. During that time, he deployed to Ukraine, where he was part of a multi-national mission to train the Ukrainian Armed Forces. Mr. Hunt eventually rose to the rank of captain and now serves in the US
+
+Army Inactive Ready Reserve as he completes his final year at Yale Law School. A recent US congressional candidate, Mr. Hunt has written thought-provoking commentary on military service, race relations, and other national issues. His work has appeared in the Washington Post, Fox News, the New York Post, and The Hill. He frequently appears as a guest commentator on Fox News Channel.
+
+Above all, Mr. Hunt most enjoys spending time with his wife, Ky, and three-year-old daughter, Kinsley.
