@@ -6,4 +6,5 @@ pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
    - Russia
 weight: 1
+visible: true
 ---

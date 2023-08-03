@@ -6,4 +6,5 @@ pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
    - Iran
 weight: 1
+visible: true
 ---

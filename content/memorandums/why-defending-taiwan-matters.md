@@ -6,5 +6,6 @@ pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
    - China
 weight: 3
+visible: true
 ---
 

@@ -6,9 +6,11 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=ttEIFAUDGUY
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 date: 2023-06-22
+visible: true
 categories:
    - Featured In
 featured: true
+visible: true
 ---
 
 {{< youtube xk5C2TECxtQ >}}

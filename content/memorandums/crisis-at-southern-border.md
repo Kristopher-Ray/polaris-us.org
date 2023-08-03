@@ -6,4 +6,5 @@ pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 memorandum_categories:
    - Border Crisis
 weight: 1
+visible: true
 ---

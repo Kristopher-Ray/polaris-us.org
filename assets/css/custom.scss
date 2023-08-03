@@ -435,13 +435,13 @@ section {
   }
 }
 
-.row {
-  margin: 0 -20px;
-  .col {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
+// .row {
+//   margin: 0 -20px;
+//   .col {
+//     padding-left: 20px;
+//     padding-right: 20px;
+//   }
+// }
 .container {
   position: relative;
   padding-left: 20px;
@@ -892,8 +892,12 @@ form {
         top: 0.5em;
       }
     }
+    textarea {
+      color: #333;
+      font-size:1em;
+      border:none;
+    }
     input,
-    textarea,
     select {
       background: #fff;
       border: none;
@@ -2190,5 +2194,12 @@ ul.list-spacing {
   .col {
     padding-top: 1.2rem;
     margin-bottom: 1.5rem;
+  }
+}
+
+
+#page-contact {
+  main {
+    color:#333;
   }
 }

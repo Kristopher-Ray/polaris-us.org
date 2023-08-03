@@ -7,7 +7,9 @@ btn_label: Learn how America can push back on China →
 memorandums: "china"
 accordions: "china"
 updates: "china"
+slug: china
 weight: 1
+visible: true
 ---
 
 

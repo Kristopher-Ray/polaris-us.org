@@ -7,7 +7,9 @@ btn_label: Learn more about the dangers of a wide-open border →
 memorandums: "border-crisis"
 accordions: "border-crisis"
 updates: "border-crisis"
+slug: border-crisis
 weight: 4
+visible: true
 ---
 
 

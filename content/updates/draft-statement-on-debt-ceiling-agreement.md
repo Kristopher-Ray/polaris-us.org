@@ -5,6 +5,7 @@ image: /img/updates/img-statement-on-debt-ceiling-agreement.png
 author: POLARIS Founder, Morgan Ortagus
 date: 2023-07-28
 draft: true
+visible: true
 categories:
    - In The Press
 ---

@@ -1,66 +1,142 @@
-site_url: https://kristopherray.com
-display_url: https://kristopherray.com
-logo_url: https://kristopherray.com/img/login-logo.svg
+site_url: https://polaris-us.netlify.app
+display_url: https://polaris-us.netlify.app
+logo_url: https://polaris-us.netlify.app/img/login-logo.svg
 show_preview_links: false
 backend:
   name: git-gateway
-  repo: kristopherray/
+  repo: Kristopher-Ray/polaris-us.org
   branch: master
 # This line should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 public_folder: "/img"
 collections:
   - name: "home"
-    label: "Home"
+    label: "Home Page"
     files:
       - label: "Home Content and Settings"
         name: "home"
         file: "content/_index.md"
         fields:
-          - {label: "Meta Title / Banner Title", name: "title", widget: "string"}
-          - {label: "Description and Banner Text", name: "description", widget: "text", required: false}
-          - {label: "Lightbox Content", name: "body", widget: "markdown", required: false}
-  - name: "logos"
-    label: "Logo Carousel"
-    folder: "content/logos"
-    media_folder: '/static/img/logos'
-    public_folder: '/img/logos'
-    filter: {field: "visible", value: true}
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
-      - {label: "Logo Name / Title / Alt Tag", name: "title", widget: "string"}
-      - {label: "Logo Image", name: "image", widget: "image" }
-      - {label: "Order", name: "weight", widget: "number" }
-  - name: "home_sections"
-    label: "Home Sections"
-    folder: "content/home_sections"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Reference Title (hidden)", name: "title", widget: "string"}
-      - {label: "Section Content", name: "body", widget: "markdown"}
-      - {label: "Background Image", name: "image", widget: "image" }
-      - {label: "Order", name: "weight", widget: "number" }
-  - name: "news"
-    label: "News"
-    folder: "content/news"
-    media_folder: '/static/img/news'
-    public_folder: '/img/news'
+          - {label: "Meta Title / Banner Title", name: "metaTitle", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "text", required: false}
+  - name: "about"
+    label: "About Page"
+    files:
+      - label: "About Content and Settings"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - {label: "Meta Title", name: "metaTitle", widget: "string"}
+          - {label: "Meta Description", name: "description", widget: "text", required: false}
+          - {label: "Banner Title", name: "banner_title", widget: "string"}
+          - {label: "Banner Subtext", name: "banner_tagline", widget: "text", required: false}
+          - {label: "Banner Image", name: "banner_image", widget: "image", required: false }
+  - name: "updates"
+    label: "Updates"
+    folder: "content/updates"
+    media_folder: '/static/img/updates'
+    public_folder: '/img/updates'
     filter: {field: "visible", value: true}
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Featured?", name: "featured", widget: "boolean", default: false, required: false}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Description", name: "description", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Featured Image", name: "image", widget: "image" }
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Short Summary", name: "summary", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Outbound Link", name: "outbound", widget: "string", required: false}
+      - {label: "CTA (Button) Text", name: "cta", widget: "string", required: false}
+      - {label: "Categories (seperate by comma)", name: "categories", widget: "list", default: ["Featured In"], required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false }
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Update Body", name: "body", widget: "markdown", required: false}
+  - name: "focus"
+    label: "Our Focus Categories"
+    folder: "content/focus"
+    media_folder: '/static/img/focus'
+    public_folder: '/img/focus'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Order", name: "weight", widget: "number" }
+      - {label: "Page Banner Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Short Summary", name: "summary", widget: "string", required: false}
+      - {label: "CTA (Button) Text", name: "btn_label", widget: "string", required: false}
+      - {label: "Banner Image", name: "image", widget: "image", required: false }
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Focus Overview", name: "body", widget: "markdown", required: false}
+      - {label: "Configure Memorandums Category (lowercase, hyphenated, case-sensative)", name: "memorandums", widget: "string"}
+      - {label: "Configure FAQS Category (lowercase, hyphenated, case-sensative)", name: "accordions", widget: "string"}
+      - {label: "Configure Updates Category (lowercase, hyphenated, case-sensative)", name: "updates", widget: "string"}
+  - name: "faqs"
+    label: "Our Focus FAQS"
+    folder: "content/faqs"
+    media_folder: '/static/img/focus'
+    public_folder: '/img/focus'
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Order", name: "weight", widget: "number" }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Categories (seperate by comma)", name: "project_categories", widget: "list", default: ["Featured In"], required: false}
+      - {label: "Details", name: "body", widget: "markdown", required: false}
+  - name: "memorandums"
+    label: "Memorandums"
+    folder: "content/memorandums"
+    media_folder: '/static/img/memorandums'
+    public_folder: '/img/memorandums'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Order", name: "weight", widget: "number" }
+      - {label: "Categories (seperate by comma)", name: "memorandum_categories", widget: "list", required: false}
+      - {label: "Memorandum Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Short Summary", name: "summary", widget: "string", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false }
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Memorandum Overview", name: "body", widget: "markdown", required: false}
+  - name: "team"
+    label: "Team"
+    folder: "content/team"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Bio", name: "body", widget: "markdown"}
+      - {label: "Team Category (seperate by comma)", name: "memorandum_categories", widget: "list", default: ["Team"]}
+      - {label: "Profile Image", name: "image", widget: "image", required: false  }
+      - {label: "Order", name: "weight", widget: "number" }
+  - name: "sections"
+    label: "Custom Sections (Semi-Advanced)"
+    folder: "content/sections"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Reference Title (hidden)", name: "title", widget: "string"}
+      - {label: "Section Content", name: "body", widget: "markdown"}
+      - {label: "Image Pairing", name: "image", widget: "image", required: false  }
+      - {label: "Order", name: "weight", widget: "number" }
+      - {label: "Page Category (seperate by comma)", name: "section_categories", widget: "list"}
+      - {label: "Section Size", name: "size", widget: "string", required: false}
+      - {label: "Position", name: "position", widget: "string", required: false}
+      - {label: "Section ID", name: "id", widget: "string", required: false}
   - label: "Configuration"
     name: "configuration"
     files:
@@ -75,5 +151,6 @@ collections:
               - { label: "Twitter User", name: "twitter_user", widget: "string", required: false }
               - { label: "Facebook Link", name: "facebook_link", widget: "string", required: false }
               - { label: "Instagram Link", name: "instagram_link", widget: "string", required: false }
+              - { label: "Youtube Link", name: "youtube_link", widget: "string", required: false }
               - { label: "Paid For Language", name: "paid_for", widget: "string", required: false }
               - { label: "Form Endpoint", name: "form_endpoint", widget: "string", required: false }

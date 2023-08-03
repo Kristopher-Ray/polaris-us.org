@@ -5,15 +5,15 @@ sitemap:
   priority: 0
 ---
 
-Last modified: UPDATE DATE
+Last modified: 8/3/2023
 
 PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY. BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
 
-These Terms of Service and Use (“Terms”) apply to your access to and use of the websites, mobile sites and other online offerings (collectively, the “Website”) provided by CompanyName (the “Organization,” “we,” or “us”) that link to these Terms. By accessing or by using our Website, you agree to these Terms, and any terms incorporated by reference. If you do not agree to these Terms, do not use our Website.
+These Terms of Service and Use (“Terms”) apply to your access to and use of the websites, mobile sites and other online offerings (collectively, the “Website”) provided by Polaris National Security (the “Organization,” “we,” or “us”) that link to these Terms. By accessing or by using our Website, you agree to these Terms, and any terms incorporated by reference. If you do not agree to these Terms, do not use our Website.
 
 We may make changes to these Terms from time to time. If we make changes, we will provide you with notice of such changes, such as by sending an email, providing a notice through our Website or updating the date at the top of these Terms. Unless we say otherwise in our notice, the amended Terms will be effective immediately, and your continued use of our Website after we provide such notice will confirm your acceptance of the changes. If you do not agree to the amended Terms, you must stop using our Website.
 
-If you have any questions about these Terms or our Website, please contact us at info@CompanyURL.com.
+If you have any questions about these Terms or our Website, please contact us at info@Polaris-US.org.
 
 ### ADDITIONAL TERMS
 
@@ -23,7 +23,7 @@ For information about how we collect, use, share and otherwise process informati
 2. **Consent to Use of Data and Mobile Communication; SMS Program Terms**
 You consent to our communicating with you about the Website, the Organization and/or its activities by SMS, text message, email or other electronic means. Your carrier’s normal, messaging, data and other rates and fees will apply to these communications.
 If you subscribe to any text programs that the Organization makes available, the following terms apply:
-By subscribing to The Organization’s updates or alerts, you consent to receive periodic updates or alerts by automatic text message. Text STOP to stop. For Help, text HELP or contact us at info@CompanyURL.com. Message and data rates may apply. See the terms above.  Neither the Organization nor the participating carriers guarantee that messages will be delivered. The Organization may discontinue the program at any time without notice.
+By subscribing to The Organization’s updates or alerts, you consent to receive periodic updates or alerts by automatic text message. Text STOP to stop. For Help, text HELP or contact us at info@Polaris-US.org. Message and data rates may apply. See the terms above.  Neither the Organization nor the participating carriers guarantee that messages will be delivered. The Organization may discontinue the program at any time without notice.
 
 3. **User Content**
 Our Website may allow you and other users to create, post, store and share content, including messages, comments, stories, text, photos, graphics, videos, music, and other materials (collectively, “User Content”). Except for the license you grant below, you retain all rights in and to your User Content, as between you and the Organization.
@@ -62,13 +62,13 @@ Enforcement of this Section 4 is solely at the Organization’s discretion, and 
 The Website, including the text, graphics, images, photographs, videos, illustrations and other content contained therein, are owned by the Organization or our licensors and are protected under both United States and foreign laws. Except as explicitly stated in these Terms, all rights in and to the Website are reserved by us or our licensors. Subject to your compliance with these Terms, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to access and use our Website for your own personal, noncommercial use. Any use of the Website other than as specifically authorized herein, without our prior written permission, is strictly prohibited, will terminate the license granted herein and violate our intellectual property rights.
 
 6. **Trademarks**
-CompanyName and our logos, our product or service names, our slogans and the look and feel of the Website are trademarks of the Organization and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and The Organization’s names or logos mentioned on the Website are the property of their respective owners. Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
+Polaris National Security and our logos, our product or service names, our slogans and the look and feel of the Website are trademarks of the Organization and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and The Organization’s names or logos mentioned on the Website are the property of their respective owners. Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
 
 7. **Feedback**
 You may voluntarily post, submit or otherwise communicate to us any questions, comments, suggestions, ideas, original or creative materials or other information about the Organization or our Website (collectively, “Feedback”). You understand that we may use such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including, without limitation, to develop, copy, publish, or improve the Feedback in the Organization’s sole discretion. You understand that the Organization may treat Feedback as nonconfidential.
 
 8. **Repeat Infringer Policy; Copyright Complaints**
-In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, the access or accounts of users who repeatedly infringe the intellectual property rights of others. If you believe that anything on our Website infringes any copyright that you own or control, you may notify the Organization’s designated agent: https://CompanyURL.com/contact
+In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, the access or accounts of users who repeatedly infringe the intellectual property rights of others. If you believe that anything on our Website infringes any copyright that you own or control, you may notify the Organization’s designated agent: https://Polaris-US.org/contact
 
 Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Website is infringing, you may be liable to the Organization for certain costs and damages.
 

@@ -5,6 +5,7 @@ image: /img/updates/img-statement-on-debt-ceiling-agreement.png
 author: POLARIS Founder, Morgan Ortagus
 date: 2022-07-27
 draft: false
+visible: true
 categories:
    - China
 ---
