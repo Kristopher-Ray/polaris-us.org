@@ -23,8 +23,8 @@ collections:
     label: "About Page"
     files:
       - label: "About Content and Settings"
-        name: "home"
-        file: "content/_index.md"
+        name: "about"
+        file: "content/about/_index.md"
         fields:
           - {label: "Meta Title", name: "metaTitle", widget: "string"}
           - {label: "Meta Description", name: "description", widget: "text", required: false}
