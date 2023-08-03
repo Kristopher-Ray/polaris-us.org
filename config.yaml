@@ -11,7 +11,7 @@ taxonomies:
 enableRobotsTXT: true
 paginate: 1
 params:
-  twitter_user: kris_ray
+  twitter_user: polarisnatsec
   twitter_link: https://www.twitter.com/polarisnatsec
   facebook_link: https://www.facebook.com/101769448776724
   instagram_link: https://www.instagram.com/polarisnatsec/

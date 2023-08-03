@@ -150,6 +150,7 @@ collections:
             fields:
               - { label: "Twitter User", name: "twitter_user", widget: "string", required: false }
               - { label: "Facebook Link", name: "facebook_link", widget: "string", required: false }
+              - { label: "Twitter Link", name: "twitter_link", widget: "string", required: false }
               - { label: "Instagram Link", name: "instagram_link", widget: "string", required: false }
               - { label: "Youtube Link", name: "youtube_link", widget: "string", required: false }
               - { label: "Paid For Language", name: "paid_for", widget: "string", required: false }
