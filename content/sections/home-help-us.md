@@ -12,6 +12,8 @@ section_categories:
 
 ### <span class="text-highlight">Help Us</span> Fight Back {.primaryTitle .text-dark-blue}
 
+**POLARIS** wants an America that leads, an America that is strong, and an America that wins.
+
 - Polaris Verified News Updates and Alerts
 - Make an Impact with Our Initiatives
 - Something else you can give?
