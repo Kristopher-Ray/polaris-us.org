@@ -2,8 +2,8 @@
 draft: true
 weight: 1
 title: Biden's Deterrence Failures
-project_categories:
-  - Russia
+faqs_categories:
+   - Russia
 ---
 Joe Biden has failed one of the most important tasks of the U.S. President since 1945: preventing Russia from invading further into Europe. **Biden’s policy of weakness and appeasement is radically dangerous – it already lost us Afghanistan to the Taliban, and now it is causing us to lose Ukraine to Vladimir Putin.**   
 

@@ -19,9 +19,9 @@
                                 </div>
                                 <div class="bannerBtns">
                                     {{ if .Params.cta }}
-                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-outline">{{.Params.cta | safeHTML}}</a>
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" {{if .Params.outbound}}target="_blank"{{end}} class="button btn-outline">{{.Params.cta | safeHTML}}</a>
                                     {{else}}
-                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-outline">View Now →</a>
+                                    <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" {{if .Params.outbound}}target="_blank"{{end}} class="button btn-outline">View Now →</a>
                                     {{end}}
                                 </div>
                             </div>

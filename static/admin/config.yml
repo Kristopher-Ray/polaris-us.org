@@ -89,7 +89,7 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Order", name: "weight", widget: "number" }
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Categories (seperate by comma)", name: "project_categories", widget: "list", default: ["Featured In"], required: false}
+      - {label: "Categories (seperate by comma)", name: "faqs_categories", widget: "list", default: ["Featured In"], required: false}
       - {label: "Details", name: "body", widget: "markdown", required: false}
   - name: "memorandums"
     label: "Memorandums"
