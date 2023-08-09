@@ -1,8 +1,9 @@
 ---
+weight: 1
 title: The world’s leading state sponsor of terrorism
 faqs_categories:
-   - Iran
-weight: 1
+  - Iran
+  - China
 ---
 
 Biden is trying to lift sanctions on Iran, while they are trying to kill American diplomats like Mike Pompeo and even Biden’s top generals. That’s madness and the very definition of weakness. 
