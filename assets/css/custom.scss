@@ -970,6 +970,11 @@ form {
   height: 100%;
   z-index: 9;
 }
+.playIcon{
+  position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    font-size: 2.5rem; color: #CD201F; line-height: 1em;
+    text-shadow: 0px 0px 8px rgba(255,255,255,0.5);
+}
 .entry {
   color: #000;
   // padding: 2.7rem;
@@ -1066,6 +1071,13 @@ form {
     }
     .entry-content {
       padding-top: 0.3rem;
+    }
+  }
+  &.entry-bio{
+    .entry-img{
+      img{
+        object-position: center top;
+      }
     }
   }
   &.entry_memorandum {
@@ -1967,7 +1979,7 @@ ul.list-spacing {
       line-height: normal;
       letter-spacing: 0.17em;
       text-transform: uppercase;
-      a {
+      a, span {
         color: #515151;
         &:hover {
           color: $action-color;
@@ -2012,29 +2024,27 @@ ul.list-spacing {
 
     .container {
       max-width: 822px;
-    }
-    .entry {
-      margin-top: -1.6rem;
-      padding: 40px;
-
-      h2 {
-        text-transform: uppercase;
-        color: $action-color;
-      }
-      p {
-        margin-bottom: 0.8em;
-      }
-
-      ul {
-        li {
-          margin-bottom:16px;
+      > .entry {
+        margin-top: -1.6rem;
+        padding: 40px;
+        > h2 {
+          text-transform: uppercase;
+          color: $action-color;
         }
-      }
-
-      img {
-        width: 100%;
-        height:auto;
-        margin: 24px 0;
+        > p {
+          margin-bottom: 0.8em;
+        }
+  
+        > ul {
+          li {
+            margin-bottom:16px;
+          }
+        }
+        > img {
+          width: 100%;
+          height:auto;
+          margin: 24px 0;
+        }
       }
     }
   }

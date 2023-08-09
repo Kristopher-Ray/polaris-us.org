@@ -6,11 +6,17 @@
             {{else}}
             <img src='{{ "img/logo_mask.svg" | relURL }}'  class="lazy" alt="{{ .Title | safeHTML }}"/>            
             {{end}}
+            {{ if eq .Params.video true }}
+                <div class="playIcon">
+                <i class="fa-brands fa-youtube"></i>
+            </div>
+            {{end}}
             {{ if .Params.outbound }}
-            <a href="{{ .Params.outbound }}" target="_blank"><span class="linkOver"></span></a>
+            <a href="{{ .Params.outbound }}" target="_blank" {{ if eq .Params.video true }} data-fancybox="" {{end}}><span class="linkOver"></span></a>
             {{else}}
             <a href="{{ .Permalink }}"><span class="linkOver"></span></a>
             {{end}}
+
             <div class="postMeta">
                 <div class="post-categories">
                     {{ range $idx, $category := .Params.categories }}
@@ -26,7 +32,7 @@
         <div class="entry-content">
             <h3>
                 {{ if .Params.outbound }}
-                <a href="{{ .Params.outbound }}" target="_blank">{{ .Title | safeHTML }}</a>
+                <a href="{{ .Params.outbound }}" target="_blank"  {{ if eq .Params.video true }} data-fancybox="" {{end}}>{{ .Title | safeHTML }}</a>
                 {{else}}
                 <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
                 {{end}}
@@ -38,9 +44,9 @@
         {{end}}
 
         {{ if .Params.cta }}
-        <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-xs">{{.Params.cta | safeHTML}}</a>
+        <a {{ if eq .Params.video true }} data-fancybox="" {{end}} href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" {{if .Params.outbound}} target="_blank" {{end}} class="button btn-xs">{{.Params.cta | safeHTML}}</a>
         {{else}}
-        <a href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" class="button btn-xs">View Now →</a>
+        <a {{ if eq .Params.video true }} data-fancybox="" {{end}} href="{{if .Params.outbound}}{{.Params.outbound}}{{else}}{{.Permalink}}{{end}}" {{if .Params.outbound}} target="_blank" {{end}} class="button btn-xs">View Now →</a>
         {{end}}
         </div>
     </div>
