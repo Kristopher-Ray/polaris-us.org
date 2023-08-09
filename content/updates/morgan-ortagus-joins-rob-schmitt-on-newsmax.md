@@ -9,7 +9,6 @@ date: 2023-06-12
 visible: true
 categories:
    - Featured In
-featured: true
 ---
 
 ## Watch Now

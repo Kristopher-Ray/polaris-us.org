@@ -7,9 +7,9 @@ outbound: https://www.youtube.com/watch?v=-x_-J30YcX4
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 date: 2023-06-25
 visible: true
+featured: true
 categories:
    - Featured In
-featured: true
 ---
 
 {{< youtube xk5C2TECxtQ >}}
