@@ -10,6 +10,7 @@ visible: true
 video: true
 categories:
    - Videos
+   - China
 ---
 
 {{< youtube 9MxVJo33O7U >}}
