@@ -2122,6 +2122,11 @@ ul.list-spacing {
             margin: 0 0 16px;
           }
         }
+
+        a {
+          color: lighten($highlight,10%);
+          font-weight:800;
+        }
       }
       p,
       ul {
