@@ -14,5 +14,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Featured In
   - Russia
-image: /img/updates/maxresdefault.jpg
+image: /img/updates/hqdefault.jpg
 ---
