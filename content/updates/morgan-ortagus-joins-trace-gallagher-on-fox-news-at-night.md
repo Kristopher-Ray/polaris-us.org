@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: Morgan Ortagus Joins Trace Gallagher on Fox News at Night
 date: 2023-08-02T20:56:03.048Z
