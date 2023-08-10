@@ -1,8 +1,8 @@
 ---
-title: Biden's negotiators are deferring to Russian and Chinese diplomats to re-negotiate the Obama’s weak deal with the Iranian regime
-faqs_categories:
-   - Iran
 weight: 4
+title: Biden's weak deal with the Iranian regime
+faqs_categories:
+  - Iran
 ---
 
 - Ambassador Mikhail Ulyanov, who led negotiations on behalf of Russia, has crowed that “Iran got much more than it could expect. Much more,” and bragged about how Russia teamed up with China and Iran to get dozens of wins over the United States and European negotiating positions.  
