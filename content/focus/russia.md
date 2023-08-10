@@ -1,15 +1,17 @@
 ---
-title: Standing Up To Russia
-summary: After years of talk, Biden has failed to deter Putin's invasion of Ukraine. Instead, behind the scenes he has given concessions to Russia. So much for standing up to tyranny.
-image: /img/focus/img_standing-up-to-russia.jpg
-section_img: /img/focus/putin.webp
-btn_label: Read about how to help stop the spread of tyranny abroad →
-memorandums: "russia"
-accordions: "russia"
-updates: "russia"
-slug: russia
-weight: 3
 visible: true
+weight: 3
+title: Standing Up To Russia
+slug: russia
+summary: After years of talk, Biden has failed to deter Putin's invasion of
+  Ukraine. Instead, behind the scenes he has given concessions to Russia. So
+  much for standing up to tyranny.
+section_img: /img/focus/putin.webp
+btn_label: Find out how to help stop the spread of tyranny abroad →
+image: /img/focus/img_standing-up-to-russia.jpg
+memorandums: russia
+accordions: russia
+updates: russia
 ---
 
 
