@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: The world’s leading state sponsor of terrorism
+title: The World’s Leading State Sponsor of Terrorism
 faqs_categories:
   - Iran
 ---
