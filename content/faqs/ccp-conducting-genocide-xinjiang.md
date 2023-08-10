@@ -1,8 +1,8 @@
 ---
-title: The CCP is conducting a genocide in Xinjiang
-faqs_categories:
-   - China
 weight: 2
+title: The CCP is Conducting a Genocide in Xinjiang
+faqs_categories:
+  - China
 ---
 
 - China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
