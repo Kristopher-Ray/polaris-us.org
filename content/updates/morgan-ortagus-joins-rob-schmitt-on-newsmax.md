@@ -1,14 +1,14 @@
 ---
-title: Morgan Ortagus Joins Rob Schmitt on NewsMax
-summary: Morgan Ortagus joins Rob Schmitt on NewsMax to discuss the breaking news of China's new spy base under construction in Cuba. 
-image: https://img.youtube.com/vi/xk5C2TECxtQ/hqdefault.jpg
-author: POLARIS Founder, Morgan Ortagus
-#outbound: https://www.youtube.com/watch?v=xk5C2TECxtQ
-cta: Watch Now →
-date: 2023-06-12
 visible: true
+title: Morgan Ortagus Joins Rob Schmitt on NewsMax
+date: 2023-06-12
+summary: Morgan Ortagus joins Rob Schmitt on NewsMax to discuss the breaking
+  news of China's new spy base under construction in Cuba.
+author: POLARIS Founder, Morgan Ortagus
+cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-   - Featured In
+  - Featured In
+image: https://img.youtube.com/vi/xk5C2TECxtQ/hqdefault.jpg
 ---
 
 ## Watch Now
