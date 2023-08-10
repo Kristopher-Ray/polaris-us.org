@@ -1,15 +1,19 @@
 ---
+visible: true
+weight: 4
 title: Biden’s Border Crisis
-summary: President Biden has created a disastrous border crisis that threatens the security of Americans, and it’s only getting worse. Thousands of Americans are dying because of the humanitarian, drug, and crime crises at the U.S./Mexico border. Yet, the Biden administration continues to defend their dangerous policies.
-image: /img/focus/img_bidens-border-crisis.jpg
+slug: border
+summary: President Biden has created a disastrous border crisis that threatens
+  the security of Americans, and it’s only getting worse. Thousands of Americans
+  are dying because of the humanitarian, drug, and crime crises at the
+  U.S./Mexico border. Yet, the Biden administration continues to defend their
+  dangerous policies.
 section_img: /img/focus/section_img.png
 btn_label: Learn more about the dangers of a wide-open border →
-memorandums: "border-crisis"
-accordions: "border-crisis"
-updates: "border-crisis"
-slug: border-crisis
-weight: 4
-visible: true
+image: /img/focus/img_bidens-border-crisis.jpg
+memorandums: border-crisis
+accordions: border-crisis
+updates: border-crisis
 ---
 
 
