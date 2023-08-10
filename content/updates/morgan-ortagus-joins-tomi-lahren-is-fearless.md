@@ -11,6 +11,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=-p6FrLk_EjY
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - china
+  - Featured In
+  - China
 image: /img/updates/mo-tomi.-lahre.jpeg
 ---
