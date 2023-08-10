@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 weight: 2
 title: The Hard Truths of an Open Border
 faqs_categories:
