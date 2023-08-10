@@ -1,8 +1,8 @@
 ---
-title: The CCP is responsible for every death from COVID
-faqs_categories:
-   - China
 weight: 1
+title: The CCP is Responsible for Every COVID Death
+faqs_categories:
+  - China
 ---
 
 - China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
