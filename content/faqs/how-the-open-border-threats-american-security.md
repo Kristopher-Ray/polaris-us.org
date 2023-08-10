@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 weight: 1
-title: An Open Border Threaten American Security
+title: An Open Border Threatens American Security
 faqs_categories:
   - Border
 ---
