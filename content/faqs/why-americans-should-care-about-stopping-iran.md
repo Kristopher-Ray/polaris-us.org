@@ -1,8 +1,8 @@
 ---
-title: Why Americans should care about stopping Iran
-faqs_categories:
-   - Iran
 weight: 2
+title: Why Americans Should Care About Stopping Iran
+faqs_categories:
+  - Iran
 ---
 
 - Iran has killed hundreds of American citizens, seeks a nuclear weapon, and routinely calls for the destruction of the United States and Israel. The regime is a radical Islamic terror state that proclaims itself as an enemy of the United States. Iran regularly tortures and murders their citizens when they protest, and the regime funnel billions of dollars into supporting terrorist organizations that kill Americans and sow destruction across the Middle East.  
