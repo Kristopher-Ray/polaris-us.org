@@ -1,9 +1,9 @@
 ---
 draft: true
 weight: 1
-title: How the Open Border Threats American Security
+title: An Open Border Threaten American Security
 faqs_categories:
-  - Featured In
+  - Border
 ---
 **Joe Biden has created a disastrous border crisis that threatens Americans’ security, and it is only getting worse**.
 
