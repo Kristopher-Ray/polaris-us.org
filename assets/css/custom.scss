@@ -1653,6 +1653,11 @@ ul.slides {
   }
   .section-btn {
     padding-top: 0.35rem;
+
+    @media(max-width:767px){
+      white-space: nowrap;
+    }
+
     .button {
       padding: 0 1.05em;
     }

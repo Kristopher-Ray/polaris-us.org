@@ -10,6 +10,7 @@ visible: true
 video: true
 categories:
    - Videos
+   - Russia
 ---
 
 {{< youtube VbwyN2LR5Rg >}}

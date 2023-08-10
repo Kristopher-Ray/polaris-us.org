@@ -10,6 +10,7 @@ visible: true
 video: true
 categories:
    - Videos
+   - Border Crisis
 ---
 
 {{< youtube 22kp0d9D8P4 >}}

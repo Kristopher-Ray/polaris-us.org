@@ -9,5 +9,6 @@ date: 2023-03-07
 visible: true
 categories:
    - Newsroom
+   - Russia
 visible: true
 ---

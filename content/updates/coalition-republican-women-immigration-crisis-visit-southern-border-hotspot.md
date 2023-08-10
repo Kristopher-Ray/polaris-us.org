@@ -9,5 +9,6 @@ date: 2022-08-27
 visible: true
 categories:
    - Newsroom
+   - Border Crisis
 visible: true
 ---

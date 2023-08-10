@@ -9,4 +9,5 @@ date: 2022-05-25
 visible: true
 categories:
    - Newsroom
+   - China
 ---

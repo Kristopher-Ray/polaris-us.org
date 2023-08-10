@@ -10,6 +10,7 @@ visible: true
 featured: true
 categories:
    - Featured In
+   - Russia
 ---
 
 {{< youtube xk5C2TECxtQ >}}

@@ -1,5 +1,5 @@
 ---
-title: "Biden is silent on human rights in Rian"
+title: "Biden is silent on human rights in Iran"
 summary: "When the Iranian regime massacres its citizens in the streets, the Biden Administration does not stand up for human rights."
 image: https://img.youtube.com/vi/84Uf-CAO8H0/hqdefault.jpg
 author: POLARIS Founder, Morgan Ortagus
@@ -10,6 +10,7 @@ visible: true
 video: true
 categories:
    - Videos
+   - Iran
 ---
 
 {{< youtube 84Uf-CAO8H0 >}}

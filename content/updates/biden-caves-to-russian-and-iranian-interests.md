@@ -9,7 +9,8 @@ date: 2022-03-07
 visible: true
 video: true
 categories:
-   - Videos
+   - Featured In
+   - Russia
 ---
 
 {{< youtube hUlJ3pegI_8 >}}

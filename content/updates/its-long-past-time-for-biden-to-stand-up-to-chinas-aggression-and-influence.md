@@ -9,5 +9,6 @@ date: 2023-02-09
 visible: true
 categories:
    - Newsroom
+   - China
 visible: true
 ---

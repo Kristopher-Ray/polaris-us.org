@@ -1,6 +1,6 @@
 ---
 title: "Jennifer-Ruth Green Joins the Growing Team At POLARIS"
-summary: '  Jennifer-Ruth is a dedicated member of the U.S. Air Force. After graduating from the United States Air Force Academy, she served 12 total years on active duty, including a deployment to Baghdad, Iraq, where she served as a mission commander for counterintelligence activities. She transitioned to the Air Reserve Component and currently serves as a lieutenant colonel in the Indiana Air National Guard.  '
+summary: 'Jennifer-Ruth is a dedicated member of the U.S. Air Force. After graduating from the United States Air Force Academy, she served 12 total years on active duty, including a deployment to Baghdad, Iraq, where she served as a mission commander for counterintelligence activities. She transitioned to the Air Reserve Component and currently serves as a lieutenant colonel in the Indiana Air National Guard.  '
 image: /img/updates/baghdad_1.webp
 #author: Hung Cao
 #outbound: https://polaris-us.org/jennifer-ruth-green

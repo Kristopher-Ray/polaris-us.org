@@ -9,5 +9,6 @@ date: 2022-06-26
 visible: true
 categories:
    - Newsroom
+   - China
 visible: true
 ---
