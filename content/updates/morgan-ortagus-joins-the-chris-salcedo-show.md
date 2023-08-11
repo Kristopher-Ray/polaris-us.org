@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: false
 title: Morgan Ortagus Joins The Chris Salcedo Show
-date: 2023-08-11T14:44:29.473Z
+date: 2023-07-25T14:44:29.473Z
 summary: "Morgan Ortagus joins the Chris Salcedo Show on Newsmax to discuss
   China's role in the fentanyl crisis. \"Fentanyl is the #1 killer of young
   Americans ages 18-49...\""
