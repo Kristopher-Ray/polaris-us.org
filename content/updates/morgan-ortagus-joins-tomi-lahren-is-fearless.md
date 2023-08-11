@@ -13,6 +13,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Featured In
   - China
-  - America The Great Tour
 image: /img/updates/mo-tomi.-lahre.jpeg
 ---
