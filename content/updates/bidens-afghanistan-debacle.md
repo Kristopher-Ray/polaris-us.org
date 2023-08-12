@@ -12,6 +12,7 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 video: true
 categories:
   - Videos
+  - Afghanistan
 image: https://img.youtube.com/vi/I2__LJGEeXc/hqdefault.jpg
 ---
 
