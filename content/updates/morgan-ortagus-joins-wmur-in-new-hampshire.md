@@ -13,5 +13,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=t51ow7Zcns8
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Featured In
+  - Videos
+  - America The Great Tour
+image: /img/updates/hqdefault-9.jpg
 ---
