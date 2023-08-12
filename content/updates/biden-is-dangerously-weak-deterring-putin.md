@@ -1,16 +1,17 @@
 ---
-title: "Biden is dangerously weak deterring Putin"
-summary: "As Russia prepares to invade Ukraine, Biden continues to follow the Obama playbook and appease Putin."
-image: https://img.youtube.com/vi/VbwyN2LR5Rg/hqdefault.jpg
+visible: true
+title: Biden is Dangerously Weak Deterring Putin
+date: 2021-01-03
+summary: As Russia prepares to invade Ukraine, Biden continues to follow the
+  Obama playbook and appease Putin.
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=VbwyN2LR5Rg
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
-date: 2021-01-03
-visible: true
 video: true
 categories:
-   - Videos
-   - Russia
+  - Videos
+  - Russia
+image: https://img.youtube.com/vi/VbwyN2LR5Rg/hqdefault.jpg
 ---
 
 {{< youtube VbwyN2LR5Rg >}}
