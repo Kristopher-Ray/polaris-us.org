@@ -9,8 +9,8 @@ outbound: https://www.youtube.com/watch?v=VbwyN2LR5Rg
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 video: true
 categories:
-  - Russia
   - Videos
+  - Russia
 image: https://img.youtube.com/vi/VbwyN2LR5Rg/hqdefault.jpg
 ---
 
