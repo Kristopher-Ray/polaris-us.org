@@ -1,15 +1,13 @@
 ---
 title: Caitlynn Rasmussen
 position: Executive Assistant
-#career: Former Spokesperson for the U.S. Department of State
 image: /img/team/caitlynn-rasmussen.png
 team_categories:
   - Team
 weight: 7
 ---
+Caitlynn Rasmussen serves as the Executive Assistant for Polaris National Security.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porta in odio eu euismod. Curabitur vehicula nisi eget vestibulum mattis. Pellentesque vehicula turpis sed velit dignissim, vel mattis lectus viverra. Aenean eget lacus molestie, dignissim sem quis, cursus metus. Suspendisse nec est sit amet quam maximus egestas id sed diam. Cras dapibus dolor vel sapien facilisis, id ultricies lorem elementum. Integer vitae mi rhoncus, faucibus urna et, facilisis ligula. 
- 
-Vivamus suscipit luctus sapien, et sodales sapien pharetra nec. Nam eleifend erat nisi. Ut ut scelerisque purus. Nunc rutrum erat libero, euismod lacinia lacus ornare at. Proin in tincidunt nibh, mollis maximus magna. Quisque ac semper felis, quis viverra odio. Mauris lectus massa, sollicitudin ac lacinia sit amet, sollicitudin eu sem. 
- 
-Proin egestas quam eget ligula tincidunt imperdiet. Praesent rhoncus massa nec lacus ullamcorper sagittis.
+Caitlynn grew up in a small town in Northern Alberta, Canada. After graduating high school, she decided to move to Northern California to pursue a secondary education program. Caitlynn fell in love with the country and decided to make her permanent
+
+residence in the southern region of the United States. Caitlynn has worked in a few different industries ranging from food service all the way into childcare. Upon moving to Nashville, Tennessee, where she currently resides, she worked as a nanny for 2 years. Her most recent transition was to her role as Executive Assistant for Polaris National Security.
