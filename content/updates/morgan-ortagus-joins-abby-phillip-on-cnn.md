@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Abby Phillip on CNN
+title: Morgan Ortagus Joins Abby Phillip on CNN
 date: 2023-07-26T14:41:41.293Z
 summary: 'Morgan Ortagus joins CNN to discuss the recent disappearance of the
   Chinese Foreign Minister.   "The drama leaking from both China and Russia
