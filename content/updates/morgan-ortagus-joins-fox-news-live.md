@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Fox News Live
+title: Morgan Ortagus Joins Fox News Live
 date: 2023-07-04T15:48:45.170Z
 summary: Morgan Ortagus joined Fox News Live with Gillian Turner to discuss the
   President's unapologetic claim that the Taliban "helped" in Afghanistan as
