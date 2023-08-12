@@ -7,9 +7,7 @@ team_categories:
   - Leadership
 weight: 1
 ---
+Morgan D. Ortagus is the founder of POLARIS National Security and is a principal at Rubicon Founders, a healthcare investment firm. Morgan is also an intelligence officer in the U.S. Navy reserves. From 2019-2021, she served at the Department of State as the Spokesperson for the United States of America. At the State
+Department, she worked closely with the White House on the historic Abraham Accords and led U.S. government efforts to push back against sophisticated Chinese, Russian, and Iranian malign influence campaigns. She previously worked at the Department of the Treasury as an intelligence analyst, and from 2010-2011 was the deputy U.S. Treasury Attaché to the Kingdom of Saudi Arabia.
 
-Morgan Deann Ortagus (born July 10, 1982) is an American television commentator, financial analyst, and political advisor who served as spokesperson for the United States Department of State from 2019 to 2021. She previously held government positions as a deputy attaché and intelligence analyst at the United States Department of the Treasury and as a public affairs officer at USAID. Ortagus worked as national security contributor at Fox News prior to her appointment as State Department spokesperson. She is an officer in the United States Navy Reserve.
-
-During her time at the State Department, she was critical of Iran and China, particularly over the Chinese Communist Party's efforts to shift blame to the United States for the COVID-19 pandemic.
-
-In February 2022, Ortagus announced her candidacy for Tennessee's 5th congressional district in the 2022 election, but was disqualified by the Tennessee Republican Party. 
+In 2007, Morgan spent several months in Baghdad, Iraq at the USAID Mission, and was a national security contributor to Fox News. Morgan graduated with a bachelor's degree in Political Science from Florida Southern College, and she earned a dual Master of Arts in Government/Master of Business Administration from John Hopkins University in 2013. She lives in Nashville, TN with her husband, Jonathan, and their daughter, Adina.
