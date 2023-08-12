@@ -7,7 +7,7 @@ summary: Morgan Ortagus joins Rob Schmitt on NewsMax to discuss the breaking
 author: POLARIS Founder, Morgan Ortagus
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Featured In
+  - Videos
 image: https://img.youtube.com/vi/xk5C2TECxtQ/hqdefault.jpg
 ---
 
