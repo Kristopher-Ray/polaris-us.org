@@ -12,7 +12,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=UYv8x2qWNnE
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Featured In
+  - Videos
   - China
 image: /img/updates/maxresdefault-2.jpg
 ---
