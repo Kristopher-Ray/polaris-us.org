@@ -15,5 +15,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - America The Great Tour
-image: /img/updates/_cj11599.jpg
+image: /img/updates/_cj11599.jpeg
 ---
