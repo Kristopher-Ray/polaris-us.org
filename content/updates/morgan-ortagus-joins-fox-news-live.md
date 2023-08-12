@@ -12,5 +12,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=-6u4fLNYCEA
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Featured In
+  - Videos
+  - Afghanistan
+image: /img/updates/hqdefault-5.jpg
 ---
