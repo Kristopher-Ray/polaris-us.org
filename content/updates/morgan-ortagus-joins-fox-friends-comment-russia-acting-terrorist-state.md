@@ -11,7 +11,7 @@ outbound: https://www.youtube.com/watch?v=AmaHBkroB8s
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 video: true
 categories:
-  - Featured In
+  - Videos
   - Russia
 image: https://img.youtube.com/vi/AmaHBkroB8s/hqdefault.jpg
 ---
