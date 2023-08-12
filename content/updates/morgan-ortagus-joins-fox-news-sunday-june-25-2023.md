@@ -9,8 +9,8 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=-x_-J30YcX4
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Russia
   - Videos
+  - Russia
 image: https://img.youtube.com/vi/-x_-J30YcX4/maxresdefault.jpg
 ---
 
