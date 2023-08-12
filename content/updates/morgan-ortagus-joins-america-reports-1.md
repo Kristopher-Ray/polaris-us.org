@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2023-08-08T18:17:49.456Z
@@ -12,7 +12,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=OwJxbzTXy4A
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - Featured In
   - Russia
+  - Videos
 image: /img/updates/hqdefault.jpg
 ---
