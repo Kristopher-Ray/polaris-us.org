@@ -10,5 +10,4 @@ visible: true
 categories:
    - Newsroom
    - Russia
-visible: true
 ---

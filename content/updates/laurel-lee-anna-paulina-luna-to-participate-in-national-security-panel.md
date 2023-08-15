@@ -9,5 +9,4 @@ date: 2022-10-26
 visible: true
 categories:
    - Newsroom
-visible: true
 ---

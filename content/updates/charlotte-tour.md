@@ -9,7 +9,6 @@ date: 2022-10-12
 visible: true
 categories:
    - Newsroom
-visible: true
 ---
 
 *Former DNI John Ratcliffe will also join along with former State Department Spokesperson and founder of Polaris National Security, Morgan Ortagus, for national security panel in North Carolina*

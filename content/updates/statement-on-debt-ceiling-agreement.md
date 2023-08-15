@@ -9,5 +9,4 @@ date: 2023-05-29
 visible: true
 categories:
    - Newsroom
-visible: true
 ---

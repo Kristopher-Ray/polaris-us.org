@@ -9,7 +9,6 @@ date: 2023-01-30
 visible: true
 categories:
    - Newsroom
-visible: true
 ---
 
 <div class="row entries_all">

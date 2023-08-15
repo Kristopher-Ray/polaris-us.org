@@ -9,7 +9,6 @@ date: 2022-06-21
 visible: true
 categories:
    - Newsroom
-visible: true
 ---
 
 {{< youtube DfWAEeO_10s >}}

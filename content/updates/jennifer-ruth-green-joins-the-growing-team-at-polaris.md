@@ -9,7 +9,6 @@ date: 2023-02-09
 visible: true
 categories:
    - Newsroom
-visible: true
 ---
 
 You may already recognize Jennifer-Ruth from her time as the Republican congressional nominee in Indiana's first district. Jennifer-Ruth is a dedicated member of the U.S. Air Force. After graduating from the United States Air Force Academy, she served 12 total years on active duty, including a deployment to Baghdad, Iraq, where she served as a mission commander for counterintelligence activities. She transitioned to the Air Reserve Component and currently serves as a lieutenant colonel in the Indiana Air National Guard.
