@@ -1,15 +1,17 @@
 ---
 title: James Coffey
 position: Director of Outreach
-#career: Former Spokesperson for the U.S. Department of State
 image: /img/team/james-coffey.png
 team_categories:
   - Team
 weight: 6
 ---
+James is currently the Director of Outreach for POLARIS National Security and Political Director for POLARIS National Security PAC.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porta in odio eu euismod. Curabitur vehicula nisi eget vestibulum mattis. Pellentesque vehicula turpis sed velit dignissim, vel mattis lectus viverra. Aenean eget lacus molestie, dignissim sem quis, cursus metus. Suspendisse nec est sit amet quam maximus egestas id sed diam. Cras dapibus dolor vel sapien facilisis, id ultricies lorem elementum. Integer vitae mi rhoncus, faucibus urna et, facilisis ligula. 
- 
-Vivamus suscipit luctus sapien, et sodales sapien pharetra nec. Nam eleifend erat nisi. Ut ut scelerisque purus. Nunc rutrum erat libero, euismod lacinia lacus ornare at. Proin in tincidunt nibh, mollis maximus magna. Quisque ac semper felis, quis viverra odio. Mauris lectus massa, sollicitudin ac lacinia sit amet, sollicitudin eu sem. 
- 
-Proin egestas quam eget ligula tincidunt imperdiet. Praesent rhoncus massa nec lacus ullamcorper sagittis.
+Prior to joining, James spent several years as a producer at Fox News where he was responsible for booking and briefing high profile politicians, newsmakers, and celebrities for the channel. James worked closely with the Fox News digital reporters during the pandemic to investigate actions taken by elected officials. James was part of the team that launched the highest rated late-night talk show, Gutfeld!
+
+Before joining Fox, he worked on two statewide campaigns in NJ for GOP candidates in a Gubernatorial and Senate race.
+
+James currently serves as a Board of Education Member on the Berkeley Township School Board.
+
+James graduated from Montclair State University in 2019 where he earned a Bachelor’s Degree in Communication and Media Arts and a Bachelor’s degree in Political Science. James also earned his Master’s in Business Journalism from Arizona State University in 2021. James currently lives in New Jersey where you can find him attempting to walk his corgi, Willow.
