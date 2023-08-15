@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: true
-title: Morgan Ortagus joins America Reports
+title: Morgan Ortagus Joins America Reports
 date: 2023-08-09T00:40:22.690Z
 summary: Morgan Ortagus joins America Reports to discuss Russia's desperation as
   they battle Ukraine. The World Health Organization estimates that since the

@@ -1,7 +1,6 @@
 ---
 visible: true
-title: Morgan Ortagus Joins The Next Revolution to discuss China's growing
-  influence around the world.
+title: Morgan Ortagus Joins The Next Revolution
 date: 2023-04-02
 summary: "Morgan Ortagus joins Steve Hilton on the Next Revolution to discuss
   the precarious position the United States is in as our former partners view

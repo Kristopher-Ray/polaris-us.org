@@ -14,6 +14,6 @@ outbound: https://www.youtube.com/watch?v=QF-EOW1TdLo
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
-  - Interview
+  - Interviews
 image: /img/updates/hqdefault-7.jpg
 ---

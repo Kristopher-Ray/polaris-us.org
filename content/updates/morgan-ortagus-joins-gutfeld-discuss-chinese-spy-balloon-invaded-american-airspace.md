@@ -1,6 +1,6 @@
 ---
 visible: true
-title: Morgan Ortagus joins Gutfeld to discuss the Chinese Spy Balloon that
+title: Morgan Ortagus Joins Gutfeld to discuss the Chinese Spy Balloon that
   invaded American airspace.
 date: 2023-04-04
 summary: "Morgan Ortagus joined Gutfeld! live to discuss the myriad of

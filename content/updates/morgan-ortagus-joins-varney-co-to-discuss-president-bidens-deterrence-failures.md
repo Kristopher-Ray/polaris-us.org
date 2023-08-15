@@ -1,6 +1,6 @@
 ---
 visible: true
-title: Morgan Ortagus joins Varney & Co. to discuss President Biden's deterrence
+title: Morgan Ortagus Joins Varney & Co. to discuss President Biden's deterrence
   failures.
 date: 2023-04-06
 summary: "Morgan Ortagus joins Varney & Co. on Fox Business to discuss the Biden
