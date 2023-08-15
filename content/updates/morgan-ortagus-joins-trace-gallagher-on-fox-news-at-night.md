@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins Trace Gallagher on Fox News at Night
 date: 2023-08-02T20:56:03.048Z
 summary: Morgan Ortagus joins Trace Gallagher on Fox News at Night to discuss
@@ -13,7 +13,7 @@ author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=p67cIZc3Lhc
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
-  - China
   - Videos
-image: /img/updates/hqdefault-2.jpg
+  - China
+image: /img/updates/img_4954.jpeg
 ---
