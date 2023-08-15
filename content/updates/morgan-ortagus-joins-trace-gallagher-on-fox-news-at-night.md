@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: true
-title: Morgan Ortagus Joins Trace Gallagher on Fox News at Night
+title: Morgan Ortagus Joins Fox News at Night
 date: 2023-08-02T20:56:03.048Z
 summary: Morgan Ortagus joins Trace Gallagher on Fox News at Night to discuss
   the dangers of China buying up American farmland. Chinese companies have
