@@ -5,6 +5,7 @@ date: 2023-06-12
 summary: Morgan Ortagus joins Rob Schmitt on NewsMax to discuss the breaking
   news of China's new spy base under construction in Cuba.
 author: POLARIS Founder, Morgan Ortagus
+outbound: https://www.youtube.com/watch?v=xk5C2TECxtQ
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
