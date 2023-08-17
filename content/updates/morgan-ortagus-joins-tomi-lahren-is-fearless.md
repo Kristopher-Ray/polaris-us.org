@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Tomi Lahren is Fearless
 date: 2023-08-10
 summary: Morgan Ortagus joins Tomi Lahren on her podcast to discuss the lessons
