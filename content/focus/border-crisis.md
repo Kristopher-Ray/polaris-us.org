@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 4
+weight: 3
 title: Biden’s Border Crisis
 slug: border
 summary: President Biden has created a disastrous border crisis that threatens
