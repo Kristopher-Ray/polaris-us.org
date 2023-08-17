@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Newsmax
 date: 2023-08-07T20:52:38.810Z
 summary: Morgan Ortagus joins Newsmax to discuss our nation's reliance on China.
