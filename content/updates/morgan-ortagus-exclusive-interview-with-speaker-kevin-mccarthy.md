@@ -15,5 +15,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Interviews
-image: /img/updates/img_4236.jpeg
+image: /img/updates/img_4842.jpeg
 ---
