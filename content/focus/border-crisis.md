@@ -11,8 +11,8 @@ summary: President Biden has created a disastrous border crisis that threatens
 section_img: /img/focus/section_img.png
 btn_label: Learn more about the dangers of a wide-open border →
 image: /img/focus/img_bidens-border-crisis.jpg
-memorandums: border-crisis
-accordions: border-crisis
-updates: border-crisis
+memorandums: border
+accordions: border
+updates: border
 ---
 A nation is defined by its borders – if we can’t control who is coming in and out, we aren’t even conducting an essential function of government: providing law and order. The reality is the Biden Adminstration has created an unprecedented national crisis occurring because they and Democrats alike refuse to protect our southern border.
