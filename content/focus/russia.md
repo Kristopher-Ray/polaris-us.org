@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 3
+weight: 4
 title: Standing Up To Russia
 slug: russia
 summary: After years of talk, Biden has failed to deter Putin's invasion of
