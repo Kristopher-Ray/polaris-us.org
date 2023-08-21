@@ -11,10 +11,10 @@ section_categories:
 
 <div class="headline">
 <div class="headlineIn">
-    <h2>Threats Grow Each Week</h2>
-    <div class="headingTagline">Explore Our Latest Updates</div>
-    </div>
-    <a href="/updates/" class="button btn-dark">See All →</a>
+<h2>Threats Grow Each Week</h2>
+<div class="headingTagline">Explore Our Latest Updates</div>
+<a href="/updates/" class="button btn-dark">See All →</a>
+</div>
 </div>
 
 {{<updates>}}

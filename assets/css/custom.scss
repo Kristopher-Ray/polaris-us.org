@@ -1533,7 +1533,9 @@ ul.slides {
     .headingTagline {
       padding-top: 0;
       color: #424b6c;
-      padding-bottom: 0.35em;
+      padding-bottom: 0;
+      display: inline-block;
+      margin-right:24px;
     }
     @media (max-width: 575px) {
       display: block;
