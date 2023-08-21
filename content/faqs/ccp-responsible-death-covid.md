@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Overview
+title: The CCP is Responsible for Every Death From COVID
 faqs_categories:
   - China
 ---
