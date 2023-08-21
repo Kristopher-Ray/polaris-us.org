@@ -13,8 +13,8 @@ section_categories:
 <div class="headlineIn">
 <h2>Threats Grow Each Week</h2>
 <div class="headingTagline">Explore Our Latest Updates</div>
-<a href="/updates/" class="button btn-dark">See All →</a>
 </div>
+<a href="/updates/" class="button btn-dark">See All →</a>
 </div>
 
 {{<updates>}}
