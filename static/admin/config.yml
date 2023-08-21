@@ -75,6 +75,7 @@ collections:
       - {label: "Banner Image", name: "image", widget: "image", required: false }
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
       - {label: "Focus Overview", name: "body", widget: "markdown", required: false}
+      - {label: "Overview Section Image", name: "section_img", widget: "image", required: false }
       - {label: "Configure Memorandums Category (lowercase, hyphenated, case-sensative)", name: "memorandums", widget: "string"}
       - {label: "Configure FAQS Category (lowercase, hyphenated, case-sensative)", name: "accordions", widget: "string"}
       - {label: "Configure Updates Category (lowercase, hyphenated, case-sensative)", name: "updates", widget: "string"}
