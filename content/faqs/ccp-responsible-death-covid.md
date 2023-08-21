@@ -1,12 +1,11 @@
 ---
 weight: 1
-title: The CCP is Responsible for Every COVID Death
+title: Overview
 faqs_categories:
   - China
 ---
-
-- China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
-- Coronavirus research centers are pretty rare in the world. But the Wuhan Institute of Virology was only a quarter mile away from where the first known case of COVID was discovered. We don’t know for sure, but parts of our intelligence community have assessed that COVID leaked from the Chinese lab in an accident. The only way to know is for the CCP to come clean, but they have obstructed the investigation at every turn.
-- Here’s what we know: that China arrested scientists and doctors who tried to warn about the dangers of COVID. We know they lied to the World Health Organization about how deadly the disease was. We know they shredded and burned thousands of documents at the Wuhan Institute of Virology right after this disease emerged.
-- The Chinese Communist Party enabled COVID to escape China and infect the world, killing nearly a million Americans. They must be held accountable. Unfortunately, the Biden Administration isn’t putting pressure on China to tell the truth. One of Biden first acts as president was to shut down the State Department’s investigation of COVID’s origin.
-- Worse, he rejoined the World Health Organization and gave them $200M even when they helped China cover up the investigation and claimed China was doing everything right.
+* Two decades ago, the PLA was a low-technology, ground-centric force that steadily operated below the United States’ military across every metric, following Deng’s direction to modernize the economy and agriculture first. 
+* Since then, the CCP has steadily modeled itself after the US military, leveraging access to our military technology to transform the PLA from a bloated, poorly funded force into a high-tech “informationized” force capable of synchronizing air, naval, ground, and high-tech cyber forces. The CCP excels in missile technology and has shaped their force structure specifically to counter U.S. military power. 
+* In 2021, the Pentagon revealed that China is equal to or exceeds the United States in shipbuilding, land-based ballistic missiles, and integrated air defense systems.
+*  China’s strategy is based on countering specific U.S. advantages, particularly our more advanced air and maritime capabilities. In direct conflict, China would target U.S. aircraft carriers in an attempt to handicap the United States’ strongest advantage. 
+* The PLA’s first priority is domestic control; it exists to keep the CCP in power. After that, its focus is forced capture of Taiwan, with the goal of preventing US intervention (A2AD). Recent positive commitments from Japan have complicated the PLA’s plans.
