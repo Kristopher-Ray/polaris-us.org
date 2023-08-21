@@ -1,12 +1,10 @@
 ---
+weight: 4
 title: Why We Need to Defend Taiwan
 faqs_categories:
-   - China
-weight: 4
+  - China
 ---
-
-- China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
-- Coronavirus research centers are pretty rare in the world. But the Wuhan Institute of Virology was only a quarter mile away from where the first known case of COVID was discovered. We don’t know for sure, but parts of our intelligence community have assessed that COVID leaked from the Chinese lab in an accident. The only way to know is for the CCP to come clean, but they have obstructed the investigation at every turn.
-- Here’s what we know: that China arrested scientists and doctors who tried to warn about the dangers of COVID. We know they lied to the World Health Organization about how deadly the disease was. We know they shredded and burned thousands of documents at the Wuhan Institute of Virology right after this disease emerged.
-- The Chinese Communist Party enabled COVID to escape China and infect the world, killing nearly a million Americans. They must be held accountable. Unfortunately, the Biden Administration isn’t putting pressure on China to tell the truth. One of Biden first acts as president was to shut down the State Department’s investigation of COVID’s origin.
-- Worse, he rejoined the World Health Organization and gave them $200M even when they helped China cover up the investigation and claimed China was doing everything right.
+* China wants to bully nations around the world with their military. They’ve used force to expand into islands in the South China Sea. Back in 2014, they built islands out of the water as massive aircraft carriers. It’s all part of their plan to invade Taiwan. We have to stand with Taiwan – they are a peaceful democratic country who stand as a bastion of freedom against Communist China.
+* Taiwan has a central role in global semiconductor production that affects U.S. economic and national security. Taiwan represents \~19% of the world’s semiconductor wafer manufacturing capacity. For comparison, mainland China represents \~20%; and while the U.S. leads in global chip design and intellectual property, it weighs in at only ~11% of global capacity.
+* As a result, not only does Taiwan represent an important symbol of America’s commitment to a rules-based international order, but it is a key enabler of American economic security as well. Just think of how the chips shortage hurt the car industry. Now imagine China controlling the global chips industry – they would have key leverage over the United States.
+* The best way to protect Taiwan is to make sure there’s never a war over the country. The only way to do that is to have a military strong enough to deter China from ever starting a war. That requires a strong military, but Biden is trying to cut defense spending instead of increasing it – while he increases spending on every other category.
