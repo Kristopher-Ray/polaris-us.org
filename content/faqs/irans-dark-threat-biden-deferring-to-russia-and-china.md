@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: Biden's weak deal with the Iranian regime
+title: Biden's Weak Deal with the Iranian regime
 faqs_categories:
   - Iran
 ---
