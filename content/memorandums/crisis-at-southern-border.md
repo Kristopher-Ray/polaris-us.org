@@ -1,10 +1,15 @@
 ---
-title: The Crisis at our Southern Border
-summary: China’s growing authoritarian role in the world runs directly counter to U.S. interests and our security— their dangerous ambition to rule the world as they see fit is a direct threat to U.S. security, our interests, and the interest of freedom in the world. Taking over Taiwan would be a crucial first step in the CCP’s long-term plan and endanger the United States immensely.
+visible: true
+weight: 1
+memorandum_categories:
+  - Border
+title: Crisis at the Southern Border
+summary: "Joe Biden has created a disastrous border crisis that threatens
+  Americans’ security, and it keeps getting worse. There is more fentanyl and
+  deadly drugs passing through our border and killing Americans than ever
+  before. Sadly, more than 100,000 Americans died of drug and opioid overdoses
+  in both 2021 and 2022 – that is a direct consequence of Biden’s failure to
+  enforce the law and secure our border. "
 image: /img/memorandums/img_why-defending-taiwan-matters.png
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
-memorandum_categories:
-   - Border Crisis
-weight: 1
-visible: true
 ---
