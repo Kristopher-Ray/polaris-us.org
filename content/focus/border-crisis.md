@@ -8,9 +8,9 @@ summary: President Biden has created a disastrous border crisis that threatens
   are dying because of the humanitarian, drug, and crime crises at the
   U.S./Mexico border. Yet, the Biden administration continues to defend their
   dangerous policies.
-section_img: /img/focus/section_img.png
 btn_label: Learn more about the dangers of a wide-open border →
 image: /img/focus/img_bidens-border-crisis.jpg
+section_img: /img/focus/depositphotos_237454396-stock-photo-united-states-border-wall-american.jpg
 memorandums: border
 accordions: border
 updates: border
