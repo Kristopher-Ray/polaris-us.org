@@ -11,6 +11,8 @@ summary: Morgan Ortagus joins Hugh Hewitt to debunk the idea that America's
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=ls4fIaZmYIE
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
-categories: []
+categories:
+  - Videos
+  - Iran
 image: /img/updates/hqdefault-23.jpg
 ---
