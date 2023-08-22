@@ -51,7 +51,7 @@
                     {{ if or (.Params.pdf) (.Params.banner_link_label) }}
                     <div class="bannerBtns">
                         {{ if .Params.pdf}}
-                        <a class="button btn-xs" href="{{.Params.pdf}}" target="_blank">View / Donload PDF</a>
+                        <a class="button btn-xs" href="{{.Params.pdf}}" target="_blank">View / Download PDF</a>
                         {{end}}
                         {{ if .Params.banner_link_label}}
                         <a class="button btn-blank" href="{{.Params.banner_link}}">{{.Params.banner_link_label | safeHTML}}</a>
@@ -73,7 +73,7 @@
 
                 {{ if .Params.pdf}}
                 <div class="singleBtn pt-3">
-                <a class="button btn-xs w-100" href="{{.Params.pdf}}" target="_blank">View / Donload PDF</a>
+                <a class="button btn-xs w-100" href="{{.Params.pdf}}" target="_blank">View / Download PDF</a>
             </div>
                 {{end}}
         </div>
