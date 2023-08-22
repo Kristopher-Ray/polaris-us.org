@@ -9,6 +9,7 @@ summary: Biden wants to give Iran, the world's leading state sponsor of
   relief.
 btn_label: Find out what Biden is planning and how to stop it →
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
+section_img: /img/focus/images-2.jpeg
 memorandums: iran
 accordions: iran
 updates: iran
