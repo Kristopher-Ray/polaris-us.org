@@ -2,7 +2,7 @@
 visible: true
 memorandum_categories:
   - Russia
-slug: russia
+slug: ""
 summary: "After years of talk, Biden has failed to deter Putin’s invasion of
   Ukraine. Instead, behind the scenes he has given concessions to Russia. "
 pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
