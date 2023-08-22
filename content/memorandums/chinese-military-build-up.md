@@ -4,12 +4,12 @@ weight: 1
 memorandum_categories:
   - China
 title: Chinese Military Build-Up
+pdf: https://docs.google.com/document/d/1_G4oR251sPyG0mcvTUVHkAhSQBYZ9SBU/edit?usp=share_link&ouid=102023491379746009150&rtpof=true&sd=true
 summary: The rapid Chinese military build-up has outpaced U.S. intelligence and
   Pentagon predictions. Instead of preparing the U.S. military to deter the
   rising Chinese threat, Biden calls for decreasing military spending to levels
   members of his own political party refuse to propose.
 image: /img/memorandums/img_chinese_military_buildup.png
-pdf: https://img1.wsimg.com/blobby/go/c8fc2380-cf6c-44bc-9293-3cfdab7b0a2e/downloads/POLARIS%20Chinese%20Military%20Build%20Up.pdf?ver=164978613365891
 ---
 ## Key Points
 
