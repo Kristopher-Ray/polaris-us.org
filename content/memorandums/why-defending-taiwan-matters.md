@@ -1,11 +1,16 @@
 ---
-title: Why Defending Taiwan matters
-summary: China’s growing authoritarian role in the world runs directly counter to U.S. interests and our security— their dangerous ambition to rule the world as they see fit is a direct threat to U.S. security, our interests, and the interest of freedom in the world. Taking over Taiwan would be a crucial first step in the CCP’s long-term plan and endanger the United States immensely.
-image: /img/memorandums/img_why-defending-taiwan-matters.png
-memorandum_categories:
-   - China
-weight: 3
 visible: true
+weight: 3
+memorandum_categories:
+  - China
+title: Why Defending Taiwan Matters
+pdf: https://docs.google.com/document/d/1Ov0-3If1InrXaob1XzjmYGYt_L0bS8Kn/edit?usp=share_link&ouid=102023491379746009150&rtpof=true&sd=true
+summary: China’s growing authoritarian role in the world runs directly counter
+  to U.S. interests and our security— their dangerous ambition to rule the world
+  as they see fit is a direct threat to U.S. security, our interests, and the
+  interest of freedom in the world. Taking over Taiwan would be a crucial first
+  step in the CCP’s long-term plan and endanger the United States immensely.
+image: /img/memorandums/img_why-defending-taiwan-matters.png
 ---
 
 ## Word Key:
