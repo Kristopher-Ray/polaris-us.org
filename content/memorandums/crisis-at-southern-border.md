@@ -4,6 +4,7 @@ weight: 1
 memorandum_categories:
   - Border
 title: Crisis at the Southern Border
+pdf: https://drive.google.com/file/d/1Du30ItrDeyYAzlh9bkmn04M5om6BO1uj/view?usp=sharing
 summary: "Joe Biden has created a disastrous border crisis that threatens
   Americans’ security, and it keeps getting worse. There is more fentanyl and
   deadly drugs passing through our border and killing Americans than ever
@@ -11,7 +12,6 @@ summary: "Joe Biden has created a disastrous border crisis that threatens
   in both 2021 and 2022 – that is a direct consequence of Biden’s failure to
   enforce the law and secure our border. "
 image: /img/memorandums/depositphotos_237454396-stock-photo-united-states-border-wall-american.jpg
-pdf: https://www.jstor.org/stable/pdf/resrep11961.6.pdf
 ---
 **Joe Biden has created a disastrous border crisis that threatens Americans’ security, and it keeps getting worse**. 
 
