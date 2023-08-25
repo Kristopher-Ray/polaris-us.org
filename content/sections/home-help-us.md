@@ -14,7 +14,7 @@ id: help-us
 
 * Help Elect Real Leaders to Congress
 * Help Make an Impact with Our Initiatives
-* Something else you can give?
+* Something Else You Can Give?
   {.checklist .pt-2 .mt-1}
 
 <a href="https://secure.winred.com/polaris-national-security-pac/donate" target="_blank" class="button btn-big mt-3">Make A Contribution →</a>
