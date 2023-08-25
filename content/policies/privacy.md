@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: Polaris National Security is committed to protecting the privacy of our online guests, users, staff, members, and friends through our compliance with this policy.
+description: Polaris Action Inc is committed to protecting the privacy of our online guests, users, staff, members, and friends through our compliance with this policy.
 sitemap:
   priority: 0
 ---
@@ -9,7 +9,7 @@ Last modified: 8/3/2023
 
 ## Introduction
 
-Polaris National Security is committed to protecting the privacy of our online guests, users, staff, members, and friends through our compliance with this policy.
+Polaris Action Inc is committed to protecting the privacy of our online guests, users, staff, members, and friends through our compliance with this policy.
 We believe that maintaining privacy on the internet is very important and hope you will read this Privacy Policy carefully so that you will clearly understand both our commitment to you and your privacy and our method of collecting and using information.
 
 This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit the website Polaris-US.org and our practices for collecting, using, maintaining, protecting, and disclosing that information. 

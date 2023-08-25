@@ -17,8 +17,8 @@ params:
   instagram_link: https://www.instagram.com/polarisnatsec/
   youtube_link: https://www.youtube.com/channel/UCtGcOmOrtHtPFyjdzwGGvpA
   #google_analytics: UA-
-  paid_for: Paid for by Polaris National Security
-  form_endpoint: 123456
+  paid_for: Paid for by Polaris Action Inc
+  form_endpoint: https://usebasin.com/f/bc8c13289456
   donate_link: https://secure.winred.com/polaris-national-security-pac/donate
 markup:
   goldmark:
