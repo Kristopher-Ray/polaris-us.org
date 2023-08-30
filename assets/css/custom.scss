@@ -227,6 +227,10 @@ img {
   &:focus {
     color: #fff;
   }
+  &.btn-haze{
+    background: $haze;
+    color: $primary-dark;
+  }
   &.btn-white-opacity {
     background: rgba(255, 255, 255, 0.6);
     color: $primary-dark;
@@ -236,6 +240,12 @@ img {
       background: #fff;
       color: $primary-dark;
     }
+  }
+  &.btn-sm{
+    height: $line-height-desktop - 8;
+    line-height: $line-height-desktop - 8;
+    text-transform: none;
+    font-size: 0.94rem;
   }
   &.btn-xs {
     padding: 0 0.95em;
@@ -342,9 +352,16 @@ img {
       line-height: $line-height-mobile + 2;
       font-size: 1.1rem;
     }
+    &.btn-sm{
+      height: $line-height-mobile - 2;
+      line-height: $line-height-mobile - 2;
+    }
   }
   @media (max-width: 575px) {
     padding: 0 1.1em;
+    &.btn-sm{
+      padding: 0 0.9em;
+    }
   }
 }
 main {
@@ -1259,7 +1276,39 @@ form {
     border-color: $blue;
   }
 }
-
+#categoryFilter {
+	display: flex;
+	align-items: center;
+  margin-bottom: 1.8rem;
+  @media (max-width: 767px) {
+    display: block; text-align:center;
+  }
+  span{
+    color: #000; 
+font-family: $body-font;
+font-size: 0.888rem;
+font-style: normal;
+font-weight: 800;
+line-height: 1.2em;
+letter-spacing: 0.17em;
+text-transform: uppercase;
+  }
+  ul.categoriesList{
+    margin: 0; padding: 0; list-style: none;
+    display: flex; flex-wrap: wrap;
+    width: 50%; flex-grow: 1;
+    @media (max-width: 767px) {
+      width: 100%; justify-content: center;
+      padding-top: .8rem;
+    }
+    li{
+margin: 0.4rem 0 0.4rem 0.8rem;
+@media (max-width: 767px) {
+  margin: 0.4rem;
+}
+    }
+  }
+}
 footer {
   padding: 4.5rem 0 10rem;
   position: relative;
