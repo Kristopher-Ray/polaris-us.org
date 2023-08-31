@@ -20,9 +20,11 @@
         <div id="categoryFilter">
             <span>SORT by:</span>
             <ul class="categoriesList">
-                {{ range .Site.Taxonomies.categories }}
-                <li><a class="button rounded-2 btn-sm btn-haze" href="{{.Page.Permalink}}">{{.Page.Title}}</a></li>
-                {{end}}
+                
+                <li><a class="button rounded-2 btn-sm btn-haze" href="/categories/videos">TV Appearances</a></li>
+                <li><a class="button rounded-2 btn-sm btn-haze" href="/categories/america-the-great-tour">Events</a></li>
+                <li><a class="button rounded-2 btn-sm btn-haze" href="/categories/newsroom">Articles</a></li>
+                
             </ul>
         </div>
         <div class="row entries_all">
