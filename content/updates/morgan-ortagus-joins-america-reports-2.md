@@ -14,5 +14,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Iran
-image: /img/updates/img_6b26befe0637-1.jpeg
+image: ""
 ---
