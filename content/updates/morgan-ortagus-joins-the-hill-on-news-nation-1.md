@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins The Hill on News Nation
+title: Morgan Ortagus Joins The Hill on News Nation
 date: 2023-09-19T15:38:29.112Z
 summary: Morgan Ortagus joins The Hill on News Nation to discuss the missing
   F-35 jet and how we can prevent future incidents with stealth equipment.
