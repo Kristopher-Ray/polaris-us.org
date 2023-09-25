@@ -1,6 +1,6 @@
 ---
 visible: true
-title: Morgan Ortagus Joins Fox News Sunday to discuss the Afghan withdrawal.
+title: Morgan Ortagus Joins Fox News Sunday
 date: 2023-04-09
 summary: " Morgan Ortagus joined Fox News Sunday to discuss the Afghan
   withdrawal: American lives lost, allies left behind, and an overwhelming
