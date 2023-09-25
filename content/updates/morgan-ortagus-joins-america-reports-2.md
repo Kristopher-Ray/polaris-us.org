@@ -1,8 +1,8 @@
 ---
 visible: true
 draft: false
-featured: true
-title: Morgan Ortagus joins America Reports
+featured: false
+title: Morgan Ortagus Joins America Reports
 date: 2023-09-18T15:29:55.229Z
 summary: "Morgan Ortagus joins America Reports to discuss the controversial $6
   billion hostage deal that the Biden Administration negotiated with Iran. The
@@ -14,5 +14,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Iran
-image: /img/updates/img_5452.jpeg
+image: /img/updates/img_5701.jpeg
 ---
