@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Gutfeld!
+title: Morgan Ortagus Joins Gutfeld!
 date: 2023-09-19T15:52:49.297Z
 summary: Morgan Ortagus joins Gutfeld! to discuss New York City's bid to rip
   down more monuments. "How about a committee to deal with crime and
