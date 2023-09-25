@@ -9,5 +9,7 @@ summary: Morgan Ortagus joins The Hill on News Nation to discuss the missing
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=PG79LcdQlrY
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
-image: /img/updates/img_6b26befe0637-1.jpeg
+categories:
+  - Videos
+image: /img/updates/img_a40b19c533bb-1.jpeg
 ---
