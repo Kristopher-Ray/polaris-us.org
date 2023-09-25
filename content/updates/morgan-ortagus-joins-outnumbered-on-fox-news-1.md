@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Outnumbered on Fox News
+title: Morgan Ortagus Joins Outnumbered
 date: 2023-09-19T15:48:52.148Z
 summary: Morgan Ortagus joins Outnumbered to discuss Attorney General Merrick
   Garland's testimony before the House Judiciary Committee.
