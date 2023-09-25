@@ -11,5 +11,7 @@ summary: Morgan Ortagus joins Varney & Co. to discuss the UN General Assembly
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=Juf5zHfY9x8
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
+categories:
+  - Videos
 image: /img/updates/hqdefault-32.jpg
 ---
