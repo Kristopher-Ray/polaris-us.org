@@ -9,7 +9,7 @@ summary: Morgan Ortagus, Former U.S. Department of State Spokesperson and
   Founder of Polaris National Security, released the following statement
   regarding an Iranian initiative to infiltrate U.S. Administrations.
 author: POLARIS Founder, Morgan Ortagus
-outbound: https://myemail.constantcontact.com/NEW--Morgan-Ortagus-Releases-Statement-On-Iranian-Influence-Campaigns-with-U-S--Officials.html?soid=1138878947771&aid=MnGqnJDaAsI
+outbound: https://killbox.substack.com/p/is-the-biden-administration-employing?utm_campaign=email-half-post&r=28jtxm&utm_source=substack&utm_medium=email
 cta: Read More →
 categories:
   - Newsroom
