@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Releases Statement On Iranian Influence Campaigns with
   U.S. Officials
 date: 2023-09-26T15:36:28.428Z
