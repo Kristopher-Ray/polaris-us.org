@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Varney & Co.
+title: Morgan Ortagus Joins Varney & Co.
 date: 2023-10-03T19:04:46.387Z
 summary: "Morgan Ortagus Joins Varney & Co.: America must address the
   inadequacies in our munitions production capabilities- now. Bottom line: we
