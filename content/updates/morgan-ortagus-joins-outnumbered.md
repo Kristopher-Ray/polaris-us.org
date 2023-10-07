@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2023-07-03T15:59:02.728Z
 summary: Morgan Ortagus joined Outnumbered on Fox News to discuss the tragedy of
