@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins News Nation's Morning in America
+title: Morgan Ortagus Joins News Nation's Morning in America
 date: 2023-09-09T02:22:33.460Z
 summary: Morgan Ortagus joins Morning in America to discuss China sending a
   delegation to North Korea after Kim Jung Un planned a trip to Moscow.
