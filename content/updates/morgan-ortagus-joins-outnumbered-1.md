@@ -2,8 +2,8 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins Outnumbered
-date: 2023-10-07T19:06:33.982Z
+title: Morgan Ortagus Joins Outnumbered
+date: 2023-10-04T19:06:33.982Z
 description: ""
 summary: "Morgan Ortagus on Outnumbered: I have a message for the Congressman
   from New York and his staff who flippantly labeled his Republican colleagues
