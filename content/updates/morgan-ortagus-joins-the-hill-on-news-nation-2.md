@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins The Hill on News Nation
+title: Morgan Ortagus Joins The Hill on News Nation
 date: 2023-10-04T19:08:35.150Z
 summary: Morgan Ortagus joins The Hill on News Nation to discuss the transfer of
   seized Iranian weapons to the Ukrainian war effort.
