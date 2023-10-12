@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: true
 title: POLARIS Hosts The America the Great Tour in Nashua, NH
-date: 2023-10-13T14:24:46.217Z
+date: 2023-10-12T14:24:46.217Z
 summary: Friday October 13th in Nashua, New Hamoshire, POLARIS National Security
   is hosting the next stop of our 'America the Great' Tour. Along with the
   Bastion Institute, we are hosting the main kickoff event to the "First in the
