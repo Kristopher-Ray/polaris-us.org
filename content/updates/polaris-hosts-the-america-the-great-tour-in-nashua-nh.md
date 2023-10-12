@@ -17,5 +17,5 @@ outbound: https://www.eventbrite.com/e/america-the-great-tour-kicks-off-first-in
 cta: RSVP HERE
 categories:
   - Events
-image: /img/updates/america-the-great-tour-event-flyer-.jpg
+image: /img/updates/img_6063.jpeg
 ---
