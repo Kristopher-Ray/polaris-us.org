@@ -17,5 +17,5 @@ outbound: https://www.eventbrite.com/e/america-the-great-tour-kicks-off-first-in
 cta: RSVP HERE
 categories:
   - Events
-image: /img/updates/polaris-blue-stacked-logo.jpg
+image: /img/updates/polaris-blue-stacked-logo.jpeg
 ---
