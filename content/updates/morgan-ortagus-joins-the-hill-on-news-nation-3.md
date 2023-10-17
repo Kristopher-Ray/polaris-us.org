@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Morgan Ortagus joins The Hill on News Nation
+title: Morgan Ortagus Joins The Hill on News Nation
 date: 2023-10-09T19:03:48.459Z
 summary: Morgan Ortagus joins The Hill on News Nation to give updates and
   analysis out of the war in Israel. "The reality of what Israelis and Jews are
