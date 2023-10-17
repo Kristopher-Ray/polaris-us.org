@@ -2,20 +2,19 @@
 visible: true
 draft: false
 featured: false
-title: POLARIS Hosts The America the Great Tour in Nashua, NH
-date: 2023-10-12T14:24:46.217Z
-summary: Friday October 13th in Nashua, New Hampshire, POLARIS National Security
-  is hosting the next stop of our 'America the Great' Tour. Along with the
-  Bastion Institute, we are hosting the main kickoff event to the "First in the
-  Nation Leadership Summit". This kickoff event will be a national
-  security-focused panel with Senator Joni Ernst, Special Guest Gov. Doug
-  Burgum, and Fmr. State Department Spokesperson Morgan Ortagus. It takes place
-  on Friday, October 13th at The Sheraton Hotel in Nashua, NH. The 'America The
-  Great' tour focuses on in-depth conversations on the most pressing national
-  security topics with our nation’s top leaders.
-outbound: https://www.eventbrite.com/e/america-the-great-tour-kicks-off-first-in-the-nation-leadership-summit-tickets-731381059437?aff=oddtdtcreator
-cta: RSVP HERE
+title: America the Great Tour with Special Guests Joni Ernst, Doug Burgum, and
+  Morgan Ortagus
+date: 2023-10-13T14:24:46.217Z
+summary: Polaris National Security is partnering with The Bastion Institute to
+  continue the "America the Great" Tour in Nashua, New Hampshire on Friday,
+  October 13th at 12:00 pm. The forum will be a continuation of Polaris National
+  Security's 2023 event series, with special guests, Senator of the great state
+  of Iowa, Joni Ernst, North Dakota Governor Doug Burgum, and former State
+  Department Spokesperson and Polaris National Security founder, Morgan Ortagus.
+  Tune in here!
+outbound: https://www.youtube.com/watch?v=M9HNiAVokko&t=2815s
+cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Events
-image: /img/updates/polaris-blue-stacked-logo.jpeg
+image: /img/updates/20231013-polaris-161.jpg
 ---
