@@ -4,7 +4,7 @@ draft: false
 featured: false
 title: Morgan Ortagus delivers speech at the First in the Nation Leadership
   Summit in Nashua, New Hampshire
-date: 2023-10-19T13:44:03.259Z
+date: 2023-10-14T13:44:03.259Z
 summary: The future war we face will be led by a new axis of terror. China,
   Russia, and Iran are united in their mission to destroy the U.S. and have
   indoctrinated, killed, and oppressed their own people to get closer to that
