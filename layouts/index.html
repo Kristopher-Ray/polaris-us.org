@@ -52,8 +52,9 @@
 
 {{ partial "scripts.html" . }}
 
-<!--<div id="popup" class="mfp-hide">
-    <a href="https://www.eventbrite.com/e/america-the-great-tour-kicks-off-first-in-the-nation-leadership-summit-tickets-731381059437?aff=oddtdtcreator" target="_blank"><img src="/img/popup.jpg" alt="RSVP Here"></a>
+{{ if .Site.Params.popup }}
+<div id="popup" class="mfp-hide">
+    <a href="{{ .Site.Params.popup_link }}" target="_blank"><img src="{{ .Site.Params.popup }}" alt="{{ .Site.Title }} - Popup"></a>
 </div>
 
 <script>
@@ -65,7 +66,8 @@
             }
         });
     });
-</script>-->
+</script>
+{{end}}
 
 <!-- Enable for NetlifyCMS -->
 <script>

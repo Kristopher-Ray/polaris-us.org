@@ -158,3 +158,5 @@ collections:
               - { label: "Youtube Link", name: "youtube_link", widget: "string", required: false }
               - { label: "Paid For Language", name: "paid_for", widget: "string", required: false }
               - { label: "Form Endpoint", name: "form_endpoint", widget: "string", required: false }
+              - { label: "Popup Image", name: "popup", widget: "image", required: false }
+              - { label: "Popup Link", name: "popup_link", widget: "string", required: false }
