@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins Outnumbered
 date: 2023-10-25T20:17:25.242Z
 summary: Morgan Ortagus joins Outnumbered to discuss the Biden Administration's
