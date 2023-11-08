@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2023-10-24T19:51:51.814Z
 summary: Morgan Ortagus joins America Reports to discuss the hostages released
