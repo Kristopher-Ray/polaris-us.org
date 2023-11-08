@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: true
-title: Morgan Ortagus joins Outnumbered
+title: Morgan Ortagus Joins Outnumbered
 date: 2023-10-25T19:35:42.536Z
 summary: Morgan Ortagus joins Outnumbered to discuss the Biden Administration's
   failed policy of appeasement.
