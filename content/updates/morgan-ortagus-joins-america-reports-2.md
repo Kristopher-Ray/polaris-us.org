@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2023-09-18T15:29:55.229Z
 summary: "Morgan Ortagus joins America Reports to discuss the controversial $6
