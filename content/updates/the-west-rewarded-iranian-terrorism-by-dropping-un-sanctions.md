@@ -14,5 +14,6 @@ outbound: https://thehill.com/opinion/4265145-the-west-rewarded-iranian-terroris
 cta: Read More →
 categories:
   - Newsroom
+  - Iran
 image: /img/updates/ap23155441147475-e1696939055596.jpg.webp
 ---
