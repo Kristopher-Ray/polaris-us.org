@@ -16,5 +16,6 @@ outbound: https://www.youtube.com/watch?v=M9HNiAVokko&t=2815s
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Events
+  - America the Great Tour
 image: /img/updates/20231013-polaris-161.jpg
 ---
