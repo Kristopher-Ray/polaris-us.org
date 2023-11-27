@@ -140,6 +140,20 @@ collections:
       - {label: "Section Size", name: "size", widget: "string", required: false}
       - {label: "Position", name: "position", widget: "string", required: false}
       - {label: "Section ID", name: "id", widget: "string", required: false}
+  - name: "gallery"
+    label: "Gallery"
+    folder: "content/gallery"
+    media_folder: '/static/img/gallery'
+    public_folder: '/img/gallery'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Image Title / Description", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image" , required: false}
+      - {label: "Order (related to all entries)", name: "weight", widget: "number" }
   - label: "Configuration"
     name: "configuration"
     files:
