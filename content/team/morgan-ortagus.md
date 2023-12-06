@@ -2,7 +2,7 @@
 title: Morgan Ortagus
 position: Founder
 career: Former Spokesperson for the U.S. Department of State
-image: /img/img_6781.jpeg
+image: /img/img_d29b24713e8a-1.jpeg
 team_categories:
   - Leadership
 weight: 1
