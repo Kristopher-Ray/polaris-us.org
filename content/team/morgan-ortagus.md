@@ -2,12 +2,12 @@
 title: Morgan Ortagus
 position: Founder
 career: Former Spokesperson for the U.S. Department of State
-image: /img/team/morgan-ortagus.png
+image: /img/img_6781.jpeg
 team_categories:
   - Leadership
 weight: 1
 ---
-Morgan Ortagus is the founder of POLARIS National Security. Morgan is also an intelligence officer in the U.S. Navy reserves. 
+Morgan Ortagus is the founder of POLARIS National Security and host of "The Morgan Ortagus Show" on SiriusXM. She is also an Officer in the U.S. Navy Reserves. 
 
 From 2019-2021, she served at the Department of State as the Spokesperson for the United States of America. At the State Department, she worked closely with the White House on the historic Abraham Accords and led U.S. government efforts to push back against sophisticated Chinese, Russian, and Iranian malign influence campaigns. 
 
