@@ -13,6 +13,6 @@ From 2019-2021, she served at the Department of State as the Spokesperson for th
 
 She previously worked at the Department of the Treasury as an intelligence analyst, and from 2010-2011 was the deputy U.S. Treasury Attaché to the Kingdom of Saudi Arabia.
 
-In 2007, Morgan spent several months in Baghdad, Iraq at the USAID Mission, and was a national security contributor to Fox News. 
+In 2007, Morgan spent several months in Baghdad, Iraq at the USAID Mission, and was a national security contributor to Fox News.
 
 Morgan graduated with a bachelor's degree in political science, cum laude, from Florida Southern College, and she also earned a dual Master of Arts in Government (with an honors thesis)/Master of Business Administration from the John Hopkins University in 2013. Morgan and her husband, Jonathan, live with their daughter, Adina, in Nashville, Tennessee.
