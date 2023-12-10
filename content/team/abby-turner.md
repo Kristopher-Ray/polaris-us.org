@@ -6,7 +6,7 @@ memorandum_categories:
 image: /img/img_6799.jpeg
 weight: 7
 ---
-Abby Turner is the Policy Advisor and Director of Operations for Polaris National Security.
+Abby Turner is the Policy Advisor and Director of Operations for POLARIS National Security.
 
 She previously worked for Senator Ted Cruz (R-TX) from October 2021-December 2023. During her time in the Senators office, she played a vital role on his national security team. Her primary area of concentration was Middle East policy.
 
