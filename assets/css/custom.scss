@@ -130,7 +130,7 @@ ul.checkList {
     }
     &:before {
       content: "\f058";
-      font-family: "Font Awesome 6 Free";
+      font-family: "Font Awesome 6 Pro";
       top: 0.75em;
       position: absolute;
       left: 0;
@@ -1766,7 +1766,7 @@ ul.checklist {
     &:before {
       color: $action-color;
       content: "\f058";
-      font-family: "Font Awesome 6 Free";
+      font-family: "Font Awesome 6 Pro";
       font-size: 1.09em;
       font-style: normal;
       font-weight: 400;
@@ -1798,7 +1798,7 @@ ul.list-shield {
       content: "\f132";
       position: absolute;
       left: 0;
-      font-family: "Font Awesome 6 Free";
+      font-family: "Font Awesome 6 Pro";
       font-weight: 900;
       font-size: 1.44rem;
       color: $action-color;
@@ -2154,7 +2154,7 @@ ul.list-spacing {
       }
       &:before {
         content: "\2b";
-        font-family: "font awesome 6 free";
+        font-family: "Font Awesome 6 Pro";
         font-weight: 900;
         color: #fff;
         font-size: 0.8em;
