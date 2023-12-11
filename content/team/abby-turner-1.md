@@ -1,7 +1,7 @@
 ---
 title: Abby Turner
 position: Policy Advisor / Director of Operations
-memorandum_categories:
+team_categories:
   - Team
 image: /img/img_6799.jpeg
 weight: 7
