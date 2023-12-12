@@ -10,7 +10,7 @@ summary: SiriusXM announces that Morgan Ortagus, former State Department
 author: POLARIS Founder, Morgan Ortagus
 categories:
   - Newsroom
-image: /img/updates/img_5bfc660134f7-1.jpeg
+image: /img/updates/morgan-ortagus-announces-launch-of-morgan-ortagus-show-sirius-xm.jpg
 ---
 SiriusXM today announced that Morgan Ortagus, former State Department Spokeswoman under the Trump administration, will host a Sunday news and foreign policy program for **SiriusXM Patriot channel 125.** **Premiering this Sunday, December 10, The Morgan Ortagus Show will air live from 11 am – 1 pm EST** and will regularly broadcast live from key locations all over the globe.
 

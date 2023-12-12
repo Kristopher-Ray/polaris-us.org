@@ -3,7 +3,7 @@ title: Abby Turner
 position: Policy Advisor / Director of Operations
 team_categories:
   - Team
-image: /img/img_6799.jpeg
+image: /img/team/img_6799.jpeg
 weight: 7
 ---
 Abby Turner is the Policy Advisor and Director of Operations for POLARIS National Security.

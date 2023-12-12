@@ -1032,6 +1032,12 @@ form {
       background: linear-gradient(0deg, #0e1637 0%, rgba(14, 22, 55, 0) 40%);
       z-index: 2;
     }
+
+    &.bg-image {
+      img {
+        object-position: center top;
+      }
+    }
     .postMeta {
       position: absolute;
       width: 100%;

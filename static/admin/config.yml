@@ -117,6 +117,8 @@ collections:
   - name: "team"
     label: "Team"
     folder: "content/team"
+    media_folder: '/static/img/team'
+    public_folder: '/img/team'
     create: true
     slug: "{{slug}}"
     fields:
