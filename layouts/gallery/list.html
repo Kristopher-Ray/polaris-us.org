@@ -40,7 +40,7 @@
 
             {{ range .Pages }}
             <div class="col col-12 col-md-4">
-                <a href="{{ .Params.image }}" class="gallery-item" title="{{ .Title }}"><img src="{{ .Params.image }}" alt="{{ .Title }} - Morgan Ortagus Gallery Image"></a>
+                <a href="{{ .Params.image }}" class="gallery-item" title="{{ .Title }}"><img class="lazyload" data-src="{{ .Params.image }}" alt="{{ .Title }} - Morgan Ortagus Gallery Image"></a>
             </div>
             {{ end }}
 
