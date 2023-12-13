@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins Outnumbered
 date: 2023-12-05T15:42:20.152Z
 summary: Morgan Ortagus joins Outnumbered to discuss the hypocrisy of some
