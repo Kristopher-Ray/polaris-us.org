@@ -2,10 +2,10 @@
 visible: true
 draft: false
 title: Event Title Goes Here
-date: 2023-11-18
+date: 2023-11-22
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam est lacus, pulvinar sed ante vitae, tincidunt maximus sapien. Aliquam volutpat at diam a ullamcorper. In tincidunt dui orci, id accumsan eros condimentum in. Integer ac fringilla urna. 
 cta: Read More →
-image: /img/gallery/20231013-polaris-061.jpg
+image: /img/gallery/20230805-mike-pence-033.jpg
 ---
 ## Title Inside a Post
 

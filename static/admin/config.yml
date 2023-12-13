@@ -156,6 +156,25 @@ collections:
       - {label: "Image Title / Description", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image" , required: false}
       - {label: "Order (related to all entries)", name: "weight", widget: "number" }
+  - name: "events"
+    label: "Past Events"
+    folder: "content/events"
+    media_folder: '/static/img/updates'
+    public_folder: '/img/updates'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Short Summary", name: "summary", widget: "string", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false }
+      - {label: "Past Event Recap Body", name: "body", widget: "markdown", required: false}
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
   - label: "Configuration"
     name: "configuration"
     files:

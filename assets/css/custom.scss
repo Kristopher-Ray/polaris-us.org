@@ -2295,3 +2295,46 @@ ul.list-spacing {
     display: none;
   }
 }
+
+#eventsPage {
+  .entries_all {
+    .col {
+      display: block;
+    }
+  }
+    
+  .entry {
+    position: relative;
+    padding: 200px 20px 20px 20px;
+    border-radius: 8px;
+    overflow: hidden;
+
+    .postMeta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width:100%;
+      padding:0;
+      margin:0;
+    }
+
+    .entry-title {
+      position: relative;
+      z-index: 2;
+
+      h3 {
+        a {
+          color: #fff;
+        }
+      }
+    }
+    .entry-img {
+      position: absolute;
+      height: 100%;
+
+      &:before {
+        background: linear-gradient(0deg, #0E1637 20.87%, rgba(14, 22, 55, 0.00) 66.58%);
+      }
+    }
+  }
+}
