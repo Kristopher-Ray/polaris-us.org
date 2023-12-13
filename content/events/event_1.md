@@ -1,33 +1,13 @@
 ---
 visible: true
 draft: false
-title: Event Title Goes Here
-date: 2023-11-18
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam est lacus, pulvinar sed ante vitae, tincidunt maximus sapien. Aliquam volutpat at diam a ullamcorper. In tincidunt dui orci, id accumsan eros condimentum in. Integer ac fringilla urna. 
+title: America the Great Tour with Nikki Haley
+date: 2023-06-28T05:00:00.000Z
+summary: POLARIS National Security hosts the return of our 'America the Great'
+  Tour with Special Guest, Former Governor Nikki Haley, on June 28th in
+  Portsmouth, NH. The 'America The Great' tour is a townhall style event with
+  in-depth conversations on the most pressing national security topics with our
+  nations top leaders.
 cta: Read More →
-image: /img/gallery/20231013-polaris-061.jpg
+image: /img/updates/069-4331-230628-douglas-coulter.jpg
 ---
-## Title Inside a Post
-
-![Sample Image](https://picsum.photos/1000/400)
-{.img-fluid}
-
-##### **Description:** An example placeholder below an image is seen inside a body post{.small}
-
-### Smaller Title Inside a Post
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in consectetur orci. Aliquam nec ante ultrices, maximus nulla ac, imperdiet dui. Aenean ut pulvinar neque. Mauris varius faucibus leo. Sed in molestie purus, eu maximus sem. Duis quis elementum tellus.
-
-This is an inline image: ![Inline Image](https://picsum.photos/100). Some more text. Duis gravida, est vitae pellentesque pellentesque, dui nisl tristique sapien, in ornare ligula urna eget sem. Pellentesque auctor justo a mauris rhoncus feugiat. Proin cursus nibh ac mi suscipit, pretium pulvinar arcu efficitur.
-
-{{< youtube dQw4w9WgXcQ >}}
-
-> Donec metus nunc, facilisis sed mauris a, sagittis dapibus arcu. Suspendisse iaculis odio at auctor varius. Nulla facilisi. Vestibulum vulputate venenatis justo a vulputate. Curabitur purus metus, molestie eu sagittis semper, condimentum quis sapien. Aliquam at ante vitae purus eleifend imperdiet quis quis arcu.
-
-**Praesent eget ligula in enim suscipit accumsan. Fusce ultricies diam in risus porta iaculis.**
-
-- Duis vehicula sodales varius. 
-- Nam a nibh ut erat laoreet bibendum.
-- Vivamus ut elit non tortor condimentum ultricies.
-  
-*In vel imperdiet felis*, id auctor justo. Quisque vitae elit commodo, auctor nisi sed, consectetur metus. [Donec vestibulum varius libero eu fermentum.](https://google.com)
