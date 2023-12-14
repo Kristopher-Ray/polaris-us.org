@@ -2,6 +2,7 @@
 visible: true
 draft: false
 title: America the Great Tour with Nikki Haley
+outbound: https://www.youtube.com/watch?v=zfUE0BGTYsI&t=429s
 date: 2023-06-28T05:00:00.000Z
 summary: POLARIS National Security hosts the return of our 'America the Great'
   Tour with Special Guest, Former Governor Nikki Haley, on June 28th in
