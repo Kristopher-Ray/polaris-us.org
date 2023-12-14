@@ -12,5 +12,5 @@ outbound: https://www.youtube.com/watch?v=viD2vQXEDyo
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
-image: /img/updates/hqdefault-64.jpg
+image: /img/updates/hqdefault-64.jpeg
 ---
