@@ -53,6 +53,9 @@ menu:
     - name: About
       url: /about
       weight: 30
+    - name: Gallery
+      url: /gallery
+      weight: 35
     - name: Contact
       url: /contact
       weight: 40
@@ -69,6 +72,9 @@ menu:
     - name: About
       url: /about
       weight: 40
+    - name: Gallery
+      url: /gallery
+      weight: 45
     - name: Contact
       url: /contact
       weight: 50
