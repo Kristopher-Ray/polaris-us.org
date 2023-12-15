@@ -1,8 +1,7 @@
 ---
 visible: true
 draft: false
-title: America the Great Tour with Special Guests Joni Ernst, Doug Burgum, and
-  Morgan Ortagus
+title: America the Great Tour with Special Guests Joni Ernst and Doug Burgum
 outbound: https://www.youtube.com/watch?v=M9HNiAVokko&t=2815s
 date: 2023-10-13T05:00:00.000Z
 summary: Polaris National Security partnered with The Bastion Institute to
