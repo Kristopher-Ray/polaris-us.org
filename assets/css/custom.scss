@@ -611,7 +611,7 @@ header {
         text-decoration: none;
       }
 
-      @media (max-width: 767px) {
+      @media (max-width: 991px) {
         display: inline-block;
       }
     }
@@ -621,7 +621,7 @@ header {
       padding: 0;
       margin: 0;
 
-      @media (max-width: 767px) {
+      @media (max-width: 991px) {
         display: none;
         position: absolute;
         background:$primary-dark;
@@ -639,7 +639,7 @@ header {
         margin-right: 1.2em;
         display: inline-block;
 
-        @media (max-width: 767px) {
+        @media (max-width: 991px) {
           width: 100%;
           margin: 0;
           padding: 0;
@@ -653,7 +653,7 @@ header {
             color: $action-color;
           }
 
-          @media (max-width: 767px) {
+          @media (max-width: 991px) {
             display: block;
             padding: 10px;
 
