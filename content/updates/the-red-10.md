@@ -11,7 +11,7 @@ summary: "The list of the CCP’s aggressive acts grows monthly – from support
   the CCP from carrying out its goals of domination cannot be achieved without
   the cooperation of the American business community. "
 author: POLARIS National Security
-outbound: https://publuu.com/flip-book/340175/781651
+outbound: https://polaris-us.org/memorandums/the-red-10-the-ten-worst-corporate-appeasers-of-communist-china/
 cta: Read More →
 categories:
   - Newsroom
