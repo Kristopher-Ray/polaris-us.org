@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: The Red 10
 date: 2023-12-18T14:05:31.060Z
