@@ -10,5 +10,8 @@ summary: Corporate America got called on the carpet for its stand-down approach
 author: Kenneth Rapoza
 outbound: https://prosperousamerica.org/china-corporate-america-hudson-institute/
 cta: Read More →
+categories:
+  - Newsroom
+  - China
 image: /img/updates/hudsn.jpg
 ---
