@@ -8,5 +8,7 @@ summary: The Ten Worst Corporate Appeasers of Communist China
 author: POLARIS National Security
 outbound: https://publuu.com/flip-book/340175/781651
 cta: Read More →
+categories:
+  - Newsroom
 image: /img/updates/red10pic.png
 ---
