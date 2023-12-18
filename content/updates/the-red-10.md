@@ -15,5 +15,6 @@ outbound: https://publuu.com/flip-book/340175/781651
 cta: Read More →
 categories:
   - Newsroom
+  - China
 image: /img/updates/red10pic.png
 ---
