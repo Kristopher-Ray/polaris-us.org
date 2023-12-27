@@ -4,7 +4,7 @@ draft: false
 weight: 1
 memorandum_categories:
   - China
-title: "THE RED 10: THE TEN WORST CORPORATE APPEASERS OF COMMUNIST CHINA"
+title: "THE RED 10: The Ten Worst Corporate Appeasers of Communist China"
 pdf: https://publuu.com/flip-book/340175/781651/page/1
 summary: "The list of the CCP’s aggressive acts grows monthly – from supporting
   Russia’s invasion of Ukraine to flying a spy balloon over the continental
