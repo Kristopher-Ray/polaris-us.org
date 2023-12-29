@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Hannity
 date: 2023-11-24T18:53:22.352Z
 summary: Morgan Ortagus joins Hannity to reunite with Dori, whose cousin and
