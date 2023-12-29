@@ -1,16 +1,14 @@
 ---
-visible: true
 draft: false
 featured: false
-title: Morgan Ortagus Joins Hannity
-date: 2023-12-21T20:25:14.882Z
-summary: Morgan Ortagus joins Hannity on Fox News to discuss the Houthi attacks
-  in the Red Sea and what it means for holiday packages.
+title: Morgan Ortagus Joins Special Report
+date: 2023-12-13T20:28:25.409Z
+summary: Morgan Ortagus joins Special Report with Bret Baier to discuss the
+  congressional vote to formalize a Biden impeachment inquiry.
 author: POLARIS Founder, Morgan Ortagus
-outbound: https://www.youtube.com/watch?v=ofJTESicPtQ
+outbound: https://www.youtube.com/watch?v=SC2HMyRw-0w
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
-  - Red Sea
-image: /img/updates/img_1c6566961ca2-1.jpeg
+image: /img/updates/img_536d8ae918f2-1.jpeg
 ---
