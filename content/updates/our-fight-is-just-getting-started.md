@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Our Fight is Just Getting Started.
 date: 2024-01-03T18:55:00.560Z
 summary: I founded @polarisnatsec to help Americans understand how our
