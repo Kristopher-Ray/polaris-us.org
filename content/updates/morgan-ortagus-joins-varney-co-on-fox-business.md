@@ -13,5 +13,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Israel
-image: /img/updates/hqdefault-68.jpeg
+image: /img/updates/img_fe75c4f778a6-1.jpeg
 ---
