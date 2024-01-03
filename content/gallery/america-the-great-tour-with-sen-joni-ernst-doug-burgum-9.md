@@ -3,5 +3,5 @@ visible: true
 draft: false
 title: America the Great Tour with Sen. Joni Ernst & Doug Burgum
 image: /img/gallery/20231013-polaris-233.jpg
-weight: 27
+weight: 1
 ---
