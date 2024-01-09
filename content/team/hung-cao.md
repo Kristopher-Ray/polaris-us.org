@@ -1,10 +1,10 @@
 ---
 title: Hung Cao
 position: Senior Advisor
-image: /img/team/hung-cao.png
 team_categories:
   - Team
-weight: 2
+image: /img/team/hung-cao.png
+weight: 3
 ---
 Hung Cao is a senior advisor to Polaris National Security. He is the Vice President for Navy and Marine Corps programs at CACI International.
 
