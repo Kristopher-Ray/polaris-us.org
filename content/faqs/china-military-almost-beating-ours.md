@@ -1,12 +1,23 @@
 ---
+weight: 3
 title: China’s Military is Almost Beating Ours
 faqs_categories:
-   - China
-weight: 3
+  - China
 ---
-
-- China unleashed a deadly virus on the world, then they lied, arrested, and bullied anyone who tried to tell the truth about dangers of the virus.
-- Coronavirus research centers are pretty rare in the world. But the Wuhan Institute of Virology was only a quarter mile away from where the first known case of COVID was discovered. We don’t know for sure, but parts of our intelligence community have assessed that COVID leaked from the Chinese lab in an accident. The only way to know is for the CCP to come clean, but they have obstructed the investigation at every turn.
-- Here’s what we know: that China arrested scientists and doctors who tried to warn about the dangers of COVID. We know they lied to the World Health Organization about how deadly the disease was. We know they shredded and burned thousands of documents at the Wuhan Institute of Virology right after this disease emerged.
-- The Chinese Communist Party enabled COVID to escape China and infect the world, killing nearly a million Americans. They must be held accountable. Unfortunately, the Biden Administration isn’t putting pressure on China to tell the truth. One of Biden first acts as president was to shut down the State Department’s investigation of COVID’s origin.
-- Worse, he rejoined the World Health Organization and gave them $200M even when they helped China cover up the investigation and claimed China was doing everything right.
+* The Chinese military, known as the People’s Liberation Army (PLA), combined with
+  China’s economic and information warfare presents the most capable and aggressive
+  threat to U.S. interests and security in our nation’s history. Worse, the Biden
+  Administration is not meeting the challenge.
+* The Chinese military nuclear build-up is occurring at a rapid pace, far exceeding original
+  U.S. intelligence and Pentagon predictions. In 2020 the United States predicted that
+  China would hold 400 nuclear warheads by 2030. A year later, the same U.S. prediction
+  skyrocketed to 1,000.
+* The ultimate goal of the Chinese Communist Party (CCP) is to overtake the U.S.-led
+  order of freedom and democracy and replace it with an authoritarian China-centric order
+  in Asia that uses military coercion to advance the CCP’s interests.
+* The Biden Administration recognizes this threat but so far has failed to fund the U.S.
+  military at the necessary rate to keep pace with China’s advances, nor has it prioritized
+  Great Power Competition as administrations of both parties focused on the Middle East
+  and other theatres. Biden refuses to develop a military capable of deterring the CCP’s
+  aspirations, leaving Americans and our allies more vulnerable to China’s authoritarian
+  rule.
