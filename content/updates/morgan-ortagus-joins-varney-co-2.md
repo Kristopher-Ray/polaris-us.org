@@ -13,5 +13,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Middle East
-image: /img/updates/screenshot-2024-01-16-at-12.09.13 pm.png
+image: /img/updates/screenshot-2024-01-16-at-12.09.13 pm.jpeg
 ---
