@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Varney & Co.
 date: 2024-01-12T18:05:46.074Z
 summary: Morgan Ortagus joins Varney & Co. on Fox Business to discuss the
