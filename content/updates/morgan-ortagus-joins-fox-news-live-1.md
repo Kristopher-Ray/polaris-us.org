@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: Morgan Ortagus Joins Fox News Live
 date: 2024-01-13T18:22:13.689Z
