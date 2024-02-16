@@ -14,8 +14,6 @@ image: /img/memorandums/ukraine-adaptation-winning-war-ptq7zwkph9vcwiytlwwm2ybwp
 ---
 **Fact Sheet: Biden’s Failure to Equip Ukraine**
 
-***February 21, 2023***
-
 While the Biden Administration pays lip service to supporting Ukraine, Biden’s top officials
 
 have gone to great lengths delaying, denying, and downgrading military aid for Ukraine that is
