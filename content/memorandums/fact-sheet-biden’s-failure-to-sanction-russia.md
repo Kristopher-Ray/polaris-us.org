@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 weight: 4
 memorandum_categories:
   - Russia
