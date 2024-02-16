@@ -11,6 +11,7 @@ summary: The Biden administration fought off the Nord Stream 2 sanctions before
   meaningful sanctions that would actually deprive the Russian war machine of
   the resources and funds to continue their rampage. They have the temerity to
   claim their sanctions have been a success. The facts show otherwise.
+image: /img/memorandums/istockphoto-1386177850-612x612.jpg
 ---
 **Fact Sheet: Biden’s Failure to Sanction Russia**
 
