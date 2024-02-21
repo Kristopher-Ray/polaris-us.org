@@ -5,7 +5,7 @@ weight: 3
 memorandum_categories:
   - Russia
 title: "Fact Sheet: Biden’s Failure to Deter Russia"
-pdf: https://drive.google.com/file/d/1hnCtRR8v5GLYSDWFbijVFtKS_ox26E_A/view?usp=sharing
+pdf: https://www.dropbox.com/scl/fi/nos6wj2zxfpfwcoy89cdj/Fact-Sheet-Failure-to-Deter-Russia.pdf?rlkey=nbqq2q5rsm10tjslhros5jvl3&dl=0
 summary: From the day he took office, President Biden and his team implemented a
   series of policies that  strengthened Putin’s hand, undermined Ukraine,
   signaled weakness, and demonstrated a  dangerous lack of willingness to defend
