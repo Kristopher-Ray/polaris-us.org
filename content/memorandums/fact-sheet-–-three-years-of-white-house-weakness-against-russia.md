@@ -60,7 +60,7 @@ Let’s review some of President Biden’s pro-Putin policies he could reverse i
 * Biden **refuses to sanction over 300 Russian banks.** He has the authority to sanction every single one of them today and sanction the entire Russian banking and financial sector.
 * Biden refuses to sanction Russia’s tech sector, their diamond sector, their nuclear export industry (Rosatom) and most of their metals and minerals industries.
 
-  * *The United States can issue short wind-down licenses for companies temporarily needing to purchase certain metals or wrap up sensitive projects.*
+  * The United States can issue short wind-down licenses for companies temporarily needing to purchase certain metals or wrap up sensitive projects.
 * Biden refuses to sanction several Russian oligarchs who hold much of Russia’s wealth and support Putin’s policies. The Biden Administration has barely sanctioned any oligarchs in over a year and done little to seize their assets abroad. Biden could set up a special interagency office to locate, prosecute, and seize Russian and Iranian assets abroad.
 * Biden should use frozen Russian foreign currency reservesto immediately fund Ukrainian reconstruction and economic stability.
 
