@@ -5,7 +5,7 @@ memorandum_categories:
   - Russia
 title: Stopping Putin’s Aggression
 slug: ""
-pdf: https://drive.google.com/file/d/1BRNYkxKiker9r6wEos_z70GtZiwJyoia/view?usp=share_link
+pdf: https://www.dropbox.com/scl/fi/8qndg3oq8p4l64pp15fia/Stopping-Putin-Agression.docx.pdf?rlkey=3kbfz9swc1zqfxs3q58qz29c5&dl=0
 summary: "After years of talk, Biden has failed to deter Putin’s invasion of
   Ukraine. Instead, behind the scenes he has given concessions to Russia. "
 image: /img/memorandums/images.jpeg
