@@ -5,7 +5,7 @@ weight: 2
 memorandum_categories:
   - Russia
 title: "Fact Sheet: Biden’s Failure to Equip Ukraine"
-pdf: https://drive.google.com/file/d/1PDkURQpJB7QKN_fgPWjLeUjBh0Vp8CP-/view?usp=sharing
+pdf: https://www.dropbox.com/scl/fi/obotjhpiatzqst3gvzg80/Fact-Sheet-Failure-to-Arm-Ukraine.pdf?rlkey=jc9qbpb0r3ds2no5ryg5h7m8w&dl=0
 summary: While the Biden Administration pays lip service to supporting Ukraine,
   Biden’s top officials  have gone to great lengths delaying, denying, and
   downgrading military aid for Ukraine that is  needed to repel the Russian
