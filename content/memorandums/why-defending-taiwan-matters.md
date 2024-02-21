@@ -4,7 +4,7 @@ weight: 3
 memorandum_categories:
   - China
 title: Why Defending Taiwan Matters
-pdf: https://drive.google.com/file/d/1s_kjBKLEHx13N8XNQlcdoU3Z-0ISDpJ4/view?usp=share_link
+pdf: https://www.dropbox.com/scl/fi/0i7dfzso608dj5im8fxss/Why-Defending-Taiwan-Matters.docx.pdf?rlkey=crjeop2v5ugagh8xmyrpjnc12&dl=0
 summary: China’s growing authoritarian role in the world runs directly counter
   to U.S. interests and our security— their dangerous ambition to rule the world
   as they see fit is a direct threat to U.S. security, our interests, and the
