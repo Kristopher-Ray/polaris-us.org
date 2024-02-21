@@ -5,7 +5,7 @@ weight: 4
 memorandum_categories:
   - Russia
 title: "Fact Sheet: Biden’s Failure to Sanction Russia"
-pdf: https://drive.google.com/file/d/1_p37SX4CvcZfcqGyKVGo_FSERXTUGrIK/view?usp=share_link
+pdf: https://www.dropbox.com/scl/fi/skhtwnfsi0gudtkjszyqc/Fact-Sheet-Failure-to-Sanction-Russia.pdf?rlkey=j4oglmvregwdce17fxv8ysgzw&dl=0
 summary: The Biden administration fought off the Nord Stream 2 sanctions before
   the war. Since Putin’s invasion, they have repeatedly refused to implement
   meaningful sanctions that would actually deprive the Russian war machine of
