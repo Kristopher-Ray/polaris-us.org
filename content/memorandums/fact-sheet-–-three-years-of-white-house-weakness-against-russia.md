@@ -45,9 +45,7 @@ Economic pressure was supposed to force Putin to back down and degrade the Russi
 * ***Reality:*** Russia ran a 2.3% budget deficit in 2022, decreasing to 2.0% in 2023 and a planned 0.8% deficit in 2024. They have had little problems selling bonds, they [increase](https://uk.news.yahoo.com/russia-borrows-13-6bn-largest-091006161.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJnqWqbXLywbMx22X3iwUE1X2-x4RnRl4dgXx4C7J_NoIpI4TLQB3VW_rM71EzPXFPQRntzry0Mhns4_5qplqYDmReAlZ-F0IlMOCabd8GZtTb_TtC0sP-FrxXavHmvEkpkqpVHfcHsIpsRpiHB6os8xHXryZGNQ4ukWWIUoKrcA)d their military budget by 40% in 2023 and [plan](https://carnegieendowment.org/politika/90753#:~:text=Defense%20spending%20in%202024%20will,military%20expenditure%20in%20the%201980s.) for another 9% increase in 2024.
 * ***Meanwhile:*** The U.S. budget deficit in 2022 was 5.9%, while our Debt-to-GDP ratio is far higher than that of Russia or China.
 
-![Chart, line chart
-
-Description automatically generated](blob:https://polaris-us.netlify.app/3cf57c36-efca-4216-b97c-7b9b8a4af3cc)
+![](/img/memorandums/screenshot-2024-02-21-at-9.50.55 am.png)
 
 How did this happen? Because the Biden Administration has refused to unleash American energy production to replace Russian exports. Instead, he caved to TikTok activists and banned LNG exports to Europe that Biden once [promised](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/joint-statement-by-president-biden-and-president-von-der-leyen-on-european-energy-security/)would to replace Russian LNG. Even President Obama’s National Security Advisor [called ](https://thehill.com/opinion/national-security/4472566-america-cant-ignore-the-national-security-concerns-tied-to-the-lng-freeze/)the move “a boost to Vladimir Putin”.
 
