@@ -5,7 +5,7 @@ weight: 5
 memorandum_categories:
   - Russia
 title: Biden’s LNG Export Ban Puts Putin First and Americans Last
-pdf: https://conta.cc/3OTvyXz
+pdf: https://www.dropbox.com/scl/fi/2oj4bi8akm4nd2wfoz8ld/Biden-s-LNG-export-ban-puts-Putin-first-and-Americans-last.pdf?rlkey=1rkxoakb6l8uaanulmoidvm0q&dl=0
 summary: ""
 image: /img/memorandums/90.jpeg
 ---
