@@ -4,7 +4,7 @@ weight: 1
 memorandum_categories:
   - Border
 title: Crisis at the Southern Border
-pdf: https://drive.google.com/file/d/1Du30ItrDeyYAzlh9bkmn04M5om6BO1uj/view?usp=sharing
+pdf: https://www.dropbox.com/scl/fi/helompkmg77bd0a6yw15u/Crisis-at-the-Southern-Border.docx.pdf?rlkey=vzvg1q0kuqi43xlxuoyz20gsq&dl=0
 summary: "Joe Biden has created a disastrous border crisis that threatens
   Americans’ security, and it keeps getting worse. There is more fentanyl and
   deadly drugs passing through our border and killing Americans than ever
