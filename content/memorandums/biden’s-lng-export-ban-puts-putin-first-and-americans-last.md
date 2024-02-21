@@ -5,7 +5,7 @@ weight: 5
 memorandum_categories:
   - Russia
 title: Biden’s LNG Export Ban Puts Putin First and Americans Last
-pdf: https://drive.google.com/file/d/1UsAnkHCD2-vtPYMoczs4L0PqcI3rYUaU/view?usp=share_link
+pdf: https://conta.cc/3OTvyXz
 summary: ""
 image: /img/memorandums/90.jpeg
 ---
