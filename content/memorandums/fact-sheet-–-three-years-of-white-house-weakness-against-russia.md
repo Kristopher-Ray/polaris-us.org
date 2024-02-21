@@ -26,25 +26,19 @@ The sanctions and export controls placed against Russia have been so watered dow
 
 In the first 10 months of 2023, Russia was able to [import](https://kse.ua/wp-content/uploads/2024/01/Challenges-of-Export-Controls-Enforcement.pdf) $8.8 billion in “priority battlefield goods”, only 10% lower than before Biden’s sanctions, and imported $22.2 billion worth of military-related items, higher than before Biden’s sanctions.
 
-[![A graph with numbers and lines
-
-Description automatically generated](blob:https://polaris-us.netlify.app/bc5a814c-4a04-4703-813c-82198c0ebfdf)](https://www.bloomberg.com/news/features/2023-12-06/oil-prices-how-russia-punched-an-11-billion-hole-in-west-s-sanctions-regime)
+![](/img/memorandums/screenshot-2024-02-21-at-9.50.28 am.png)
 
 Economic pressure was supposed to force Putin to back down and degrade the Russian war machine. The reverse has happened. It’s a far cry from Biden’s promises at the start of the war. 
 
 **Administration Claim**: On April 6, 2022, President Biden [said](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/06/remarks-by-president-biden-at-north-americas-building-trades-unions-legislative-conference/) "The steps we're already taken are predicted to shrink Russia's gross domestic product by double-digits this year alone."
 
-* ***Reality**:* Russia’s economy only [shrunk](https://tass.com/economy/1569177) 2.2% in 2022. It [increased](https://www.voanews.com/a/russia-economy-grew-in-2023-despite-war-and-sanctions/7478952.html) 3.6% in 2023, including a 5.5 increase in Q4 of 2023.
-* ***Meanwhile**:* The IMF [projects](https://www.imf.org/en/Countries/RUS) the Russian economy will GROW another 2.6% in 2024. The Eurozone is only set to grow 0.9% while the CBO [projects](https://www.cbo.gov/publication/59946) U.S. GDP will grow only 1.5%.
-
- 
+* **Reality**: Russia’s economy only [shrunk](https://tass.com/economy/1569177) 2.2% in 2022. It [increased](https://www.voanews.com/a/russia-economy-grew-in-2023-despite-war-and-sanctions/7478952.html) 3.6% in 2023, including a 5.5 increase in Q4 of 2023.
+* **Meanwhile**: The IMF [projects](https://www.imf.org/en/Countries/RUS) the Russian economy will GROW another 2.6% in 2024. The Eurozone is only set to grow 0.9% while the CBO [projects](https://www.cbo.gov/publication/59946) U.S. GDP will grow only 1.5%.
 
 **Administration Claim**: Biden tweeted on March 26, 2022, that Russia’s economy would [shrink](https://twitter.com/POTUS/status/1507842574865866763) by half in the coming years. The White House claimed Putin’s war would [wipe](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/08/fact-sheet-united-states-and-g7-partners-impose-severe-costs-for-putins-war-against-ukraine/) out the last 15 years of economic gains in Russia.
 
-* ***Reality**:* At the 2022 rate of economic growth, it would take 31 years for Russia’s economy to shrink in half, and 13 years to wipe out the last 15 years of economic gains. 
-* ***Meanwhile**:* At the 2023 and 2024 rates of growth, that would never happen because that’s not how math works.
-
- 
+* **Reality**: At the 2022 rate of economic growth, it would take 31 years for Russia’s economy to shrink in half, and 13 years to wipe out the last 15 years of economic gains. 
+* **Meanwhile**: At the 2023 and 2024 rates of growth, that would never happen because that’s not how math works.
 
 **Administration Claim:** Last year, Treasury officials bragged that Putin was [struggling](https://www.cnn.com/2023/02/17/politics/treasury-russian-intelligence-services-sanctions/index.html) to finance his war and is taking drastic measures to keep his economy afloat.
 
@@ -55,8 +49,6 @@ Economic pressure was supposed to force Putin to back down and degrade the Russi
 
 Description automatically generated](blob:https://polaris-us.netlify.app/3cf57c36-efca-4216-b97c-7b9b8a4af3cc)
 
- 
-
 How did this happen? Because the Biden Administration has refused to unleash American energy production to replace Russian exports. Instead, he caved to TikTok activists and banned LNG exports to Europe that Biden once [promised](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/joint-statement-by-president-biden-and-president-von-der-leyen-on-european-energy-security/)would to replace Russian LNG. Even President Obama’s National Security Advisor [called ](https://thehill.com/opinion/national-security/4472566-america-cant-ignore-the-national-security-concerns-tied-to-the-lng-freeze/)the move “a boost to Vladimir Putin”.
 
 ***\--Read our [FACTSHEET](https://polaris-us.org/memorandums/bidens-lng-export-ban-puts-putin-first-and-americans-last/) on how Biden put Putin first and Americans last with his LNG ban.--***
@@ -64,8 +56,6 @@ How did this happen? Because the Biden Administration has refused to unleash Ame
 The White House has repeatedly [opposed](https://www.wsj.com/articles/g-7-opposes-lowering-russian-crude-price-cap-from-60-a-barrel-586ecc30) lowering the price cap on Russian oil exports, guaranteeing that Russia can keep making billions in oil revenue, and keeps extending sanctions waivers to Russian banks that allow Putin’s war machine to keep churning.
 
 Now, the administration is trying to shift blame on to Congressional Republicans for the failures of the war. No one should be fooled.
-
-
 
 Let’s review some of President Biden’s pro-Putin policies he could reverse immediately.
 
