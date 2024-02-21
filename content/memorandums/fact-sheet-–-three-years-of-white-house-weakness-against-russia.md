@@ -5,7 +5,7 @@ weight: 1
 memorandum_categories:
   - Russia
 title: Fact Sheet – Three Years of White House Weakness Against Russia
-pdf: https://whitehouseweaknessagainstrussia.tiiny.site
+pdf: https://conta.cc/4bOs1E2
 summary: "As the two-year anniversary of Putin’s invasion of Ukraine approaches,
   we must not forget that President Biden legacy is his failure to uphold the
   United States’ decades-long objective in Europe: to deter and prevent Russia
