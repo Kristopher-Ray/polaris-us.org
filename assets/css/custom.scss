@@ -1934,6 +1934,26 @@ ul.list-spacing {
     }
   }
 }
+
+.mfp-close-btn-in .mfp-close {
+  color: #fff !important;
+  font-size:60px;
+  text-shadow: 2px 2px 10px rgba(0,0,0,.5);
+}
+
+#popup {
+  width:100%;
+  height:auto;
+  max-width:800px;
+  margin:0 auto;
+
+  img {
+    display: block;
+    width:100%;
+    height:auto;
+    margin:0 auto;
+  }
+}
 .team-row {
   justify-content: center;
   margin: 0 -28px;
