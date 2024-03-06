@@ -12,5 +12,5 @@ cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
   - Border
-image: /img/updates/img_8314.jpg
+image: /img/updates/img_8316.jpg
 ---
