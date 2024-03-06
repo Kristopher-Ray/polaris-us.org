@@ -9,5 +9,8 @@ summary: Morgan Ortagus joins the Evening Edit to discuss what the Biden
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=aywKJKyh4QQ
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
+categories:
+  - Videos
+  - Border
 image: /img/updates/img_5489c927451e-1.jpeg
 ---
