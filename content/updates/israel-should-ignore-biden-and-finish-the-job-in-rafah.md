@@ -11,7 +11,7 @@ author: Morgan Ortagus and Gabriel Noronha
 outbound: https://thehill.com/opinion/international/4565296-israel-should-ignore-biden-and-finish-the-job-in-rafah/
 cta: Read More →
 categories:
-  - Articles
+  - Newsroom
   - Israel
 image: /img/updates/biden-israel-2023.png.webp
 ---
