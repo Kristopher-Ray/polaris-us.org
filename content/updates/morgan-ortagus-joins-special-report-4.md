@@ -1,7 +1,7 @@
 ---
 visible: true
-draft: true
-featured: false
+draft: false
+featured: true
 title: Morgan Ortagus Joins Special Report
 date: 2024-03-18T21:38:32.011Z
 summary: Morgan Ortagus joins Bret Baier on Special Report to discuss the harsh
