@@ -11,5 +11,8 @@ summary: Morgan Ortagus joins News Nation live from Yuma, Arizona where she
 author: POLARIS Founder, Morgan Ortagus
 outbound: https://www.youtube.com/watch?v=NRKv9gHXj8M
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
-image: /img/updates/img_9522.jpg
+categories:
+  - Videos
+  - Border
+image: /img/updates/img_1120.jpeg
 ---
