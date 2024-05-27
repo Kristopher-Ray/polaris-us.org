@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: true
 title: Gabriel Noronha Joins The Bottom Line
-date: 2024-05-21T00:58:52.555Z
+date: 2024-05-22T00:58:52.555Z
 summary: POLARIS National Security Executive Director Gabriel Noronha joined The
   Bottom Line on FOX Business to discuss the death of Iranian Prime Minister and
   the ramifications caused.
