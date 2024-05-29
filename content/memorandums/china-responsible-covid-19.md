@@ -1,12 +1,15 @@
 ---
-title: China is Responsible for COVID-19
-summary: The Chinese Communist Party lied, engaged in a cover-up, and bullied anyone that demanded accountably for COVID-19. Worse, Biden did nothing when the CCP banned the World Health organization from investigating the origins of the virus.
-image: /img/memorandums/img_china-responsible-covid-19.png
-pdf: https://img1.wsimg.com/blobby/go/c8fc2380-cf6c-44bc-9293-3cfdab7b0a2e/downloads/POLARIS%20CCP%20Covid%20Responsibility%20.pdf?ver=1648137353991
-memorandum_categories:
-   - China
-weight: 2
 visible: true
+weight: 2
+memorandum_categories:
+  - China
+title: China Lied About COVID
+pdf: https://img1.wsimg.com/blobby/go/c8fc2380-cf6c-44bc-9293-3cfdab7b0a2e/downloads/POLARIS%20CCP%20Covid%20Responsibility%20.pdf?ver=1648137353991
+summary: The Chinese Communist Party lied, engaged in a cover-up, and bullied
+  anyone that demanded accountably for COVID-19. Worse, Biden did nothing when
+  the CCP banned the World Health organization from investigating the origins of
+  the virus.
+image: /img/memorandums/img_china-responsible-covid-19.png
 ---
 
 ## Key Points: 
