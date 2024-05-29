@@ -4,7 +4,7 @@ weight: 2
 memorandum_categories:
   - China
 title: China Lied About COVID
-pdf: https://img1.wsimg.com/blobby/go/c8fc2380-cf6c-44bc-9293-3cfdab7b0a2e/downloads/POLARIS%20CCP%20Covid%20Responsibility%20.pdf?ver=1648137353991
+pdf: https://www.dropbox.com/scl/fi/y8fxoutjs37gr4tvsyqu9/The-CCP-Lied-About-Covid.pdf?rlkey=h6ebagh1bvvzhbjbeyjsnsvxl&st=txji9pao&dl=0
 summary: The Chinese Communist Party lied, engaged in a cover-up, and bullied
   anyone that demanded accountably for COVID-19. Worse, Biden did nothing when
   the CCP banned the World Health organization from investigating the origins of
