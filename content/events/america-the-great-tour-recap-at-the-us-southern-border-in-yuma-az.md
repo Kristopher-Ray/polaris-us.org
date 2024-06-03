@@ -8,5 +8,5 @@ summary: "WATCH: We took our 'America the Great Tour' back to the US Southern
   border in Yuma, AZ and witnessed Biden’s border crisis in action. We saw first
   hand dozens of illegal migrants, many from Syria, crossed at the end of the
   border wall - their transits organized by Mexican cartels."
-image: /img/updates/img_2161.jpeg
+image: /img/updates/img_2163.jpeg
 ---
