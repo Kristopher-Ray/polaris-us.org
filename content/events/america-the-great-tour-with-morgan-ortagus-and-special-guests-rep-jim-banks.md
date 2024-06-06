@@ -2,7 +2,7 @@
 visible: true
 draft: false
 title: America the Great Tour Special Guest Rep. Jim Banks
-outbound: https://www.youtube.com/watch?v=IiVLY8IYPkc
+outbound: ""
 date: 2024-03-09T02:24:55.135Z
 summary: Polaris National Security partnered with The Bastion Institute to
   continue the "America the Great" Tour in Indianapolis, Indiana with special
