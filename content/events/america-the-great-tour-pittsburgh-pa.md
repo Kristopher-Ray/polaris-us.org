@@ -8,5 +8,5 @@ summary: Polaris National Security continues the "America the Great" Tour in
   Pittsburgh, Pennsylvania with special guests, US Senate Candidate Dave
   McCormick, Senator Lindsey Graham, Pam Bondi and Polaris National Security
   founder, Morgan Ortagus.
-image: /img/updates/img_95e00584a8f6-1.jpeg
+image: /img/updates/gmi2ilxwgaez7_c.jpeg
 ---
