@@ -8,5 +8,5 @@ summary: Polaris National Security continues the "America the Great" Tour in
   Detroit, Michigan with special guests, US Senate Candidate Mike Rogers,
   Senator Lindsey Graham, FMR DHS Sec. Chad Wolf and Polaris National Security
   founder, Morgan Ortagus.
-image: /img/updates/izwdtynt.jpeg
+image: /img/updates/img_3212.jpeg
 ---
