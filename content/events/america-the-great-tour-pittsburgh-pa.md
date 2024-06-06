@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 title: America the Great Tour- Pittsburgh, PA
 outbound: https://www.youtube.com/watch?v=Xjd9A0nB2c8
 date: 2024-04-26T21:53:41.705Z
