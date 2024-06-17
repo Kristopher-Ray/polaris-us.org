@@ -1,10 +1,26 @@
 ---
-weight: 4
-title: Why We Need to Defend Taiwan
+weight: 1
+title: Taiwan’s Future and America’s Role in Defending It
 faqs_categories:
   - China
 ---
-* China wants to bully nations around the world with their military. They’ve used force to expand into islands in the South China Sea. Back in 2014, they built islands out of the water as massive aircraft carriers. It’s all part of their plan to invade Taiwan. We have to stand with Taiwan – they are a peaceful democratic country who stand as a bastion of freedom against Communist China.
-* Taiwan has a central role in global semiconductor production that affects U.S. economic and national security. Taiwan represents \~19% of the world’s semiconductor wafer manufacturing capacity. For comparison, mainland China represents \~20%; and while the U.S. leads in global chip design and intellectual property, it weighs in at only ~11% of global capacity.
-* As a result, not only does Taiwan represent an important symbol of America’s commitment to a rules-based international order, but it is a key enabler of American economic security as well. Just think of how the chips shortage hurt the car industry. Now imagine China controlling the global chips industry – they would have key leverage over the United States.
-* The best way to protect Taiwan is to make sure there’s never a war over the country. The only way to do that is to have a military strong enough to deter China from ever starting a war. That requires a strong military, but Biden is trying to cut defense spending instead of increasing it – while he increases spending on every other category.
+
+
+
+
+* The CCP declares that any attempt by America to recognize Taiwan’s independence could trigger a military response. To preserve peace in the region and maintain successful economic partnerships, we have held to the One-China policy and refuses to officially recognize Taiwan as independent. Though U.S. political rhetoric emphasizes Taiwan’s sovereignty, an official recognition of independence could invite a stern CCP response.
+
+<!---->
+
+* Our stance toward Taiwan is known as “Strategic Ambiguity.” We do not officially declare whether we would defend Taiwan in a war in an effort to dissuade China’s military provocation of Taiwan. Additionally, while we treat Taiwan as an independent nation, we refuse to officially acknowledge its independence.
+* The United States is bound to the Taiwan Relations Act of 1979 that establishes unofficial diplomatic relations with Taiwan and stipulates that the U.S. shall provide Taiwan arms of a “defensive character.”
+* On four occasions, President Biden has declared the United States would defend Taiwan in a conflict with China, but his White House staff have walked back those statements and reiterated the policy is to maintain the status quo.
+* China’s growing authoritarian role in the world runs directly counter to U.S. interests and our security. Beijing’s dangerous ambition to rule the world as it sees fit is a direct threat to U.S. security and global freedom. Taking over Taiwan would be a crucial first step in the CCP’s long-term plan and endanger the United States immensely.
+
+  * Taiwan produces 63 percent of semiconductors used in America, a critical component in almost every electronic device, and particularly important amidst a worldwide shortage. Should the CCP gain control of Taiwan, it would control 40 percent of global semiconductor manufacturing capacity and become the world’s technology leader.
+
+  * As result, Taiwan represents an important symbol of America’s commitment to a rules-based international order but is also key enabler of U.S. economic security. China controlling the global chips industry would give the CCP unacceptable leverage.
+
+  * The best way to protect Taiwan is to make sure there’s never a war in the first place via a successful deterrence strategy. We should support the Taiwanese military with crucial training, elite military equipment, and missile defense systems.
+* Taiwan is not only our first line of defense against China. It is a friend to America and a strong democracy. We should always stand with our allies. America needs to ensure that China does not take Taiwan. First, we should send Taiwan plenty of defensive weapons so it can do to China what Ukraine is doing to Russia.
+*
