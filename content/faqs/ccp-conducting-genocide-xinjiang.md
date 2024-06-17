@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 4
 title: Genocide in Xinjiang
 faqs_categories:
   - China
