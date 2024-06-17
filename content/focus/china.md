@@ -3,15 +3,10 @@ visible: true
 weight: 1
 title: Staying Tough On China
 slug: china
-summary: The CCP is the greatest danger to America since the Soviet Union. It
-  aims to overtake the U.S.-led liberal international order and replace it with
-  authoritarianism that uses military coercion to advance China’s interests.
-  China threatens our military superiority, economic and technological security,
-  and social fabric. But rather than meeting this challenge, Biden has preached
-  the importance of cooperation with China and prioritized maintaining good
-  relations. Inadequate action has been taken to enhance our defense posture,
-  confront the CCP’s manipulative trade practices, block its espionage tactics,
-  and deliver accountability to woke companies kowtowing to Beijing.
+summary: China is committing genocide in Xinjiang and throwing Hong Kong
+  dissidents and lawmakers in prison. Now they’ve set their sights on Taiwan.
+  All the while they steal the intellectual property of American companies, play
+  unfair trade games, and lie about spreading COVID to the world.
 btn_label: Learn how America can push back on China →
 image: /img/focus/img_staying_tough_on_china.jpg
 section_img: /img/focus/section_img.png
