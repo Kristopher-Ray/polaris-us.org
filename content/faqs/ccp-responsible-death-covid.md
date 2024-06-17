@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 6
 title: China and COVID-19
 faqs_categories:
   - China
