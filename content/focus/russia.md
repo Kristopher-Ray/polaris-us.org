@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 2
+weight: 3
 title: Standing Up To Russia
 slug: russia
 summary: "It is critical to remind Americans: President Biden has failed at one
