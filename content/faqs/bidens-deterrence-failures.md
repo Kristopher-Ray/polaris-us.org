@@ -1,7 +1,7 @@
 ---
 draft: false
 weight: 1
-title: Biden's Deterrence Failures
+title: Biden’s Failure of Deterrence
 faqs_categories:
   - Russia
 ---
