@@ -5,7 +5,7 @@ title: The Emerging Crisis at the Second Thomas Shoal
 faqs_categories:
   - China
 ---
-* China is threatening to seize control of part of the Philippines, a U.S. defense treaty ally. The Second Thomas Shoal is to the Asia-Pacific what Crimea was to Europe: a canary in the coal mine. If we don’t stand up here, Beijing will act more aggressively later.
+China is threatening to seize control of part of the Philippines, a U.S. defense treaty ally. The Second Thomas Shoal is to the Asia-Pacific what Crimea was to Europe: a canary in the coal mine. If we don’t stand up here, Beijing will act more aggressively later.
 
 **What is the Second Thomas Shoal?**
 
@@ -16,8 +16,6 @@ faqs_categories:
 * In 2014, China embarked in a full-scale blockade of the Sierra Madre for three weeks, forcing the Philippines to airdrop supplies.
 * Starting in 2022, Chinese coast guard and militia vessels ramped up efforts to impede resupply missions, frequently gathering around the shoal in larger formations and resorting to more assertive measures to obstruct ships from reaching the Sierra Madre.
 * China defends these actions by alleging that the Philippines is transporting construction materials, suggesting their intention to either fortify the Sierra Madre into a permanent structure or establish a new outpost altogether on Second Thomas Shoal.
-
-
 
 **What Should the United States Do Next?**
 
