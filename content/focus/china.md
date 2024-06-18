@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 1
+weight: 2
 title: Staying Tough On China
 slug: china
 summary: The CCP is the greatest danger to America since the Soviet Union. It
