@@ -4,10 +4,7 @@ draft: false
 featured: false
 title: The Top 105 Foreign Policy Failures of the Biden Presidency
 date: 2024-06-19T17:14:05.389Z
-summary: "1. Biden Assembles National Security “Dream Team” (Transition):
-  Appointments include longtime Beltway careerists and Obama-Clinton allies like
-  Antony Blinken despite warnings that he was “not only unqualified” but
-  “dangerous to America”"
+summary: ""
 cta: Read More →
 categories:
   - Newsroom
