@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: The Top 105 Foreign Policy Failures of the Biden Presidency
 date: 2024-06-19T17:14:05.389Z
