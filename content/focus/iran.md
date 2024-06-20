@@ -11,7 +11,7 @@ summary: On day one, the Biden Administration jettisoned President Trump’s
   many of which have been diverted to support Tehran’s terrorist proxies.
 btn_label: Find out what Biden is planning and how to stop it →
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
-section_img: /img/focus/images-2.jpeg
+section_img: /img/focus/istockphoto-1350615469-612x612.jpg
 memorandums: iran
 accordions: iran
 updates: iran
