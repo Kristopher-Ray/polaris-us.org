@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 weight: 1
 title: Defending America
 slug: america
