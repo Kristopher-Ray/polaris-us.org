@@ -13,7 +13,7 @@ summary: On day one, the Biden Administration jettisoned President Trump’s
   destabilize the Middle East, and endangered the lives of American expats in
   the region. Even Democrats on Capitol Hill are sounding the alarm on his
   repeated appeasements.
-btn_label: Find out what Biden is planning and how to stop it →
+btn_label: More on Biden’s Dangerous Pursuit of a Nuclear Deal →
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
 section_img: /img/focus/istockphoto-1350615469-612x612.jpg
 memorandums: iran
