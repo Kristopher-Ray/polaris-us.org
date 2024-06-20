@@ -4,11 +4,15 @@ weight: 6
 title: The Threat from Tehran
 slug: iran
 summary: On day one, the Biden Administration jettisoned President Trump’s
-  “maximum pressure” campaign and re-adopted the Obama-era policies that
-  empowered the Iranian regime. Biden orchestrated an unprecedented sanctions
-  relief on the world’s leading state sponsor of terrorism that has provided the
-  regime access to around $100 billion dollars in ransom payments and oil sales,
-  many of which have been diverted to support Tehran’s terrorist proxies.
+  “maximum pressure” campaign and re-adopted Obama-era policies that empowered
+  the Iranian regime. Biden orchestrated unprecedented sanctions relief on the
+  world’s leading state sponsor of terrorism, providing the regime access to
+  around $100 billion dollars in ransom payments and oil sales—much of which
+  have been diverted to Tehran’s terrorist proxies. These decisions have
+  advanced Iran’s pursuit of regional hegemony, allowed its affiliates to
+  destabilize the Middle East, and endangered the lives of American expats in
+  the region. Even Democrats on Capitol Hill are sounding the alarm on his
+  repeated appeasements.
 btn_label: Find out what Biden is planning and how to stop it →
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
 section_img: /img/focus/istockphoto-1350615469-612x612.jpg
