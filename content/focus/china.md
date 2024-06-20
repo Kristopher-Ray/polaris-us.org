@@ -1,7 +1,7 @@
 ---
 visible: true
 weight: 2
-title: Staying Tough On China
+title: The China Challenge
 slug: china
 summary: The CCP is the greatest danger to America since the Soviet Union. It
   aims to overtake the U.S.-led liberal international order and replace it with
