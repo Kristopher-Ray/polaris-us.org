@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 2
+weight: 6
 title: Confronting the Threat of Iran
 slug: iran
 summary: Biden wants to give Iran, the world's leading state sponsor of
