@@ -3,7 +3,7 @@ draft: false
 weight: 3
 title: Biden’s Dangerous Pursuit of an Iran Deal
 faqs_categories:
-  - Israel
+  - Iran
 ---
 Any nuclear deal reached by the Biden White House would give the Iranian regime at least $90 billion in sanctions relief the regime could use to spread terror across the Middle East with no restrictions. The Biden team is doing everything in its power to sidestep congressional oversight and preserve the ability to renegotiate an agreement.
 
