@@ -3,13 +3,13 @@ visible: true
 weight: 3
 title: Standing Up To Russia
 slug: russia
-summary: "It is critical to remind Americans: President Biden has failed at one
-  of the most important tasks facing American presidents since 1945: preventing
-  wars of conquest on the European continent. The Biden Administration is happy
-  to enable the media hounding conservatives over differences about Ukraine
-  policy, but conservatives must not let Biden off the hook for his deterrence
-  failures."
-btn_label: Find out how to help stop the spread of tyranny abroad →
+summary: "President Biden has failed at one of the most important tasks facing
+  American presidents since 1945: preventing wars of conquest on the European
+  continent. Conservatives must not let Biden off the hook for his deterrence
+  failures. This war should never have started and with the right policies could
+  have advanced a Ukrainian victory. Instead, Europe continues to experience its
+  most significant land war in generations."
+btn_label: More on Biden’s Ukraine policy failures →
 image: /img/focus/img_standing-up-to-russia.jpg
 section_img: /img/focus/putin.webp
 memorandums: russia
