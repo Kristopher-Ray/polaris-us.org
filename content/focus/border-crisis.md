@@ -10,7 +10,7 @@ summary: " President Biden’s policies have created a disastrous border crisis
   not ever.”"
 btn_label: Learn more about the dangers of a wide-open border →
 image: /img/focus/img_bidens-border-crisis.jpg
-section_img: /img/focus/depositphotos_237454396-stock-photo-united-states-border-wall-american.jpg
+section_img: /img/focus/telemmglpict000352100253_16965184068620_trans_nvbqzqnjv4bqqhiqtsb3shhiohogmpvu_x4193v88erm5ydsonrmjwe.jpeg.webp
 memorandums: border
 accordions: border
 updates: border
