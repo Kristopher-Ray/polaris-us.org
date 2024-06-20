@@ -3,12 +3,15 @@ visible: true
 weight: 2
 title: The China Challenge
 slug: china
-summary: The CCP is the greatest danger to America since the Soviet Union. It
+summary: "The CCP is the greatest danger to America since the Soviet Union. It
   aims to overtake the U.S.-led liberal international order and replace it with
-  authoritarianism that uses military coercion to advance China’s interests.
-  China threatens our military superiority, economic and technological security,
-  and social fabric. But rather than meeting this challenge, Biden has preached
-  the importance of cooperation.
+  authoritarianism that uses military coercion to advance China’s interests. But
+  Biden's China strategy is predicated on misguided reasoning with one
+  overriding priority: avoid conflict. It seeks to manage competition with the
+  CCP using accommodation rather than win it with deterrence. And it denies the
+  obvious: that we are already in a Cold War with China. Conservatives want to
+  keep the peace, but we also understand that policies aimed at avoiding
+  conflict often set the conditions for conflict."
 btn_label: Learn how America can push back on China →
 image: /img/focus/img_staying_tough_on_china.jpg
 section_img: /img/focus/section_img.png
