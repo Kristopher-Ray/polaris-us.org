@@ -1,9 +1,10 @@
 ---
 weight: 5
-title: China’s Technological and Societal Threat
+title: Technological and Social Threats
 faqs_categories:
   - China
 ---
-* China is trying to take control of the leading technologies and data about every American. What will they do with this information? The only limit is the imagination of the Chinese Communist Party. They’ve used Western data and technology firms for facial recognition they used to conduct a genocide, they’ve unleashed pandemics, created islands for military bases that may one day be used to attack our aircraft carriers.
-* China tries to censor Hollywood – and our elites go along with it. Instead of standing up to China’s vision of oppression, companies line up to make more money. Can you imagine if that happened when the Soviet Union worked to defeat the United States?
-* We need to stand up against China across all parts of American society – from higher education to finance, to technology and data. And we need a Congress and a President dedicated to standing up to China – not kowtowing and apologizing.
+* CCP agents have infused themselves into every facet of American society and seek to leverage their influence to benefit China at our expense. Few forces have been more pernicious than TikTok, a platform that gave Beijing access to troves of data via its parent company, ByteDance, posing a critical threat to our national security. While Congress has finally acted to force its divestiture, it has already spread significant anti- American propaganda and endangered the privacy of millions of American users.
+* China has stolen over $600 billion per year in intellectual property through forced technology transfer & intellectual property theft, academic espionage, and forcing cultural appeasement. At one point, the FBI had over 1,000 open investigations into Chinese IP theft; over 1,200 IP theft lawsuits have been brought by U.S. companies against Chinese entities in either the United States or China.
+* The Trump Administration took China to task for its deceptive economic practices and launched a whole-of-government response. Unfortunately, President Biden has stalled on some of these important initiatives, even shutting down government-wide investigations.
+* Many American officials have wrongly assumed that by opening to the world, China would be incentivized to play by international rules, engage in free trade, and democratize. Instead, the CCP used their newfound economic power to increase their authoritarian chokehold in China and expand it abroad.

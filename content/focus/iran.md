@@ -1,17 +1,25 @@
 ---
 visible: true
-weight: 2
-title: Confronting the Threat of Iran
+weight: 6
+title: The Threat from Tehran
 slug: iran
-summary: Biden wants to give Iran, the world's leading state sponsor of
-  terrorism, a $90 billion bailout and a clear path to a nuclear weapon. The
-  only way to stop Biden is for Congress to stand firm and block sanctions
-  relief.
-btn_label: Find out what Biden is planning and how to stop it →
+summary: On day one, the Biden Administration jettisoned President Trump’s
+  “maximum pressure” campaign and re-adopted Obama-era policies that empowered
+  the Iranian regime. Biden orchestrated unprecedented sanctions relief on the
+  world’s leading state sponsor of terrorism, providing the regime access to
+  around $100 billion dollars in ransom payments and oil sales—much of which
+  have been diverted to Tehran’s terrorist proxies. These decisions have
+  advanced Iran’s pursuit of regional hegemony, allowed its affiliates to
+  destabilize the Middle East, and endangered the lives of American expats in
+  the region. Even Democrats on Capitol Hill are sounding the alarm on his
+  repeated appeasements.
+btn_label: More on Biden’s Dangerous Pursuit of a Nuclear Deal →
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
-section_img: /img/focus/images-2.jpeg
+section_img: /img/focus/istockphoto-1350615469-612x612.jpg
 memorandums: iran
 accordions: iran
 updates: iran
 ---
-Iran has killed hundreds of American citizens, seeks a nuclear weapon, and routinely calls for the destruction of the United States and Israel. The regime is a radical Islamic terror state that proclaims itself as an enemy of the United States. Iran regularly tortures and murders their citizens when they protest, and the regime funnel billions of dollars into supporting terrorist organizations that kill Americans and sow destruction across the Middle East.
+On day one, the Biden Administration jettisoned President Trump’s “maximum pressure” campaign and re-adopted the Obama-era policies that empowered the Iranian regime. Biden orchestrated an unprecedented sanctions relief on the world’s leading state sponsor of terrorism that has provided the regime access to around $100 billion dollars in ransom payments and oil sales, many of which have been diverted to support Tehran’s terrorist proxies.
+
+President Biden’s record on Iran is abysmal. These decisions have advanced Iran’s pursuit of regional hegemony, allowed its affiliates to destabilize the Middle East with impunity, and endangered the lives of American expats in the region. And they were taken even as Tehran tries to kill American diplomats like Mike Pompeo and even Biden’s top generals. That’s madness and the very definition of weakness.
