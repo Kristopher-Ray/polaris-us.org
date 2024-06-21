@@ -12,5 +12,7 @@ faqs_categories:
 
 ![](/img/focus/screenshot-2024-06-20-at-8.38.06 pm.png)
 
+
+
 * The percentage of military and veteran families who would recommend military life has dropped from three quarters to less than two thirds in three years. With nearly 80 percent of recruits having relatives who served, this should alarm military recruiters.
 * There are no easy fixes here, but we certainly know what doesn’t work: woke policies that make a bad problem worse by alienating potential recruits who don’t want to put up with progressive politics.
