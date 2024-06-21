@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins Outnumbered
 date: 2024-06-18T16:00:44.839Z
 summary: "Last night Trey Gowdy had a crucial point: illegal immigration and
