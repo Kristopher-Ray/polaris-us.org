@@ -11,7 +11,7 @@ summary: "President Biden has failed at one of the most important tasks facing
   most significant land war in generations."
 btn_label: More on Biden’s Ukraine policy failures →
 image: /img/focus/75.jpeg
-section_img: /img/focus/putin.webp
+section_img: /img/focus/220127135455-01-ukraine-russia-forces-file-restricted-011222.jpeg
 memorandums: russia
 accordions: russia
 updates: russia
