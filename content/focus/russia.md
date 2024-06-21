@@ -10,7 +10,7 @@ summary: "President Biden has failed at one of the most important tasks facing
   have advanced a Ukrainian victory. Instead, Europe continues to experience its
   most significant land war in generations."
 btn_label: More on Biden’s Ukraine policy failures →
-image: /img/focus/img_standing-up-to-russia.jpg
+image: /img/focus/75.jpeg
 section_img: /img/focus/putin.webp
 memorandums: russia
 accordions: russia
