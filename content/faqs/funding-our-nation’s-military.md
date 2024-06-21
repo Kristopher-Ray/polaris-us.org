@@ -24,6 +24,6 @@ faqs_categories:
 * The Chinese Communist Party (CCP) understands the reality of our rivalry, which is why it has increased their military’s defense budget to over 7.2 percent. They are building ships faster than us and expanding their nuclear capabilities at a rapid pace.
 * For their part, neither Russia, Iran, nor North Korea are showing any signs of restraint, and this proposed budget would give our military less to counter their threats.
 
-![](blob:https://polaris-us.netlify.app/803953bd-b948-4918-bd2b-236b2d159ba5)
+![](/img/focus/screenshot-2024-06-20-at-8.53.21 pm.png)
 
 **This budget reflects the worst tendencies of bureaucratic inertia: refusing to evolve and adapt to meet our global threats.**
