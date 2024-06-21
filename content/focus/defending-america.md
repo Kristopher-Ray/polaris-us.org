@@ -11,7 +11,7 @@ summary: President Biden’s proposed military budgets have consistently fallen
   increases for domestic progressive priorities.
 btn_label: How we can ensure the homeland’s defense →
 image: /img/focus/360_f_504912875_7eshhrot5xrak0pqgdkq4hdk61pornpp.jpg
-section_img: /img/focus/photo-presidential-inauguration-960x540.jpg
+section_img: /img/focus/screenshot-2024-06-20-at-8.36.26 pm.jpeg
 memorandums: america
 accordions: america
 updates: america
