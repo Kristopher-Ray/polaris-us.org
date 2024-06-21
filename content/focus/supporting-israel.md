@@ -13,7 +13,7 @@ summary: On October 7, Israel experienced the most tragic day in its history.
   Israel in its time of need.
 btn_label: Learn more about the need to protect Israel →
 image: /img/focus/us-israel-1126948916.jpeg
-section_img: /img/focus/images-5.jpeg
+section_img: /img/focus/iiss-oa-23-58_the-hamas-attack-and-israeli-military-options.webp
 memorandums: israel
 accordions: israel
 updates: israel
