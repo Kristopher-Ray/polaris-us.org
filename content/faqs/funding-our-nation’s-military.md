@@ -14,6 +14,8 @@ faqs_categories:
 
 
 
+
+
 **President Biden’s Fiscal Year 2024 Defense Budget**
 
 * President’s Biden FY2025 defense budget proposes over a real 10% cut from the level authorized by Congress in FY2024 once inflation is taken into account.
