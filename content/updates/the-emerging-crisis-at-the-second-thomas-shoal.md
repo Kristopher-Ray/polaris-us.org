@@ -28,7 +28,7 @@ What is the Second Thomas Shoal?
 * [Starting in 2022](https://8nithvebb.cc.rs6.net/tn.jsp?f=001FFrOn67yvEDfxf3DEm3KWduwxt8P66-eNeg7hdHr24ZoWyFzOg_i26XRUg6ZTZ9DnE40SOjWewdEuMCZn4o-97bCcF0AH-PkEolBqRwci7mGMa-zD21RVfeuXhh5bt9MWW8NNpqwiXrRAsPbE2N_kTMXTcsTb2IBRR7FcG4oCPcIHEPt-mRUM9T7hKUoltUIZIDMVTb1p2A=&c=GgMMjo6kWg8UeM0240gsRHcaL3WqUDsYe3XnjlhMk2rG0nSYavymZQ==&ch=pw9NbdRDSNeI9_po1NUkmgY8tB0LllP_VZBPFOeiQpdGeXJGdoS5lQ==), Chinese coast guard and militia vessels ramped up efforts to impede resupply missions, frequently gathering around the shoal in larger formations and resorting to assertive measures to obstruct Philippine ships from reaching the Sierra Madre.
 * China defends these actions by alleging that the Philippines is transporting construction materials, suggesting their intention to either fortify the Sierra Madre into a permanent structure or establish a new outpost altogether on Second Thomas Shoal.
 
-![](/img/updates/screenshot-2024-06-21-at-9.47.22 am.png)
+![](/img/updates/screenshot-2024-01-25-at-6.12.37 am.png)
 
 **Recent Escalations:**
 
