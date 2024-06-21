@@ -11,6 +11,10 @@ faqs_categories:
 
 
 
+![](/img/focus/screenshot-2024-06-20-at-8.47.31 pm.png)
+
+
+
 **The Way Forward**
 
 * Conservatives know arms control is not an end in itself; it is only as effective as the degree to which treaties are honored. Moscow has no intention of adhering to rules, so why should we self-impose nuclear constraints while rivals build capabilities?
