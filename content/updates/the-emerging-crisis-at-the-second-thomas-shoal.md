@@ -4,9 +4,11 @@ draft: false
 featured: false
 title: The Emerging Crisis at the Second Thomas Shoal
 date: 2024-06-21T14:08:32.836Z
-summary: The Second Thomas Shoal is a submerged reef in the Spratly Islands, an
-  archipelago belonging to the Philippines according to an international
-  Arbitral Tribunal, but which has been illegally claimed by China.
+summary: The Second Thomas Shoal arguably poses the greatest immediate risk of
+  escalation between the U.S. and Chinese militaries as we have declared our
+  obligation to respond if China were to attack the Philippines.  President
+  Biden and our national security leaders must demonstrate that we will not
+  allow China to violate its neighbors’ territorial sovereignty with impunity.
 cta: Read More →
 categories:
   - Newsroom
