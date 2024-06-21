@@ -13,8 +13,8 @@ summary: "The CCP is the greatest danger to America since the Soviet Union. It
   keep the peace, but we also understand that policies aimed at avoiding
   conflict often set the conditions for conflict."
 btn_label: Learn how America can push back on China →
-image: /img/focus/img_staying_tough_on_china.jpg
-section_img: /img/focus/screenshot-2024-06-21-at-9.40.55 am.png
+image: /img/focus/screenshot-2024-06-21-at-9.40.55 am.png
+section_img: /img/focus/section_img.png
 memorandums: china
 accordions: china
 updates: china
