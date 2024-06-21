@@ -28,9 +28,7 @@ What is the Second Thomas Shoal?
 * [Starting in 2022](https://8nithvebb.cc.rs6.net/tn.jsp?f=001FFrOn67yvEDfxf3DEm3KWduwxt8P66-eNeg7hdHr24ZoWyFzOg_i26XRUg6ZTZ9DnE40SOjWewdEuMCZn4o-97bCcF0AH-PkEolBqRwci7mGMa-zD21RVfeuXhh5bt9MWW8NNpqwiXrRAsPbE2N_kTMXTcsTb2IBRR7FcG4oCPcIHEPt-mRUM9T7hKUoltUIZIDMVTb1p2A=&c=GgMMjo6kWg8UeM0240gsRHcaL3WqUDsYe3XnjlhMk2rG0nSYavymZQ==&ch=pw9NbdRDSNeI9_po1NUkmgY8tB0LllP_VZBPFOeiQpdGeXJGdoS5lQ==), Chinese coast guard and militia vessels ramped up efforts to impede resupply missions, frequently gathering around the shoal in larger formations and resorting to assertive measures to obstruct Philippine ships from reaching the Sierra Madre.
 * China defends these actions by alleging that the Philippines is transporting construction materials, suggesting their intention to either fortify the Sierra Madre into a permanent structure or establish a new outpost altogether on Second Thomas Shoal.
 
-![](/img/updates/screenshot-2024-06-21-at-9.11.36 am.png)
-
-
+![](/img/updates/screenshot-2024-06-21-at-9.47.22 am.png)
 
 **Recent Escalations:**
 
@@ -44,8 +42,6 @@ What is the Second Thomas Shoal?
 * Former INDOPACOM Commander Aquilino reportedly [issued](https://8nithvebb.cc.rs6.net/tn.jsp?f=001FFrOn67yvEDfxf3DEm3KWduwxt8P66-eNeg7hdHr24ZoWyFzOg_i26XRUg6ZTZ9DHiP0ItJ1V5_G8-JnDTineCjNQgs8nuDA1l_Klo2CH3_5-TUGl4yRG5Y-YuKgf1Y0uZxoQ_7ZaKp_CBTnpo_ysklEUoSRw1AQIbDBTsgqWAbSjJK_g5AmLupihndvf7c1SoccKR5kiws=&c=GgMMjo6kWg8UeM0240gsRHcaL3WqUDsYe3XnjlhMk2rG0nSYavymZQ==&ch=pw9NbdRDSNeI9_po1NUkmgY8tB0LllP_VZBPFOeiQpdGeXJGdoS5lQ==) a warning to a delegation of retired Chinese military officers that the United States would respond to any Chinese incursion at the Second Thomas Shoal.
 * The Second Thomas Shoal arguably poses the greatest immediate risk of escalation between the U.S. and Chinese militaries as we have declared our obligation to respond if China were to attack the Philippines.
 
-
-
 **What Should the United States Do Next?**
 
 * The United States has a longstanding Mutual Defense Treaty with the Philippines, and we are bound to protect their territory from Chinese aggression. We should continue to publicly and privately reaffirm our commitment to this treaty, as both the Trump and Biden Administrations have frequently done.
@@ -53,8 +49,6 @@ What is the Second Thomas Shoal?
 * The U.S. military should work to rebuild a military presence in the Philippines, particularly at four new sites recently outlined in a U.S.-Filipino joint defense cooperation agreement.
 * President Biden and our national security leaders must demonstrate–through actions as well as words–that we will not let China violate the Philippines’ territorial sovereignty.
 * There must be no public caveats about “minor incursions”, nor desperate offers of concessions and pleading for dialogue. Biden already failed to deter Russia from invading Europe; he must learn from the lessons of that invasion and stand strong against China here. The PRC expects weakness. We must show strength.
-
-
 
 **Background: U.S.-Philippines Mutual Defense Treaty**
 
