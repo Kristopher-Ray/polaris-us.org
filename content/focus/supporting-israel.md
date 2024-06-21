@@ -12,7 +12,7 @@ summary: On October 7, Israel experienced the most tragic day in its history.
   security and deter foreign adversaries. America must continue to stand with
   Israel in its time of need.
 btn_label: Learn more about the need to protect Israel →
-image: /img/focus/360_f_522794865_vyi8mtr5pvrili7pqr3nahs15jcdj8jc.jpg
+image: /img/focus/us-israel-1126948916.jpeg
 section_img: /img/focus/images-5.jpeg
 memorandums: israel
 accordions: israel
