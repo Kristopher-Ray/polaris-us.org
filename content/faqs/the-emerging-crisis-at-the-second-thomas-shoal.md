@@ -17,6 +17,8 @@ China is threatening to seize control of part of the Philippines, a U.S. defense
 * Starting in 2022, Chinese coast guard and militia vessels ramped up efforts to impede resupply missions, frequently gathering around the shoal in larger formations and resorting to more assertive measures to obstruct ships from reaching the Sierra Madre.
 * China defends these actions by alleging that the Philippines is transporting construction materials, suggesting their intention to either fortify the Sierra Madre into a permanent structure or establish a new outpost altogether on Second Thomas Shoal.
 
+![](/img/focus/screenshot-2024-06-21-at-8.15.34 pm.png)
+
 **What Should the United States Do Next?**
 
 * America has a longstanding Mutual Defense Treaty with the Philippines, and we are bound to protect their territory from CCP aggression. We should publicly and privately reaffirm our commitment, as both the Trump and Biden Administrations have done.
