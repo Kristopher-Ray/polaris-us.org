@@ -11,7 +11,7 @@ We should always stand with our democratic friends against authoritarian tyrants
 
 There are other reasons “America First” conservatives should support Ukraine. A Ukrainian victory will help deter Chinese aggression and decrease the risk of war in Taiwan, all while weakening the Sino-Russian partnership. It will also save the American taxpayer billions in the long- run by creating more stable security conditions in Europe and reducing our need to spend on the continent’s defense. A Russian victory would do the opposite, as Putin would potentially absorb Belarus and further threaten our eastern NATO allies. And providing weapons to Ukraine gives us a unique opportunity to test our weaponry and hone our technology.
 
-![](/img/focus/screenshot-2024-06-21-at-8.35.06 pm.png)
+![](/img/focus/screenshot-2024-06-21-at-8.35.06 pm.jpeg)
 
 Conservatives are right to debate the scale of our involvement in Ukraine and how to balance domestic and international challenges. We must continue to pressure European countries – particularly in Western Europe – to do more themselves. While military support is expensive, it is more costly for us to abandon Ukraine. Without American support, Ukrainian forces will not have the weapons they need to defeat Putin and will literally run out of bullets, leading Russia to advance westward where they will be postured to threaten our NATO flank even further. Now is the moment to take President Reagan’s advice and seek “peace through strength.” America fought to break up the Soviet Union, once our greatest foe. We should not sit back to watch Putin try to reassemble that evil empire and assume there will be no long- term consequences for our interests.
 
