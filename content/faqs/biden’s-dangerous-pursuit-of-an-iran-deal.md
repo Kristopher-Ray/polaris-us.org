@@ -9,4 +9,6 @@ Any nuclear deal reached by the Biden White House would give the Iranian regime 
 
 Instead of understanding the threat from the Iranian regime, Biden’s negotiators deferred to Russian and Chinese diplomats to renegotiate Obama’s Joint Comprehensive Plan of Action (JCPOA) with the Iranian regime. The outcome has been disastrous.
 
+![](/img/focus/screenshot-2024-06-21-at-8.40.38 pm.png)
+
 Now, Congress is investigating evidence that President Biden’s special envoy to Iran, Rob Malley, shared classified material with foreign nationals—behavior for which he allegedly lost his security clearance and was placed on unpaid leave. Senior foreign policy officials divulging national secrets to advance misguided diplomatic efforts is a dereliction of duty and betrayal of the American people.
