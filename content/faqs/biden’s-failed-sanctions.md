@@ -9,6 +9,8 @@ The Trump Administration withdrew from Obama’s nuclear deal and imposed heavy 
 
 The Biden Administration has completely failed to uphold U.S. law and enforce sanctions on Iran – particularly against its export of oil that fuels the regime’s war and terror machine. We need to maintain sanctions on Iran until they sign a strong deal that prevents them from ever getting a nuclear weapon.
 
+![](/img/focus/screenshot-2024-06-21-at-8.41.32 pm.png)
+
 Biden has looked the other way as Iran has sold its terror oil around the world and refused to sanction the regime. Those oil sales fund terrorism that is used to kill Americans. Since October 7, 2023, alone, the Iranian regime and its terror proxies have attacked U.S. forces, bases, and assets at least 170 times. This administration has only responded a handful of times.
 
 Here are just a few of the many actions the Biden took that encouraged Iranian aggression:
