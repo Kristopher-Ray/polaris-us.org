@@ -14,7 +14,7 @@ summary: The United States was built by immigrants. But President Biden's failed
   system.
 btn_label: Learn more about the dangers of a wide-open border →
 image: /img/focus/img_bidens-border-crisis.jpg
-section_img: /img/focus/screenshot-2024-06-21-at-8.36.47 pm.png
+section_img: /img/focus/495a3fe3-ed7c-4afd-a00d-8ed53369314a-large16x9_ap22083403544858.jpg.webp
 memorandums: border
 accordions: border
 updates: border
