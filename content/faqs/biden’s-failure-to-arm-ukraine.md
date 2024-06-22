@@ -13,7 +13,7 @@ faqs_categories:
 * **August 9, 2022**: Biden refuses to send ATACMS munition that Ukraine has requested, because the administration is concerned it would provoke Russia (which had recently struck residential buildings, a supermarket, and pharmacy in Mykolaiv).
 * **September 16, 2022**: Biden administration holds off Ukrainian request for more long-range missiles for fear of provoking Russia (which slaughtered tens of thousands of Ukrainian civilians without provocation).
 
-![](/img/focus/screenshot-2024-06-21-at-8.31.04 pm.png)
+![](/img/focus/screenshot-2024-06-21-at-8.31.04 pm.jpeg)
 
 * **October 10, 2022**: Biden finally agrees to give Ukraine advanced air- defense systems after the Russians strike Kyiv with several missiles. The systems will take two months to arrive. If they had been sent two months earlier, they could have intercepted missiles.
 * **November 29, 2022**: Eight months after saying it couldn’t provide Ukraine with Patriot missile defense systems, the Pentagon is considering sending Patriot batteries to Ukraine.
