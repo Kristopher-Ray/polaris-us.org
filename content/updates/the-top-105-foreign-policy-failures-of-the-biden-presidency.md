@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: false
 title: "The Top 105 Foreign Policy Failures of the Biden Presidency: A Timeline"
-date: 2024-06-23T17:14:05.389Z
+date: 2024-06-22T17:14:05.389Z
 summary: "Never in our imagination did we believe the Biden Administration would
   decimate U.S. power and influence as quickly and as drastically as it has.
   From the withdrawal of Afghanistan to the appeasement of Iran, shutting down
