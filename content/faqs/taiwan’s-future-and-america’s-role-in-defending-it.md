@@ -13,4 +13,4 @@ faqs_categories:
 * America successfully maintains regional power in Southeast Asia, along with our allies, Australia, South Korea, and Japan. Together, the alliance helps deters China’s authoritarian claims over Taiwan and the South China Sea.
 * But American taxpayers shouldn’t foot the whole bill. We need to encourage Taiwan to spend more on their defense now, and to buy the right weapons from us. And we should ask our allies in Japan, South Korea, and Australia to share the burden with us.
 
-![](/img/focus/screenshot-2024-06-21-at-8.12.40 pm.png)
+![](/img/focus/screenshot-2024-06-21-at-8.12.40 pm.jpeg)
