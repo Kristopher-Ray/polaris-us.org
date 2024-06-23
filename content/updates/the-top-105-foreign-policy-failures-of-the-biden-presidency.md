@@ -1,16 +1,16 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: "The Top 105 Foreign Policy Failures of the Biden Presidency: A Timeline"
 date: 2024-06-22T17:14:05.389Z
-summary: "Never in our imagination did we believe the Biden Administration would
-  decimate U.S. power and influence as quickly and as drastically as it has.
-  From the withdrawal of Afghanistan to the appeasement of Iran, shutting down
-  American energy while greenlighting Russian pipelines, in every single theater
-  the Biden Administration has empowered and enriched our enemies.   It was
-  difficult work, but we managed to narrow the list of Biden's foreign policy
-  failures to the worst 105 - read the timeline below:"
+summary: Never in our imagination did we believe that President Biden would
+  decimate U.S. power and influence as quickly and as drastically as he has.
+  From the disastrous and chaotic Afghanistan withdrawal and appeasement of
+  Iran, to shutting down American energy while green-lighting Russian pipelines,
+  the Biden Administration has empowered and enriched our enemies in every
+  theater. It was difficult work, but we managed to narrow the list of Biden's
+  foreign policy failures to the worst 105. Read the timeline below.
 cta: Read More →
 categories:
   - Newsroom
