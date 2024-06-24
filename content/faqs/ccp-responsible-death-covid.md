@@ -5,6 +5,9 @@ faqs_categories:
   - China
 ---
 * China continues to stonewall international efforts to investigate the origins of COVID-19, resulting in unconvincing and inconclusive reports. Many experts theorize that COVID-19 originated through accidental leakage in a state-run bio- agent laboratory, the Wuhan Institute of Virology (WIV), which was only a quarter mile from where the first known case of COVID-19 was discovered. The Intelligence Community remains divided on the origins of COVID-19, but significant circumstantial evidence points to the lab-leak theory.
+
+![](/img/focus/screenshot-2024-06-21-at-8.27.33 pm.png)
+
 * The CCP withheld critical information on COVID-19 from the beginning, arrested scientists and doctors, burned scores of documents, and downplayed the pandemic’s severity. These actions hampered the global response, including in the United States.
 * Whether you think we should use our withdraw or presence to push for WHO reforms, the status quo is not acceptable. The United States should absolutely use funding pressure and other mechanisms to influence WHO actions.
 * The Biden Administration has done little to hold the CCP accountable for its willful negligence on COVID-19. Instead, the White House has rejoined the WHO without reforms in place and continued to herald Dr. Fauci despite his deceit on the perils of gain-of-function research and the NIH’s collaboration with the WIV.

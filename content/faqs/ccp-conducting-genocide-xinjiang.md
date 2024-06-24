@@ -10,3 +10,5 @@ faqs_categories:
 * The CCP exports Communist Party workers to Xinjiang that move in and live with Uyghur families. Excruciating reports have come out detailing the rapes of Uyghur women, beatings of men, and communist brainwashing of young children.
 * The CCP often summons Uyghur citizens to ‘routine’ meetings, only to never be seen again. Many cases involve Uyghurs practicing basic aspects of their faith. Many Uyghurs visiting in China find themselves spending months under inhumane conditions for no reason.
 * Despite the ongoing genocide, many American businesses retain deep ties with Xinjiang, which aids the CCP’s persecution. Congress should continue to pass legislation enacting stiff penalties for those who enable the CCP’s genocide and banning products produced through forced labor in Xinjiang.
+
+![](/img/focus/screenshot-2024-06-21-at-8.17.04 pm.jpeg)
