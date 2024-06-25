@@ -14,6 +14,7 @@ categories:
   - Newsroom
   - China
 image: /img/updates/240618-second-thomas-shoal-mb-1056-23e161.webp
+og_img: /img/updates/240618-second-thomas-shoal-mb-1056-23e161.webp
 ---
 **The Emerging Crisis at the Second Thomas Shoal**
 
