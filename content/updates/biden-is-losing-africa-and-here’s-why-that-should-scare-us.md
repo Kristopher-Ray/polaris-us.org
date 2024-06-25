@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Biden is losing Africa and here’s why that should scare us
+title: Biden is Losing Africa and Here’s Why That Should Scare Us
 date: 2024-06-05T15:45:01.043Z
 summary: Across the world, President Biden’s foreign policy has ceded ground to
   enemies of the U.S. Now, after decades of development work and hundreds of
