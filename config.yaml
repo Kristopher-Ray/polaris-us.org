@@ -42,7 +42,7 @@ taxonomies:
   section_category: section_categories
 paginate: 1
 title: Polaris National Security
-baseURL: null
+baseURL: https://polaris-us.org
 menu:
   main:
     - name: Our Focus
