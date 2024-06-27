@@ -14,7 +14,7 @@ summary: Never in our imagination did we believe that President Biden would
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/unknown.jpeg
+image: /img/updates/zfdsyek8.jpeg
 ---
 **The Top 105 Foreign Policy Failures of the Biden Presidency**
 
