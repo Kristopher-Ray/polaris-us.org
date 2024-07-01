@@ -1,6 +1,6 @@
 ---
 title: James Coffey
-position: Director of Outreach
+position: Director of Public Affairs
 team_categories:
   - Team
 image: /img/team/james-coffey.png
