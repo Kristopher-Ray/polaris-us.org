@@ -155,7 +155,7 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Image Title / Description", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image" , required: false}
-      - {label: "Order (related to all entries)", name: "weight", widget: "number" }
+      - {label: "Date", name: "date", widget: "date"}
   - name: "events"
     label: "Past Events"
     folder: "content/events"
