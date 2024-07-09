@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins The Evening Edit
 date: 2024-07-09T16:32:10.322Z
 summary: "Morgan Ortagus joins The Evening Edit to discuss the world's reaction
