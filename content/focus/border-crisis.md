@@ -6,7 +6,7 @@ slug: border
 summary: The United States was built by immigrants. But the failed immigration
   policies of the Biden-Harris Administration are anything but compassionate to
   Americans, legal immigrants, and even illegal migrants trafficked by cartels.
-  The Biden-Harris White House derelict in its constitutional duty and has
+  The Biden-Harris White House is derelict in its constitutional duty and has
   dangerously exposed our homeland to terrorists and criminals eagerly
   exploiting open borders. The present surge in illegal crossings and inadequate
   vetting is fueling tragic rises in drug trafficking, human smuggling, and
