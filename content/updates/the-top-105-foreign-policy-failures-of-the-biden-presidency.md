@@ -2,7 +2,8 @@
 visible: true
 draft: false
 featured: false
-title: "The Top 105 Foreign Policy Failures of the Biden Presidency: A Timeline"
+title: "The Top 105 Foreign Policy Failures of the Biden-Harris Presidency: A
+  Timeline"
 date: 2024-06-22T17:14:05.389Z
 summary: Never in our imagination did we believe that President Biden would
   decimate U.S. power and influence as quickly and as drastically as he has.
