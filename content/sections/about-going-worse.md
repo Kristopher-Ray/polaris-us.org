@@ -9,7 +9,7 @@ id: getting-worse
 ---
 ### It's Only Getting Worse {.sectionTitle .text-uppercase}
 
-President Biden ruptured our sources of strength in the world, making the United States less safe and putting Americans at risk. The world’s cruelest dictators prey on Biden’s weakness;
+The Biden-Harris Administration ruptured our sources of strength in the world, making the United States less safe and putting Americans at risk. The world’s cruelest dictators prey on Biden and Harris' weakness;
 
 * **Russia invaded Ukraine**
 * **Hamas started a war against Israel**
@@ -17,4 +17,4 @@ President Biden ruptured our sources of strength in the world, making the United
 * **Kim Jong Un continues to test Intercontinental Ballistic Missiles**
   {.font21}
 
-Biden’s inability to lead is destabilizing the whole world. Biden is unfit to lead our men and women in uniform, and he diminishes our country’s standing in the eyes of the world.
+Biden and Harris' inability to lead is destabilizing the whole world. They are unfit to lead our men and women in uniform, and are diminishing our country’s standing in the eyes of the world.
