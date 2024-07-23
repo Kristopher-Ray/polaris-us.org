@@ -6,7 +6,7 @@ slug: china
 summary: "The CCP is the greatest danger to America since the Soviet Union. It
   aims to overtake the U.S.-led liberal international order and replace it with
   authoritarianism that uses military coercion to advance China’s interests. But
-  Biden's China strategy is predicated on misguided reasoning with one
+  Biden and Harris' China strategy is predicated on misguided reasoning with one
   overriding priority: avoid conflict. It seeks to manage competition with the
   CCP using accommodation rather than win it with deterrence. And it denies the
   obvious: that we are already in a Cold War with China. Conservatives want to
