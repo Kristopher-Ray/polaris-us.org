@@ -5,19 +5,20 @@ featured: false
 title: "The Top 105 Foreign Policy Failures of the Biden-Harris Presidency: A
   Timeline"
 date: 2024-06-22T17:14:05.389Z
-summary: Never in our imagination did we believe that President Biden would
-  decimate U.S. power and influence as quickly and as drastically as he has.
-  From the disastrous and chaotic Afghanistan withdrawal and appeasement of
-  Iran, to shutting down American energy while green-lighting Russian pipelines,
-  the Biden Administration has empowered and enriched our enemies in every
-  theater. It was difficult work, but we managed to narrow the list of Biden's
-  foreign policy failures to the worst 105. Read the timeline below.
+summary: Never in our imagination did we believe that the Biden-Harris
+  presidency would decimate U.S. power ant nd influence as quickly and as
+  drastically as he has. From the disastrous and chaotic Afghanistan withdrawal
+  and appeasement of Iran, to shutting down American energy while green-lighting
+  Russian pipelines, the Biden-Harris Administration has empowered and enriched
+  our enemies in every theater. It was difficult work, but we managed to narrow
+  the list of Biden and Harris' foreign policy failures to the worst 105. Read
+  the timeline below.
 cta: Read More →
 categories:
   - Newsroom
 image: /img/updates/zfdsyek8.jpeg
 ---
-**The Top 105 Foreign Policy Failures of the Biden Presidency**
+**The Top 105 Foreign Policy Failures of the Biden-Harris Presidency**
 
 1. **Biden Assembles National Security “Dream Team” (Transition):** Appointments include longtime Beltway careerists and [Obama-Clinton allies](https://www.politico.com/news/2020/11/23/joe-biden-transition-national-security-team-john-kerry-439706) like Antony Blinken despite warnings that he was “not only unqualified” but “dangerous to America” (Sen. McCain, 2014) and that Biden was “wrong on nearly every major foreign policy and national security issue over the past four decades” (Bob Gates, 2014). At the time, Sen. Rubio correctly warned that Biden’s picks–the likes of John Kerry and Jake Sullivan–“went to Ivy League schools, have strong resumes, attend all the right conferences & will be polite & orderly caretakers of America’s decline.”
 2. **Halting Keystone Pipeline and Federal Drilling (January 20, 2021):** President Biden launched a crusade against traditional energy on day one,[ revoking](https://www.bbc.com/news/world-us-canada-55740659) a key permit for the Keystone XL pipeline and banning oil and gas permitting for federal lands and waters. These actions killed thousands of U.S. jobs, raised prices at the pump, and emboldened European reliance on Russian energy. It also angered neighboring Canada, prompting Trudeau to convey his strong disappointment to Biden.
