@@ -11,7 +11,7 @@ cta: Read More →
 categories:
   - Newsroom
   - Israel
-image: /img/updates/image.jpeg
+image: /img/updates/az8_6324.jpg
 ---
 Thank you for having me here! First, I want to give a special shout out to the whole Christians United for Israel team who have put this fabulous summit together. Can we give them a round of applause?
 
