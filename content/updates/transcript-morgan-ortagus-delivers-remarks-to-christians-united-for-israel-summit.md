@@ -5,8 +5,7 @@ featured: false
 title: "TRANSCRIPT: Morgan Ortagus Delivers Remarks to Christians United For
   Israel Summit"
 date: 2024-07-31T02:09:55.276Z
-summary: Morgan Ortagus delivers remarks to the 2024 Christians United for
-  Israel Summit in Washington, DC.
+summary: July 30 Remarks to CUFI Summit at National Harbour, Maryland
 cta: Read More →
 categories:
   - Newsroom
