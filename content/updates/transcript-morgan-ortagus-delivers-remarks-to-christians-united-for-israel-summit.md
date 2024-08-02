@@ -2,8 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: "TRANSCRIPT: Morgan Ortagus Delivers Remarks to Christians United For
-  Israel Summit"
+title: Morgan Ortagus Delivers Remarks to Christians United For Israel Summit
 date: 2024-07-31T02:09:55.276Z
 summary: July 30 Remarks to CUFI Summit at National Harbour, Maryland
 cta: Read More →
@@ -12,6 +11,12 @@ categories:
   - Israel
 image: /img/updates/az8_6324.jpg
 ---
+**[WATCH RECAP](https://youtu.be/awD0dFy2j9I)**
+
+**FULL TRANSCRIPT BELOW**
+
+**\-----------------------------------------------------------------------------------------------------**
+
 Thank you for having me here! First, I want to give a special shout out to the whole Christians United for Israel team who have put this fabulous summit together. Can we give them a round of applause?
 
 I’m Morgan Ortagus, many of you may know me from Fox News or from when I served as the Spokesperson for the State Department under President Trump and Secretary Mike Pompeo. We spent so much of our time thinking about how we could protect Israel and defeat our enemies like the Islamic Republic of Iran and the Chinese Communist Party.
