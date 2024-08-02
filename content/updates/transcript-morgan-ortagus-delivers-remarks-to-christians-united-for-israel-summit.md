@@ -13,9 +13,9 @@ image: /img/updates/az8_6324.jpg
 ---
 **[WATCH RECAP](https://youtu.be/awD0dFy2j9I)**
 
-**FULL TRANSCRIPT BELOW**
+**FULL TRANSCRIPT** 
 
-**\-----------------------------------------------------------------------------------------------------**
+**\---------------------------------------------------------------------**
 
 Thank you for having me here! First, I want to give a special shout out to the whole Christians United for Israel team who have put this fabulous summit together. Can we give them a round of applause?
 
