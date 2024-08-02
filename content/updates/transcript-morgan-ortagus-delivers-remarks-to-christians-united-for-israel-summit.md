@@ -11,7 +11,7 @@ categories:
   - Israel
 image: /img/updates/az8_6324.jpg
 ---
-**[WATCH RECAP](https://youtu.be/awD0dFy2j9I)**
+**[WATCH RECAP HERE](https://youtu.be/awD0dFy2j9I)**
 
 **FULL TRANSCRIPT** 
 
