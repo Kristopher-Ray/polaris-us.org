@@ -4,10 +4,7 @@ draft: false
 featured: true
 title: "Factsheet: Tim Walz’s Foreign Policy Record is Radical and Wrong"
 date: 2024-08-08T20:40:00.447Z
-summary: "Kamala’s selection of Tim Walz as her running mate sends an
-  unmistakable message: They will, if given the chance, double down on the same
-  measures that have brought war and unrest across the world over the past four
-  years."
+summary: ""
 cta: Read More →
 categories:
   - Newsroom
