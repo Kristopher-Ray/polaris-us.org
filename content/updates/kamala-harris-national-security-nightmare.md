@@ -8,8 +8,8 @@ summary: ""
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/gettyimages-2162425804-612x612.jpg
-og_img: /img/updates/gettyimages-2162425804-612x612.jpg
+image: /img/updates/gettyimages-2162426179-612x612.jpg
+og_img: /img/updates/gettyimages-2162426179-612x612.jpg
 ---
  Vice President Kamala Harris owns every single foreign policy failure of the Biden-Harris administration.  Her views are even more dangerous than those of President Biden.  Both her congressional tenure and 2020 primary campaign suggest her leadership would be even more radical, putting American lives at risk.
 
