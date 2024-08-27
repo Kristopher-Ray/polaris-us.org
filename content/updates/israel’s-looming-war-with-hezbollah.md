@@ -4,6 +4,7 @@ draft: false
 featured: false
 title: Israel’s Looming War with Hezbollah
 date: 2024-08-26T19:42:44.847Z
+cta: Read More →
 categories:
   - Israel
 image: /img/updates/gettyimages-84235679-612x612.jpg
