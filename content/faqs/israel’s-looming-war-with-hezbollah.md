@@ -3,7 +3,7 @@ draft: false
 weight: 7
 title: Israel’s Looming War with Hezbollah
 faqs_categories:
-  - Featured In
+  - Israel
 ---
 Israel has every right – and should have our total support – to take any measure it needs to defend itself. But the American people must understand: We wouldn’t be on the brink of another war without 3.5 years of Biden and Harris appeasing Hezbollah’s patron, the Islamic Republic of Iran. Their sanctions relief has bankrolled a steady flow of money and arms from Tehran to Hezbollah used for these exact types of attack on Israelis. Hezbollah is making use of these tools to prepare more attacks on Israelis as we speak.
 
