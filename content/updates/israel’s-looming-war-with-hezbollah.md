@@ -1,0 +1,37 @@
+---
+visible: true
+draft: false
+featured: false
+title: Israel’s Looming War with Hezbollah
+date: 2024-08-26T19:42:44.847Z
+categories:
+  - Israel
+image: /img/updates/gettyimages-84235679-612x612.jpg
+og_img: /img/updates/gettyimages-84235679-612x612.jpg
+---
+***Bottom Line*:** This morning, Israel acted in self-defense to foil an imminent, large-scale Hezbollah attack on civilians in Tel Aviv and northern Israel. Hezbollah reportedly planned to fire 6,000 rockets and drones to overwhelm Israel’s air defense systems. Thanks to preemptive Israeli airstrikes against Hezbollah’s rocket launch pads, IDF fighter jets prevented the attack.
+
+Israel has every right – and should have our total support – to take any measure it needs to defend itself. But the American people must understand: We wouldn’t be on the brink of another war without 3.5 years of Biden and Harris appeasing Hezbollah’s patron, the Islamic Republic of Iran. Their sanctions relief has bankrolled a steady flow of money and arms from Tehran to Hezbollah used for these exact types of attack on Israelis. Hezbollah is making use of these tools to prepare more attacks on Israelis as we speak.
+
+Hezbollah has already killed hundreds of American civilians and service members over its blood-soaked history. Thousands of Americans along the Israeli-Lebanese border could be trapped or killed in a coming war. Washington must back Israel to the hilt in its fight against terrorism and protect American expats at all costs.
+
+ 
+
+###### ***Key Points for Americans to Know:***
+
+* **Hezbollah started this conflict; Israel must be allowed to end it.** Hezbollah started firing rockets and artillery into Israel on October 8, 2023, and it has kept escalating since then. Israel has every right to defend its territory and its people from the terror that Hezbollah has launched.
+* **The Biden-Harris appeasement of Iran is fueling and funding Hezbollah.**  The Iranian regime provides Hezbollah approximately 70% of its funding. Since Biden took office, the regime has earned an extra $100 billion in extra oil sales. This cash infusion – along with the billions in recent ransom payments – helps Tehran make its payments and its provision of training, weapons, explosives and other aid to Hezbollah. 
+* **Holding Israel back today only increases the prospects of a worse war later.** For months, Secretary Blinken and Amos Hochstein have begged Israel not to respond to Hezbollah’s serial provocations. The United States should always seek regional peace, but the Biden-Harris Administration’s obsession with temporary de-escalation signals U.S. weakness to terrorists. We cannot afford to have Biden and Harris team repeat their failed Putin appeasement playbook during Israel’s time of need.
+* **Hezbollah will never be talked out of its fanaticism.** Its members want nothing less than Israel’s total destruction and to wipe out the world’s only Jewish state. Hassan Nasrallah, Hezbollah’s leader, has repeatedly declared that Israel has no right to exist and [stated](https://www.cnbc.com/2024/06/20/hezbollah-leader-warns-israel-of-war-with-no-red-lines-threatens-cyprus-.html) that war would be fought with “no rules,” targeting civilians to maximize fear and destruction. The notion that we can reach a permanent understanding with them is ludicrous.
+* **The only way to keep Israel safe is by severely degrading Hezbollah.** Recent estimates indicate Hezbollah’s capabilities are roughly on par with those of a mid-size European army. It [could fire](https://jinsa.org/wp-content/uploads/2024/06/Hezbollahs-Escalation-Threatens-Full-Scale-War.pdf) upwards of 3,000 rockets per day at Israel during the initial stage of a war and its arsenal includes some 150,000 to 200,000 rockets, missiles, and drones that can overwhelm the Iron Dome.  Hezbollah has already fired thousands of projectiles across the Blue Line since October and forced 80,000 Israelis to flee their homes and schools. Israel cannot endure this security threat indefinitely.
+* **Terrorists must be neutralized, not accommodated.** Sec. Blinken’s [perplexing statement](https://www.voanews.com/a/blinken-no-main-actors-want-war-between-israel-hezbollah/7681164.html) last month that Hezbollah does not seek war underscores the Biden-Harris Administration’s alarming misunderstanding of the nature of terrorism.  We must learn our lessons from Hamas: it is deadly to try to accommodate terror groups and hope for the best.
+* **Defeating Hezbollah weakens Iran.** Tehran is Hezbollah’s [patron](https://www.washingtonpost.com/world/2024/06/23/lebanon-israel-iraq-syria-hezbollah-fighters-iran/2ab1fa52-311e-11ef-bcdf-31cdebd3022f_story.html) not only because it seeks Israel’s destruction, but because Hezbollah serves as insurance policy for Iran’s nuclear weapons program. Should Israel strike Iran, the regime would unleash Hezbollah in response.
+* **Biden is so weak that our allies won’t even share their plans with us anymore.**  There is still no indication that Israel told the White House about their operation in advance–much like Ukraine kept Biden in the dark on their Kursk offensive weeks ago.  It is deeply troubling that our allies do not feel they can confide in our leaders and question whether they have America’s support in their wars of self-defense.
+
+ 
+
+###### ***What Washington Should Do***
+
+* **Demand that Biden and Harris Stop Slow-Walking Israeli Arms Transfers**. The White House has slowed the approval of critical arms transfers to the Israel government during its operation in Gaza.  This insult to Israel sent a signal to Hezbollah that U.S. support was in question for a full-scale conflict between Israel and Hezbollah.  Washington can best deter war by expediting deliveries of advanced weapons, Iron Dome interceptors, and anything else Israel needs to win.
+* **Hold Biden and Harris Accountable for Funding Hezbollah by Appeasing Iran.** Congress must impose costs on the Biden-Harris Administration for its lawless refusal to enforce existing sanctions. It is ignoring at least three laws passed by Congress this year to force accountability on Iran policy. Congress must receive answers about Special Envoy Rob Malley’s suspension and the State Department must issue the sanctions and reports required under the MAHSA Act, SHIP Act, and Fight CRIME Act. If they fail to comply, the time for subpoenas is here.
+* **The United States Must Threaten Tariffs on Iranian Oil Importers.** Sanctions are the first and most important step to cutting off Iranian oil revenue, but they cannot be the only tool used. Washington must be prepared to levy serious tariffs against any country that helps the Iranian regime, as Senator Graham’s recently [introduced legislation](https://www.lgraham.senate.gov/public/index.cfm/press-releases?ID=796FD5BE-7F56-4177-9467-E606B0B2ACA7) would accomplish.
