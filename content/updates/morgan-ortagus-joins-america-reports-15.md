@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins America Reports
 date: 2024-08-09T20:07:54.802Z
 summary: '"Call it whatever you want, but we are at war." Morgan Ortagus joins
