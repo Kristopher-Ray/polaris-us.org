@@ -26,10 +26,14 @@ Tonight, Kamala will try to hide her national security record and make empty pro
 
    * ***As Border Czar***. Biden gave her one job—working on immigration policy. The result has been the worst border invasion in American history: millions of unknown migrants, floods of fentanyl and terrorism.
    * ***Defunding the Military*.** Kamala pushed real defense cuts four years in a row despite rising security threats and politicized our military with DEI. She demoralized our Armed Forces so much that we can’t even recruit anymore.
+
+
 2. **Starting Crises that Never Should Have Happened**
 
    * ***Surrendering Afghanistan.*** She was the “last person in the room” pushing Biden to withdraw and praised his “courage” to leave. Spare us the lectures on women’s rights after handing millions of girls to the Taliban and abandoning Americans behind enemy lines.  
    * ***Emboldening Russia.*** Kamala played politics with oil: She killed our Keystone Pipeline to appease the climate lobby but refused to sanction Putin’s Nord Stream 2 Pipeline, making Europe more dependent on Russia. Then she withheld $300 million in aid from Ukraine and said they would only get it if they were invaded. What kind of deterrence is that? Now, we’re stuck spending tens of billions.
+
+
 3. **Strengthening America’s Adversaries**
 
    * **\*Funding Attacks** on Israel by Appeasing Iran.* Kamala’s policies have bankrolled Iran’s war machine which sent billions to Hamas and Hezbollah. That money was used for October 7 and to take Americans hostage. Now she is backing anti-Semitic protesters and campus chaos. Iran almost has a nuclear weapon and is constantly attacking our soldiers, but she has no plan to stop it.
