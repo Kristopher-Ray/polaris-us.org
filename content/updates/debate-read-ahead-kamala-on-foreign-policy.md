@@ -12,6 +12,8 @@ categories:
   - Newsroom
 image: /img/updates/gettyimages-2162789021-612x612.jpg
 ---
+[PDF version available here.](https://www.dropbox.com/scl/fi/mhgctwldw5bx3w53sqhyr/09.10.24-Debate-Read-Ahead-FINAL.pdf?rlkey=hxztmvzcyx22akxpo2fr30sje&st=6deeur0o&dl=0)
+
 Tonight, Kamala will try to hide her national security record and make empty promises about defending America. But we already know what the results of her presidency would be: Joe 2.0. ***America is less safe and weaker than she was four years ago.***
 
 ###### ***Three Key Points***
