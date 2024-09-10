@@ -16,7 +16,7 @@ image: /img/updates/gettyimages-2162789021-612x612.jpg
 
 Tonight, Kamala will try to hide her national security record and make empty promises about defending America. But we already know what the results of her presidency would be: Joe 2.0. ***America is less safe and weaker than she was four years ago.***
 
-###### ***Three Key Points***
+#### ***Three Key Points***
 
 **1. She’s Dishonest.** Kamala still refuses to accept responsibility for the border crisis, the Afghanistan withdrawal, and hiding Biden’s decline.  Now, she is changing her position on everything from the border wall to Iran. Americans deserve accountability.
 
@@ -24,7 +24,7 @@ Tonight, Kamala will try to hide her national security record and make empty pro
 
 **3. She’s Radical.** Let’s be clear – Kamala is the most extreme and leftist nominee in American history.  Her positions range from problematic to absurd. It’s no wonder she is trying to run away from her record as the most progressive member of the Senate.
 
-###### ***What’s Her Record?***
+#### ***What’s Her Record?***
 
 ###### **1. Undermining Security at Home**
 
@@ -50,7 +50,7 @@ Tonight, Kamala will try to hide her national security record and make empty pro
 
 * ***Emboldening China*.** Under Kamala, the CCP is fueling our fentanyl crisis, sending spy balloons, and inching closer to war in Taiwan and the Philippines. But her only response is to call for more diplomacy and give concession after concession. Nobody would celebrate her re-election more than Xi Jinping.
 
-###### ***What America Needs***
+#### ***What America Needs***
 
 **1. A Return to Peace Through Strength.** The best way to avoid war is with military strength. We will invest in our defenses to deter any foes from testing America.
 
