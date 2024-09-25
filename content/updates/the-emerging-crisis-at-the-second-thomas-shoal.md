@@ -9,7 +9,7 @@ summary: The Second Thomas Shoal arguably poses the greatest immediate risk of
   obligation to respond if China were to attack the Philippines.  President
   Biden and our national security leaders must demonstrate that we will not
   allow China to violate its neighbors’ territorial sovereignty with impunity.
-cta: Read More →24
+cta: Read More →
 categories:
   - Newsroom
   - China
