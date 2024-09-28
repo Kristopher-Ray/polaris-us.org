@@ -13,15 +13,17 @@ image: /img/updates/gettyimages-2165607145-612x612.jpg
 ---
 Any remaining questions about Kamala’s dangerous foreign policy were laid to rest when she selected Tim Walz as her VP. His national security record leaves little to the imagination: He is a darling of the far-left who loves dictators and could **leave our country waltzing into war.**
 
-**Claim: Walz & Kamala will stand up to China as strong, experienced leaders.** 
+***Claim:* *Walz & Kamala will stand up to China as strong, experienced leaders.*** 
 
-**Reality: He has consistently downplayed concerns about the CCP and its threats.** 
+***Reality:* *He has consistently downplayed concerns about the CCP and its threats.*** 
 
-→ Walz claimed that worries about China’s awful authoritarian atrocities were “hyperbole.”\
-→ He said the relationship isn’t “adversarial” and forged closer CCP ties as MN governor.\
-→ Walz called for avoiding “scary China” rhetoric and fawned over China as “amazing.”\
-→ As recently as 2019, he called for more economic ties with China despite its rights abuses.\
-→ He told students to “downplay their American-ness” and put a Chinese banner in his office. Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.
+\    → Walz claimed that worries about China’s awful authoritarian atrocities were “hyperbole.”\
+    → He said the relationship isn’t “adversarial” and forged closer CCP ties as MN governor.\
+    → Walz called for avoiding “scary China” rhetoric and fawned over China as “amazing.”\
+    → As recently as 2019, he called for more economic ties with China despite its rights abuses.\
+    → He told students to “downplay their American-ness” and put a Chinese banner in his office. 
+
+***Bottom Line:* With that record, it’s no wonder he honeymooned in Communist China in 1994.**
 
 **Claim: Walz & Kamala will “always stand up for Israel’s right to defend itself.”** 
 
