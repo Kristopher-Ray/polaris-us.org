@@ -15,6 +15,8 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 
 ***Claim:* *Walz & Kamala will stand up to China as strong, experienced leaders.*** 
 
+ {margin-bottom: 10px}
+
 ***Reality:* *He has consistently downplayed concerns about the CCP and its threats.*** 
 
 * Walz claimed that worries about China’s awful authoritarian atrocities were “hyperbole.”
