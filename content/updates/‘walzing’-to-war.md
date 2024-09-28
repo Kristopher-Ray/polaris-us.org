@@ -25,7 +25,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * As recently as 2019, he [called](https://x.com/michaelsobolik/status/1820821861648769175) for more economic ties with China despite its rights abuses.
 * He [told](https://x.com/michaelsobolik/status/1820865489519964461) students to “downplay their American-ness” and put a Chinese banner in his office. 
 
-*Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.*
+***Bottom Line:** With that record, it’s no wonder he honeymooned in Communist China in 1994.*
 
 **Claim: Walz & Kamala will “always stand up for Israel’s right to defend itself.”** 
 
@@ -60,7 +60,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * He [opposed](https://clerk.house.gov/Votes/2017517) legislation to deport criminal alien gang members and [lauded](https://www.youtube.com/watch?v=0m9OBV6fxtk&t=43s) sanctuary cities. 
 * He and Kamala called Trump’s border wall a “waste” but now [feature](https://www.youtube.com/watch?v=i2F9qGxTKcU&t=2s) it in campaign ads. 
 
-***Bottom Line: Walz and Kamala can’t be trusted to restore order and defend our homeland.***
+***Bottom Line:** Walz and Kamala can’t be trusted to restore order and defend our homeland.*
 
 **Claim: They’ll “restore U.S. leadership” abroad and defend America’s values.** 
 
@@ -71,6 +71,6 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * Walz [backed ](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis)the 2011 Iraq and 2021 Afghanistan withdrawals, fueling terrorist resurgences.
 * He tried to [prevent](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis) U.S. forces from hitting dozens of terrorist groups by repealing AUMFs.
 
-***Bottom Line: Authoritarians and despots had few greater friends in Congress than Tim Walz.***
+***Bottom Line:** Authoritarians and despots had few greater friends in Congress than Tim Walz.*
 
 ###### **Tim Walz’s national security record is more than weird–it’s dangerous. He has earned an F in national security. Kamala and Walz’s ideas will leave America waltzing toward weakness and war, and our enemies know it.**
