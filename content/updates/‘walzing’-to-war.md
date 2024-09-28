@@ -25,7 +25,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * As recently as 2019, he [called](https://x.com/michaelsobolik/status/1820821861648769175) for more economic ties with China despite its rights abuses.
 * He [told](https://x.com/michaelsobolik/status/1820865489519964461) students to “downplay their American-ness” and put a Chinese banner in his office. 
 
-***Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.***
+*Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.*
 
 **Claim: Walz & Kamala will “always stand up for Israel’s right to defend itself.”** 
 
@@ -37,7 +37,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * No one [celebrated](https://x.com/AOC/status/1820819039955947605) his VP pick more than Bernie Sanders, AOC, and other anti-Israel radicals.
 * He even [acknowledged](https://www.mprnews.org/episode/2024/03/07/gov-walz-says-minnesotas-45000-uncommitted-voters-are-civically-engaged) that anti-Israel pressure on Biden “bodes well” for him.
 
-***Bottom Line: Americans can be sure he would pander to far-left anti-Semites if elected.***
+***Bottom Line:** Americans can be sure he would pander to far-left anti-Semites if elected.*
 
 **Claim: They will “never hesitate” to defend America against Iran and its proxies.** 
 
