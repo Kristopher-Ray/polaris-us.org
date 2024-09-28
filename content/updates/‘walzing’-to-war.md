@@ -9,6 +9,8 @@ summary: "Any remaining questions about Kamala’s dangerous foreign policy were
   record leaves little to the imagination: He is a darling of the far-left who
   loves dictators and could leave our country waltzing into war."
 cta: Read More →
+categories:
+  - Newsroom
 image: /img/updates/gettyimages-2165607145-612x612.jpg
 ---
 Any remaining questions about Kamala’s dangerous foreign policy were laid to rest when she selected Tim Walz as her VP. His national security record leaves little to the imagination: He is a darling of the far-left who loves dictators and could **leave our country waltzing into war.**
