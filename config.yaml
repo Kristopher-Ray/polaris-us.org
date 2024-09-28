@@ -4,8 +4,8 @@ params:
   twitter_link: https://www.twitter.com/polarisnatsec
   instagram_link: https://www.instagram.com/polarisnatsec/
   donate_link: https://secure.winred.com/polaris-national-security-pac/donate
-  popup: /img/20240919_america-the-great-tour_rework_1545x2000.jpeg
-  popup_link: "http://americathegreattourwi.eventbrite.com/ "
+  popup: ""
+  popup_link: ""
   form_endpoint: https://usebasin.com/f/bc8c13289456
   facebook_link: https://www.facebook.com/101769448776724
   paid_for: Paid for by Polaris Action Inc
