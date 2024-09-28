@@ -15,8 +15,6 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 
 ***Claim:* *Walz & Kamala will stand up to China as strong, experienced leaders.*** 
 
- {margin-bottom: 10px}
-
 ***Reality:* *He has consistently downplayed concerns about the CCP and its threats.*** 
 
 * Walz claimed that worries about China’s awful authoritarian atrocities were “hyperbole.”
@@ -25,7 +23,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * As recently as 2019, he called for more economic ties with China despite its rights abuses.
 * He told students to “downplay their American-ness” and put a Chinese banner in his office. 
 
-###### ***Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.***
+***Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.***
 
 **Claim: Walz & Kamala will “always stand up for Israel’s right to defend itself.”** 
 
@@ -37,7 +35,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * No one celebrated his VP pick more than Bernie Sanders, AOC, and other anti-Israel radicals.
 * He even acknowledged that anti-Israel pressure on Biden “bodes well” for him.
 
-###### ***Bottom Line: Americans can be sure he would pander to far-left anti-Semites if elected.***
+***Bottom Line: Americans can be sure he would pander to far-left anti-Semites if elected.***
 
 **Claim: They will “never hesitate” to defend America against Iran and its proxies.** 
 
@@ -48,7 +46,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * He mocked critics of the deal as blinded by “ideology.” Now even Kamala won’t support it!  
 * Iran’s leaders routinely echo Walz’s belief that sanctions aren’t a “long term” solution. 
 
-###### ***Bottom Line: The only thing Walz has never wavered in is appeasing America’s adversaries.***
+***Bottom Line: The only thing Walz has never wavered in is appeasing America’s adversaries.***
 
 **Claim: Walz & Kamala believe in “tough, smart solutions to secure the border.”** 
 
@@ -60,7 +58,15 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * He opposed legislation to deport criminal alien gang members and lauded sanctuary cities. 
 * He and Kamala called Trump’s border wall a “waste” but now feature it in campaign ads. 
 
-###### ***Bottom Line: Walz and Kamala can’t be trusted to restore order and defend our homeland.***
+***Bottom Line: Walz and Kamala can’t be trusted to restore order and defend our homeland.***
 
-Claim: They’ll “restore U.S. leadership” abroad and defend America’s values. Reality: Walz has never met an authoritarian regime he didn’t like.\
-→ After meeting Syria’s Assad, Walz opposed military action despite his chemical weapons use.
+**Claim: They’ll “restore U.S. leadership” abroad and defend America’s values.** 
+
+* **Reality: Walz has never met an authoritarian regime he didn’t like.**\
+  After meeting Syria’s Assad, Walz opposed military action despite his chemical weapons use.
+* He was a legislative ally of Cuba’s Castro regime, co-sponsoring a bill to repeal the embargo.Walz backed the 2011 Iraq and 2021 Afghanistan withdrawals, fueling terrorist resurgences.
+* He tried to prevent U.S. forces from hitting dozens of terrorist groups by repealing AUMFs.
+
+***Bottom Line: Authoritarians and despots had few greater friends in Congress than Tim Walz.***
+
+###### **Tim Walz’s national security record is more than weird–it’s dangerous. He has earned an F in national security. Kamala and Walz’s ideas will leave America waltzing toward weakness and war, and our enemies know it.**
