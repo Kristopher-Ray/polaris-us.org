@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: ‘Walzing’ to War
 date: 2024-09-28T01:55:05.652Z
@@ -20,7 +20,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * Walz [claimed](https://archive.mpr.org/stories/2007/04/13/us-representative-tim-walz-delivers-foreign-policy-speech-at-university-of-minnesota) that worries about China’s awful authoritarian atrocities were “hyperbole.”
 * He [said](https://x.com/MAGAIncWarRoom/status/1820823234951999622) the relationship isn’t “adversarial” and [forged](https://x.com/james_t_quinn/status/1820895981401219096) closer CCP ties as MN governor.
 * Walz [called](https://archive.mpr.org/stories/2007/04/13/us-representative-tim-walz-delivers-foreign-policy-speech-at-university-of-minnesota) for avoiding “scary China” rhetoric and fawned over China as “amazing.”
-* As recently as 2019, he called for more economic ties with China despite its rights abuses.
+* As recently as 2019, he [called](https://x.com/michaelsobolik/status/1820821861648769175) for more economic ties with China despite its rights abuses.
 * He [told](https://x.com/michaelsobolik/status/1820865489519964461) students to “downplay their American-ness” and put a Chinese banner in his office. 
 
 ***Bottom Line: With that record, it’s no wonder he honeymooned in Communist China in 1994.***
@@ -64,11 +64,10 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 
 **Reality: Walz has never met an authoritarian regime he didn’t like.**
 
-* After meeting Syria’s Assad, Walz opposed military action despite his chemical weapons use.
-
-He was a legislative ally of Cuba’s Castro regime, co-sponsoring a bill to repeal the embargo.Walz backed the 2011 Iraq and 2021 Afghanistan withdrawals, fueling terrorist resurgences.
-
-* He tried to prevent U.S. forces from hitting dozens of terrorist groups by repealing AUMFs.
+* After meeting Syria’s Assad, Walz [opposed](https://www.minnpost.com/political-agenda/2013/09/congressman-walz-says-hell-vote-no-syria-intervention/) military action despite his chemical weapons use.
+* He was a legislative ally of Cuba’s Castro regime, [co-sponsoring](https://x.com/AllianceForCuba/status/1820822444296290442) a bill to repeal the embargo.
+* Walz [backed ](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis)the 2011 Iraq and 2021 Afghanistan withdrawals, fueling terrorist resurgences.
+* He tried to [prevent](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis) U.S. forces from hitting dozens of terrorist groups by repealing AUMFs.
 
 ***Bottom Line: Authoritarians and despots had few greater friends in Congress than Tim Walz.***
 
