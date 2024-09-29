@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2024-09-19T16:20:08.687Z
 summary: Under the Trump administration, the Iranian regime lost about $200
