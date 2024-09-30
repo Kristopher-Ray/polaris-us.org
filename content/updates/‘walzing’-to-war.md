@@ -13,7 +13,7 @@ categories:
   - Newsroom
 image: /img/updates/gettyimages-2165607145-612x612.jpg
 ---
-**PDF version available [here.](https://www.dropbox.com/scl/fi/mhgctwldw5bx3w53sqhyr/Walzing-into-War.pdf?rlkey=hxztmvzcyx22akxpo2fr30sje&st=gn9pb2gi&dl=0)**
+**PDF version available [here.](https://www.dropbox.com/scl/fi/cc7l5x5asylw131w8ixa2/Walzing-into-War.pdf?rlkey=94tnbkxd7gset3v495ruiqbr1&st=9k8uz8zi&dl=0)**
 
 Any remaining questions about Kamala’s dangerous foreign policy were laid to rest when she selected Tim Walz as her VP. His national security record leaves little to the imagination: He is a darling of the far-left who loves dictators and could **leave our country waltzing into war.**
 
@@ -29,7 +29,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * As recently as 2019, he [called](https://x.com/michaelsobolik/status/1820821861648769175) for more economic ties with China despite its rights abuses.
 * He [told](https://x.com/michaelsobolik/status/1820865489519964461) students to “downplay their American-ness” and put a Chinese banner in his office. 
 
-**\*Bottom Line:** With that record, it’s no wonder he honeymooned in Communist China in 1994.*
+**Bottom Line:** With that record, it’s no wonder he honeymooned in Communist China in 1994.
 { .text-red}
 
 - - -
@@ -44,7 +44,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * No one [celebrated](https://x.com/AOC/status/1820819039955947605) his VP pick more than Bernie Sanders, AOC, and other anti-Israel radicals.
 * He even [acknowledged](https://www.mprnews.org/episode/2024/03/07/gov-walz-says-minnesotas-45000-uncommitted-voters-are-civically-engaged) that anti-Israel pressure on Biden “bodes well” for him.
 
-**\*Bottom Line:** Americans can be sure he would pander to far-left anti-Semites if elected.*
+**Bottom Line:** Americans can be sure he would pander to far-left anti-Semites if elected.
 {.text-red}
 
 - - -
@@ -73,7 +73,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * He [opposed](https://clerk.house.gov/Votes/2017517) legislation to deport criminal alien gang members and [lauded](https://www.youtube.com/watch?v=0m9OBV6fxtk&t=43s) sanctuary cities. 
 * He and Kamala called Trump’s border wall a “waste” but now [feature](https://www.youtube.com/watch?v=i2F9qGxTKcU&t=2s) it in campaign ads. 
 
-**\*Bottom Line:** Walz and Kamala can’t be trusted to restore order and defend our homeland.*
+**Bottom Line:** Walz and Kamala can’t be trusted to restore order and defend our homeland.
 {.text-red}
 
 - - -
@@ -87,7 +87,7 @@ Any remaining questions about Kamala’s dangerous foreign policy were laid to r
 * Walz [backed ](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis)the 2011 Iraq and 2021 Afghanistan withdrawals, fueling terrorist resurgences.
 * He tried to [prevent](https://web.archive.org/web/20181223095542/https:/walz.house.gov/media-center/press-releases/walz-co-introduces-authorization-for-use-of-military-force-against-isis) U.S. forces from hitting dozens of terrorist groups by repealing AUMFs.
 
-**\*Bottom Line:** Authoritarians and despots had few greater friends in Congress than Tim Walz.*
+**Bottom Line:** Authoritarians and despots had few greater friends in Congress than Tim Walz.
 {.text-red}
 
 - - -
