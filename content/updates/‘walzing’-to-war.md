@@ -13,7 +13,7 @@ categories:
   - Newsroom
 image: /img/updates/gettyimages-2165607145-612x612.jpg
 ---
-PDF version available [here.](https://www.dropbox.com/scl/fi/mhgctwldw5bx3w53sqhyr/Walzing-into-War.pdf?rlkey=hxztmvzcyx22akxpo2fr30sje&st=gn9pb2gi&dl=0)
+**PDF version available [here.](https://www.dropbox.com/scl/fi/mhgctwldw5bx3w53sqhyr/Walzing-into-War.pdf?rlkey=hxztmvzcyx22akxpo2fr30sje&st=gn9pb2gi&dl=0)**
 
 Any remaining questions about Kamala’s dangerous foreign policy were laid to rest when she selected Tim Walz as her VP. His national security record leaves little to the imagination: He is a darling of the far-left who loves dictators and could **leave our country waltzing into war.**
 
