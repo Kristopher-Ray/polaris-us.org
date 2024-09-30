@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: false
 title: ‘Walzing’ to War
-date: 2024-09-28T01:55:05.652Z
+date: 2024-10-01T01:55:05.652Z
 summary: "Any remaining questions about Kamala’s dangerous foreign policy were
   laid to rest when she selected Tim Walz as her VP. His national security
   record leaves little to the imagination: He is a darling of the far-left who
