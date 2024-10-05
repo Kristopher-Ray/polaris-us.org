@@ -32,7 +32,9 @@ The United States should have stood by our strongest ally in the Middle East aft
 * The Biden-Harris Administration has spent the last year issuing pro-forma condemnations of anti-Semitism while winking and nodding to those engaging in it.
 * They have done nothing to hold university administrators accountable for fueling anti- Semitic protests on campus and allowing Jewish students to be targeted.
 
-###### 1. Biden-Harris Administration Policies Emboldened Our Enemies
+- - -
+
+###### **1. Biden-Harris Administration Policies Emboldened Our Enemies**
 
 ***Appeasing Iran***
 
@@ -47,6 +49,8 @@ The United States should have stood by our strongest ally in the Middle East aft
 
 * For more than three weeks after his inauguration, Biden refused to call PM Netanyahu.
 * His State Department called parts of Judea, Samaria, and even Jerusalem “occupied territories,” cutting bilateral development projects in those areas, and ordering officials not to refer to the Abraham Accords by their name.
+
+- - -
 
 ###### 2. Chasing De-Escalation at the Expense of Israel’s Security
 
@@ -69,7 +73,9 @@ The United States should have stood by our strongest ally in the Middle East aft
 * She has also sharply criticized Israel’s blockade of Gaza as a “humanitarian disaster” directed at Palestinian civilians and called on Israel to stand down against Hamas.
 * In case there was any doubt as to how she feels about our ally, she then skipped PM Netanyahu’s address to Congress to attend a campaign sorority event and told anti-Israel protesters she was [open](https://nypost.com/2024/08/29/us-news/kamala-harris-refuses-to-say-if-shell-withhold-us-weapons-shipments-to-israel/) to discussing a full arms embargo against Israel.
 
-###### 3. Anti-Semitism is Rising in America under Biden and Harris
+- - -
+
+###### **3. Anti-Semitism is Rising in America under Biden and Harris**
 
 ***Fueling and Funding Anti-Semitism***
 
