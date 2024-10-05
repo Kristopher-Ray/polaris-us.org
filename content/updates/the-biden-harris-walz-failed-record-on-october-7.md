@@ -10,6 +10,8 @@ summary: One year ago, Israel suffered the most devastating attack on the Jewish
   civilians. They committed barbaric acts – beheading babies, raping teenage
   women, and slaughtering the young and old – in broad daylight.
 cta: Read More →
+categories:
+  - Newsroom
 image: /img/updates/f231007ym31.jpg
 ---
 One year ago, Israel suffered the most devastating attack on the Jewish people since the Holocaust. Hamas terrorists savagely killed over 1,200 people, including over 40 Americans, and kidnapped hundreds of innocent civilians. They committed barbaric acts – beheading babies, raping teenage women, and slaughtering the young and old – in broad daylight.
