@@ -14,13 +14,13 @@ categories:
   - Newsroom
 image: /img/updates/f231007ym31.jpg
 ---
+PDF version available [here](https://www.dropbox.com/scl/fi/33qa9btqb11nuvc877o1c/October-7-Messaging.pdf?rlkey=a9qnghln02mhker4xqksmr4z5&st=zf5ishl6&dl=0).
+
 One year ago, Israel suffered the most devastating attack on the Jewish people since the Holocaust. Hamas terrorists savagely killed over 1,200 people, including over 40 Americans, and kidnapped hundreds of innocent civilians. They committed barbaric acts – beheading babies, raping teenage women, and slaughtering the young and old – in broad daylight.
 
 This terrorist attack did not happen in a vacuum. The failed foreign policy of the Biden-Harris Administration allowed Iran access to tens of billions of dollars, which went to fund their terrorist proxies throughout the region, including Hamas. They even negotiated a $6 billion hostage deal with Tehran just weeks before Hamas took hundreds of hostages.
 
 The United States should have stood by our strongest ally in the Middle East after these heinous attacks. Instead, the Biden-Harris Administration criticized Israel in every effort to defend their people, appeased Hamas’ patrons in Tehran, and pandered to Hamas’ anti-Semitic allies at home and abroad.
-
-
 
 ***Key Points***
 
@@ -31,8 +31,6 @@ The United States should have stood by our strongest ally in the Middle East aft
 * Under Biden and Harris, the United States is living through a new Charlottesville every day. They preside over the most rapid increase of anti-Semitism in recent history.
 * The Biden-Harris Administration has spent the last year issuing pro-forma condemnations of anti-Semitism while winking and nodding to those engaging in it.
 * They have done nothing to hold university administrators accountable for fueling anti- Semitic protests on campus and allowing Jewish students to be targeted.
-
-
 
 ###### 1. Biden-Harris Administration Policies Emboldened Our Enemies
 
@@ -49,8 +47,6 @@ The United States should have stood by our strongest ally in the Middle East aft
 
 * For more than three weeks after his inauguration, Biden refused to call PM Netanyahu.
 * His State Department called parts of Judea, Samaria, and even Jerusalem “occupied territories,” cutting bilateral development projects in those areas, and ordering officials not to refer to the Abraham Accords by their name.
-
-
 
 ###### 2. Chasing De-Escalation at the Expense of Israel’s Security
 
