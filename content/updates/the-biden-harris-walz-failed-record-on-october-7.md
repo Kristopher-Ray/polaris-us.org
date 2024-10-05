@@ -14,7 +14,7 @@ categories:
   - Newsroom
 image: /img/updates/f231007ym31.jpg
 ---
-PDF version available [here](https://www.dropbox.com/scl/fi/33qa9btqb11nuvc877o1c/October-7-Messaging.pdf?rlkey=a9qnghln02mhker4xqksmr4z5&st=zf5ishl6&dl=0).
+***PDF version available [here](https://www.dropbox.com/scl/fi/33qa9btqb11nuvc877o1c/October-7-Messaging.pdf?rlkey=a9qnghln02mhker4xqksmr4z5&st=zf5ishl6&dl=0).***
 
 One year ago, Israel suffered the most devastating attack on the Jewish people since the Holocaust. Hamas terrorists savagely killed over 1,200 people, including over 40 Americans, and kidnapped hundreds of innocent civilians. They committed barbaric acts – beheading babies, raping teenage women, and slaughtering the young and old – in broad daylight.
 
@@ -52,7 +52,7 @@ The United States should have stood by our strongest ally in the Middle East aft
 
 - - -
 
-###### 2. Chasing De-Escalation at the Expense of Israel’s Security
+###### **2. Chasing De-Escalation at the Expense of Israel’s Security**
 
 ***Falling to International Pressure***
 
