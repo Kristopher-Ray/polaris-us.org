@@ -4,11 +4,9 @@ draft: false
 featured: false
 title: "TIMELINE: When the CCP Advances, Biden and Harris Retreat"
 date: 2024-10-14T21:40:59.800Z
-summary: Earlier today, China surrounded Taiwan with a record 125 warplanes in
-  large-scale military exercises, staging a naval blockade to warn against
-  “separatist acts.”  That came just days after reports emerged of potential
-  Chinese drones swarming U.S. national security facilities, including the base
-  for SEAL Team Six and the world’s largest naval port in Norfolk.
+summary: "This timeline recaps the Biden-Harris approach to China–four years of
+  unforced errors and strategic blunders that have advanced the CCP’s position
+  at the expense of America’s security. "
 cta: Read More →
 categories:
   - Newsroom
