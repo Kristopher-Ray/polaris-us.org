@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "TIMELINE: When the CCP Advances, Biden and Harris Retreat"
 date: 2024-10-14T21:40:59.800Z
 summary: "This timeline recaps the Biden-Harris approach to China–four years of
