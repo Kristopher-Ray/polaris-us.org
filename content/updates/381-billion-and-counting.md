@@ -4,7 +4,8 @@ draft: false
 featured: false
 title: $381 Billion and Counting
 date: 2024-10-25T21:37:44.772Z
-summary: The Cost of America’s Deterrence Collapse under the Biden-Harris Administration
+summary: "The Cost of America’s Deterrence Collapse under the Biden-Harris
+  Administration "
 cta: Read More →
 categories:
   - Newsroom
