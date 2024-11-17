@@ -1,9 +1,9 @@
 ---
 title: Caitlynn Rasmussen
 position: Executive Assistant
-image: /img/team/caitlynn-rasmussen.png
 team_categories:
   - Team
+image: /img/team/img_c675501b58b2-1.jpeg
 weight: 7
 ---
 Caitlynn Rasmussen serves as the Executive Assistant for Polaris National Security.
