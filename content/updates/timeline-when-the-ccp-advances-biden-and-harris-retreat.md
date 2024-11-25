@@ -12,6 +12,7 @@ categories:
   - Newsroom
   - China
 image: /img/updates/gettyimages-2162011564-612x612.jpg
+og_img: /img/updates/gettyimages-2162011564-612x612.jpg
 ---
 [PDF version here.](https://www.dropbox.com/scl/fi/hhz51gesl39mcxfaj6sqj/10.14.24-Biden-Harris-China-Failures-Timeline-FINAL-32.pdf?rlkey=4rngx65473uk0fqj3c8tvziww&st=b8omyirr&dl=0)
 
