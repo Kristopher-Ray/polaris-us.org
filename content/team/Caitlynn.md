@@ -1,6 +1,6 @@
 ---
 title: Caitlynn Rasmussen
-position: Executive Assistant
+position: Director of Operations
 team_categories:
   - Team
 image: /img/team/facetune_17-11-2024-12-15-18.jpg
