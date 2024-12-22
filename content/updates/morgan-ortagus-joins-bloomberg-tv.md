@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: false
 title: Morgan Ortagus Joins Bloomberg TV
-date: 2024-12-10T03:01:58.340Z
+date: 2024-12-11T03:01:58.340Z
 summary: The great threat from Syria is that the new vacuum will be filled by a
   resurgence of ISIS.  Our leaders need to ensure the Kurds are protected and
   that terrorists can't exploit this chaos with a jailbreak.
