@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Morgan Ortagus Joins Varney & Co.
 date: 2024-12-17T03:17:55.339Z
 summary: "With Iran’s proxy empire falling apart and the fall of Assad’s regime,
