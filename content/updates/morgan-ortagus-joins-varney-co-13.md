@@ -1,17 +1,13 @@
 ---
-visible: true
-draft: false
-featured: true
-title: Morgan Ortagus Joins Varney & Co.
-date: 2024-12-17T03:06:16.559Z
-summary: "With Iran’s proxy empire falling apart and the fall of Assad’s regime,
-  all eyes will be on Tehran’s other terror proxy: the Houthis.  Their attacks
-  in the Red Sea would end right now if the White House reimposed Trump-era Iran
-  policies."
-outbound: https://www.youtube.com/watch?v=15E60N15hfs
+title: Morgan Ortagus Joins Hannity
+date: 2024-12-21T03:08:01.087Z
+summary: President Biden damaged U.S. credibility overseas by trying to hide his
+  decline.  That damage was worsened by his national security team, which
+  refused to learn from its mistakes in Afghanistan and Ukraine.  The American
+  people are demanding a return to Peace Through Strength.
+outbound: https://www.youtube.com/watch?v=vWirBlJDz8A
 cta: View Now On <i class="fa-brands fa-youtube"></i> Youtube →
 categories:
   - Videos
-  - Iran
-image: /img/updates/img_8b0be5979a6b-1.jpeg
+image: /img/updates/img_cdd4c82ac280-1.jpeg
 ---
