@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: "$381 Billion and Counting "
 date: 2024-10-25T05:04:42.787Z
 summary: "The Cost of America’s Deterrence Collapse under the Biden-Harris
