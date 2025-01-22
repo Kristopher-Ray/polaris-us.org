@@ -1,6 +1,6 @@
 ---
 title: Help Us Fight Back
-image: /img/quote-instagram-post-3-.png
+image: /img/quote-instagram-post-1-.png
 weight: 3
 section_categories:
   - Home
