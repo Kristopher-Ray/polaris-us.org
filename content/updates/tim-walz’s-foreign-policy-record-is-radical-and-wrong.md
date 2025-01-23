@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "Factsheet: Tim Walz’s Foreign Policy Record is Radical and Wrong"
 date: 2024-08-08T20:40:00.447Z
 summary: ""

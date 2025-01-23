@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "‘Walzing’ to War "
 date: 2024-09-30
 summary: "Any remaining questions about Kamala’s dangerous foreign policy were

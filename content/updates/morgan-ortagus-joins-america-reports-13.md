@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2024-07-10T14:24:41.137Z
 summary: Morgan Ortagus joins America Reports on Fox News to discuss how

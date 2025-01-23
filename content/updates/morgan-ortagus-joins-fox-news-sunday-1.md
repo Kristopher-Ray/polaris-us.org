@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Fox News Sunday
 date: 2024-03-18T00:50:57.126Z
 summary: Morgan Ortagus joined Fox News Sunday to discuss the failures of

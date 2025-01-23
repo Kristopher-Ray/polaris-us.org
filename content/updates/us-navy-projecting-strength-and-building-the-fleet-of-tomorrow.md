@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: "US Navy: Projecting strength and building the fleet of tomorrow"
 date: 2024-10-23T16:57:29.969Z
 summary: US must make significant investments in our Navy fleet or face the

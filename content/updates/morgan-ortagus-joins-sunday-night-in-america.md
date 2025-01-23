@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus joins Sunday Night in America
 date: 2024-05-13T03:46:54.757Z
 summary: Morgan Ortagus joins Sunday Night in America with Trey Gowdy to discuss

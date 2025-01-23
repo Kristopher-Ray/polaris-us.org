@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2024-01-12T18:11:33.066Z
 summary: Morgan Ortagus joins Outnumbered on Fox News to discuss the strikes

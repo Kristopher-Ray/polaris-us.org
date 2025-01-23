@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Special Report
 date: 2023-11-24T18:40:43.355Z
 summary: Morgan Ortagus joins Special Report to discuss the ongoing hostage

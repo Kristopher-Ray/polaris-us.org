@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2024-09-23T16:25:03.782Z
 description: ""

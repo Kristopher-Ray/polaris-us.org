@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Gabriel Noronha Joins The Bottom Line
 date: 2024-05-22T00:58:52.555Z
 summary: POLARIS National Security Executive Director Gabriel Noronha joined The

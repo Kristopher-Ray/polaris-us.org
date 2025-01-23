@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Announces Launch of "The Morgan Ortagus Show" on SiriusXM
 date: 2023-12-05T21:36:27.185Z
 summary: SiriusXM announces that Morgan Ortagus, former State Department

@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Hannity
 date: 2023-10-09T19:28:17.316Z
 summary: Morgan Ortagus joins Hannity on Fox News to discuss the Iranian-backed

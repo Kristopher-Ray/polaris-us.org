@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "Morgan Ortagus Joins FOX News LIVE from the RNC "
 date: 2024-07-17T22:02:58.706Z
 description: ""

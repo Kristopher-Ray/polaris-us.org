@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2024-07-29T19:16:34.948Z
 summary: The display at the Olympics opening ceremony plays right into our

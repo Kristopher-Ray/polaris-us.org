@@ -1,6 +1,6 @@
 ---
 visible: true
-featured: true
+featured: false
 title: Morgan Ortagus Joins Fox News Sunday
 date: 2023-06-25
 summary: Morgan Ortagus joined Shannon Bream on Fox News Sunday to discuss the

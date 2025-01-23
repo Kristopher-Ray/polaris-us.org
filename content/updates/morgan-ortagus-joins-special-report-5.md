@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Special Report
 date: 2024-06-05T20:17:37.776Z
 summary: Morgan Ortagus joins Special Report on Fox News. "The President and

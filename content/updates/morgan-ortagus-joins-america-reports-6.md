@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America Reports
 date: 2023-11-08T20:15:09.910Z
 summary: Morgan Ortagus joins John Roberts on Fox News to break down the current

@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2023-11-15T22:01:19.011Z
 summary: " Morgan Ortagus Joins Outnumbered to remind the American people that

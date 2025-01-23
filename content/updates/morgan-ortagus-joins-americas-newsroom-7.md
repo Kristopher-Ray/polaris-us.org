@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Americas Newsroom
 date: 2024-11-01T18:13:27.071Z
 summary: "Women are not single-issue voters. In 2024, we must consider: our

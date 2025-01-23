@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Outnumbered
 date: 2024-10-14T20:21:41.489Z
 summary: "Iran's terror tactics on U.S. soil are not new. The Iranian regime

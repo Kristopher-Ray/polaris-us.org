@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus joins The Hill LIVE from Yuma, AZ
 date: 2024-05-18T03:53:58.081Z
 summary: Morgan Ortagus joins News Nation live from Yuma, Arizona where she

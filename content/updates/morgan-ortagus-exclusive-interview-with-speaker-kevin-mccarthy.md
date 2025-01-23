@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Exclusive Interview with Speaker Kevin McCarthy
 date: 2023-07-25T15:44:33.158Z
 summary: "Morgan Ortagus releases her exclusive interview with Speaker of the

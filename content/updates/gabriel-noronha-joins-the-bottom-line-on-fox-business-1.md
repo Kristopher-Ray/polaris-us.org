@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Gabriel Noronha Joins The Bottom Line on Fox Business
 date: 2024-03-17T01:09:17.425Z
 summary: Former State Department official Gabriel Noronha discusses Border

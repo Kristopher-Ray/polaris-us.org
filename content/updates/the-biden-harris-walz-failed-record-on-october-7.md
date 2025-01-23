@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: The Biden-Harris-Walz Failed Record on October 7
 date: 2024-10-05T17:51:11.600Z
 summary: One year ago, Israel suffered the most devastating attack on the Jewish

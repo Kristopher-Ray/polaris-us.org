@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins The Hill LIVE from Israel
 date: 2024-05-30T00:03:02.048Z
 summary: Morgan Ortagus joins The Hill on NewsNation LIVE from Tel Aviv, Israel

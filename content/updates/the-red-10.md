@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "The Red 10: The Ten Worst Corporate Appeasers of Communist China"
 date: 2023-12-18T14:05:31.060Z
 summary: "The list of the CCP’s aggressive acts grows monthly – from supporting

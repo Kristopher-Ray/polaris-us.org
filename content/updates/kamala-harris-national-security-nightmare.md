@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: "Kamala Harris: National Security Nightmare"
 date: 2024-08-13T17:56:43.798Z
 summary: ""

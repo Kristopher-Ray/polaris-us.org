@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Fox News Live
 date: 2024-11-10T19:32:15.931Z
 summary: "The Biden admin inherited peace and prosperity but left Trump with

@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Balance of Power with Bloomberg
 date: 2024-10-02T02:48:10.822Z
 summary: This administration’s deterrence failures have allowed the Middle East

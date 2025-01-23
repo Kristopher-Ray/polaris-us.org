@@ -1,15 +1,16 @@
 ---
 visible: true
-draft: true
-featured: false
-title: $381 Billion and Counting
-date: 2024-10-25T21:37:44.772Z
+draft: false
+featured: true
+title: "$381 Billion and Counting "
+date: 2024-10-25T05:04:42.787Z
 summary: "The Cost of America’s Deterrence Collapse under the Biden-Harris
   Administration "
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/copy-of-copy-of-black-and-aqua-photo-quote-instagram-post-presentation-2-.jpg
+image: /img/updates/copy-of-copy-of-black-and-aqua-photo-quote-instagram-post-presentation-6-.jpg
+og_img: /img/updates/copy-of-copy-of-black-and-aqua-photo-quote-instagram-post-presentation-6-.jpg
 ---
 Today, POLARIS National Security released a report detailing the preliminary costs of the Biden-Harris Administration's most severe deterrence failures over the last four years. 
 

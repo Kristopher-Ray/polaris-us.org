@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Varney & Co
 date: 2024-10-15T20:25:30.833Z
 summary: 'How is Israel supposed to respond "proportionately" when Iran has:  1.

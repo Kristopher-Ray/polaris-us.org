@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 title: Morgan Ortagus Joins Special Report
 date: 2023-11-16T21:14:03.627Z
 summary: Morgan Ortagus joins Bret Baier on Special Report to discuss Xi

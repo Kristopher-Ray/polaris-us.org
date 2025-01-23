@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins Americas Newsroom
 date: 2024-09-25T01:56:41.909Z
 summary: Hezbollah has fired nearly 10,000 rockets into Israel since October

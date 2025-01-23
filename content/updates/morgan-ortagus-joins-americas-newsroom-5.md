@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Joins America's Newsroom
 date: 2024-02-16T00:20:51.873Z
 summary: "Morgan Ortagus joins America's Newsroom to discuss the recent news

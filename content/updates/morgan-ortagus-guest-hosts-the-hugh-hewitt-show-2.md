@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: true
+featured: false
 title: Morgan Ortagus Guest Hosts the Hugh Hewitt Show
 date: 2023-11-08T17:12:32.317Z
 summary: Morgan Ortagus interviews Senator Hagerty while guest hosting the Hugh
