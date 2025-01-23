@@ -11,10 +11,12 @@ section_categories:
 
 <div class="headline">
 <div class="headlineIn">
-<h2>Threats Grow Each Week</h2>
-<div class="headingTagline">Explore Our Latest Updates</div>
+<h2>The Latest On Social Media</h2>
+<!-- <div class="headingTagline">Explore Our Latest Updates</div> -->
 </div>
-<a href="/updates/" class="button btn-dark">See All →</a>
+<!-- <a href="/updates/" class="button btn-dark">See All →</a> -->
 </div>
 
-{{<updates>}}
+<!-- {{<updates>}} -->
+
+<script type="text/javascript" src=https://www.juicer.io/embed/morganortagus/embed-code.js async defer></script>
