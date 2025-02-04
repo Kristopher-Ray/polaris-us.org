@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: Alliance Management is Back
 date: 2025-02-04T03:21:52.540Z
