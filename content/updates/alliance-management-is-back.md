@@ -20,7 +20,7 @@ In order to set the record straight, POLARIS National Security is releasing an â
 
 - - -
 
-## *DOs (2025) & DON'Ts (2021-2024) of Alliance Management.*
+### *DOs (2025) & DON'Ts (2021-2024) of Alliance Management.*
 
 **DO:** [Invite ](https://www.bbc.com/news/articles/c78xzlxl3vjo)Israelâ€™s leader to be the first head of state to visit the White House just days after your inauguration like President Trump.
 
