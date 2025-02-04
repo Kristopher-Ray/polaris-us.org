@@ -21,8 +21,13 @@
     <meta property="og:title" content="{{ .Title | plainify | truncate 60 }} | {{ .Site.Title }}"/>
     <meta property="og:site_name" content="{{ .Title | plainify | truncate 60 }} | {{ .Site.Title }}"/>
     {{end}}
-    
 
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+
+    <!-- Preconnect (Recommended for Faster Connections) -->
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous">
+        
     {{ if .Params.metaDescription }}
     <meta name="description" content="{{ .Params.metaDescription | plainify }}"/>
     <meta property="og:description" content="{{ .Params.metaDescription | plainify }}"/>
