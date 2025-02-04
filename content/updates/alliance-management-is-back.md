@@ -15,7 +15,7 @@ categories:
 image: /img/updates/donald-trump-14-ap-gmh-25020305_1738610935686_hpmain_16x9.avif
 og_img: /img/updates/donald-trump-14-ap-gmh-25020305_1738610935686_hpmain_16x9.avif
 ---
-Tomorrow, Prime Minister Netanyahu will become the first foreign leader to visit the White House since President Trump’s return – a mark of his enduring support for Israel and the importance of advancing Middle East peace.
+Today, Prime Minister Netanyahu will become the first foreign leader to visit the White House since President Trump’s return – a mark of his enduring support for Israel and the importance of advancing Middle East peace.
 
 That hasn’t stopped liberals from insisting the Trump Administration is taking a sledgehammer to U.S. alliances, but the truth is the opposite: the White House is working to rebuild America’s relationships in the Middle East after years of neglect and hostility under President Biden.
 
