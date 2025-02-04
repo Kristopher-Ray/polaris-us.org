@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Alliance Management is Back
 date: 2025-02-04T03:21:52.540Z
 summary: POLARIS National Security is releasing an ‘Alliance Management 101’
@@ -21,9 +21,9 @@ That hasn’t stopped liberals from insisting the Trump Administration is taking
 
 In order to set the record straight, POLARIS National Security is releasing an ‘Alliance Management 101’ Cheat Sheet to share some basic best practices for winning friends and influencing nations – as seen in the Middle East!
 
-## *DO's (2025) & DON'Ts (2021-2024) of Alliance Management.*
-
 - - -
+
+## *DO's (2025) & DON'Ts (2021-2024) of Alliance Management.*
 
 **DON'T:** Boycott Israel’s leader for weeks like President Biden, who [refused](https://www.politico.com/news/2021/08/18/israel-naftali-bennett-white-house-visit-505950) to pick up the phone and waited for a new PM before extending an invitation to meet.
 
