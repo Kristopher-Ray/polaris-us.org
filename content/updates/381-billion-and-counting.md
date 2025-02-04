@@ -9,8 +9,8 @@ summary: "The Cost of America’s Deterrence Collapse under the Biden-Harris
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/website-graphic-2-.jpg
-og_img: /img/updates/website-graphic-2-.jpg
+image: /img/updates/website-graphic-3-.jpg
+og_img: /img/updates/website-graphic-3-.jpg
 ---
 Today, POLARIS National Security released a report detailing the preliminary costs of the Biden-Harris Administration's most severe deterrence failures over the last four years. 
 
