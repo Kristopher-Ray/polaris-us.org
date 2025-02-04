@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-featured: false
+featured: true
 title: Alliance Management is Back
 date: 2025-02-04T03:21:52.540Z
 summary: POLARIS National Security is releasing an ‘Alliance Management 101’
