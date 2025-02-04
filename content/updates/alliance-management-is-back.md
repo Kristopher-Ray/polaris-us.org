@@ -21,9 +21,9 @@ That hasn’t stopped liberals from insisting the Trump Administration is taking
 
 In order to set the record straight, POLARIS National Security is releasing an ‘Alliance Management 101’ Cheat Sheet to share some basic best practices for winning friends and influencing nations – as seen in the Middle East!
 
-- - -
-
 ## *DO's (2025) & DON'Ts (2021-2024) of Alliance Management.*
+
+- - -
 
 **DON'T:** Boycott Israel’s leader for weeks like President Biden, who [refused](https://www.politico.com/news/2021/08/18/israel-naftali-bennett-white-house-visit-505950) to pick up the phone and waited for a new PM before extending an invitation to meet.
 
@@ -41,29 +41,43 @@ In order to set the record straight, POLARIS National Security is releasing an �
 
 **DO:** Take strong action to protect Jewish students like the Trump White House’s Executive Order [revoking](https://jewishinsider.com/2025/01/trumps-executive-order-combating-antisemitism-wins-bipartisan-praise-from-lawmakers/) visas for foreign students expressing support for Hamas and Hezbollah.
 
+- - -
+
 **DON'T:** [Withhold](https://www.defense.gov/News/Transcripts/Transcript/Article/3771193/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/#:~:text=Q%3A%20Thanks%2C%20General,leave%20it%20there.) arms from Israel during its war of survival – as Biden did stopping multiple bomb shipments – despite their use eliminating the architects of October 7 and top Hamas and Hezbollah leaders.
 
 **DO:** [Release](https://www.reuters.com/world/us/white-house-makes-2000-pound-bombs-available-israel-undoing-bidens-pause-2025-01-25/) shipments of weapons used by Israel to kill terrorists, defend itself from the Iranian regime, and replenish its stockpiles. President Trump did this within his first week back in office.
+
+- - -
 
 **DON'T:** [Shield](https://www.nytimes.com/2023/11/14/us/politics/israel-biden-letter-gaza-cease-fire.html) anti-Israel U.S. government officials while [insulting](https://www.nytimes.com/2024/10/08/world/middleeast/biden-netanyahu-israel-woodward-book.html) Israel’s leader (as reported by Bob Woodward about President Biden) and allowing personal vendettas to cloud policy judgment.
 
 **DO:** Nominate pro-Israel leaders for cabinet roles, include Sec. Rubio, NSA Mike Waltz, incoming UN Ambassador Elise Stefanik, and many others.
 
+- - -
+
 **DON'T:** Whip House Democrats to [vote](https://www.timesofisrael.com/us-house-passes-bill-to-sanction-icc-for-seeking-israel-arrests-warrants/) against sanctions legislation for the International Criminal Court – as the Biden White House did last June – after it issued arrest warrants against Israel’s leaders.
 
 **DO:** [Denounce](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-73rd-session-united-nations-general-assembly-new-york-ny/) the International Criminal Court like President Trump and supporting Senate efforts to [sanction](https://www.politico.com/live-updates/2025/01/28/congress/dems-block-icc-bill-00201030) it for its anti-Israel lawfare and anti- Semitic conduct.
+
+- - -
 
 **DON'T:** Politicize the Abraham Accords by [ordering](https://freebeacon.com/biden-administration/state-department-shuns-term-abraham-accords/) Blinken’s State Department not to refer to them as anything other than ‘normalization agreements'.
 
 **DO:** Seize momentum of phased ceasefire agreements between Israel and its adversaries to [renew](https://www.timesofisrael.com/trump-says-hell-use-gaza-ceasefires-momentum-to-expand-abraham-accords/) expansion efforts for the Trump Admin’s Abraham Accords.
 
+- - -
+
 **DON'T:** Pledge to [turn](https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.html) Saudi Arabia into a “pariah” state on the campaign trail like Biden did in 2020 before realizing we need Saudi Arabia’s help for a host of regional security issues.
 
 **DO:** Hold your first foreign leader call since returning to office with the Saudi Crown Prince, [securing](https://www.nbcnews.com/politics/white-house/trump-speaks-saudi-crown-prince-first-foreign-leader-call-second-term-rcna188940) $600+ billion in investment over the next four years - as President Trump did days ago.
 
+- - -
+
 **DON'T:** [Revoke](https://apnews.com/article/joe-biden-donald-trump-civil-wars-yemen-d17b50e3995827838a19fb8bd09e9f64) the Houthi’s Foreign Terrorist Organization designation – only to partially relist them like Biden under a weaker designation after nonstop Red Sea attacks, strikes on Tel Aviv, and major shipping disruptions.
 
 **DO:** [Issue](https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-ansar-allah-as-a-foreign-terrorist-organization/) an Executive Order to set in motion the Houthis’ re-designation as a Foreign Terrorist Organization and deter Iran’s proxies from continued attacks, as the Trump Administration is already doing.
+
+- - -
 
 **DON'T:** Sanction Israelis in Judea and Samaria with no [defined](https://ofac.treasury.gov/media/932576/download?inline) standards like the Biden Administration while refusing to act against the Iranian regime’s terror- support and West Bank violence.
 
