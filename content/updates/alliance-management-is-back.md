@@ -9,8 +9,8 @@ summary: POLARIS National Security is releasing an ‘Alliance Management 101’
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/images-1-.jpeg
-og_img: /img/updates/images-1-.jpeg
+image: /img/updates/screenshot-2025-02-27-at-4.22.58 pm.png
+og_img: /img/updates/screenshot-2025-02-27-at-4.22.58 pm.png
 ---
 Today, Prime Minister Netanyahu will become the first foreign leader to visit the White House since President Trump’s return – a mark of his enduring support for Israel and the importance of advancing Middle East peace.
 
