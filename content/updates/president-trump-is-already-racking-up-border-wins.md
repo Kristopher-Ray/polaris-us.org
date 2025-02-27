@@ -12,8 +12,8 @@ cta: Read More →
 categories:
   - Newsroom
   - Border
-image: /img/updates/img_3640.webp
-og_img: /img/updates/img_3640.webp
+image: /img/updates/bordertour_ah_2-e1503345419327-800x534.webp
+og_img: /img/updates/bordertour_ah_2-e1503345419327-800x534.webp
 ---
 Over the last 48 hours, President Trump has done more to secure our Southern Border than the Biden Administration did in four entire years. Before even taking office, he got Mexican authorities to conduct a record fentanyl bust in a cartel-dominated region, seizing deadly drugs that could have killed hundreds if not thousands of Americans. Now, the White House is delivering the border policy changes voters demanded and is following through on campaign promises.
 
