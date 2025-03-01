@@ -13,7 +13,7 @@ author: POLARIS Executive Director, Gabriel Noronha
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/012825-donald-trump-getty_ah-01-cm.webp
+image: /img/updates/p20170614jb-0303-2-1920x720-1-.jpg
 ---
 One month into President [Donald Trump’s](https://www.washingtonexaminer.com/tag/Donald-Trump/) term, many meetings could qualify for the distinction as the most consequential for [national security](https://www.washingtonexaminer.com/tag/national-security/). For starters, there was the meeting with [Israeli](https://www.washingtonexaminer.com/tag/Israel/) Prime Minister Benjamin Netanyahu, which led the news cycle for weeks over the president’s new Gaza [proposal](https://www.washingtonexaminer.com/news/white-house/3310439/trump-netanyahu-own-gaza-strip-hamas/). The White House issued pages of promised joint initiatives after Indian Prime Minister Narendra Modi came to visit. Meanwhile, in Riyadh, Saudi Arabia, the president’s top advisers met with a Russian delegation for the first time since 2021 to discuss the possibility of peace with Ukraine.
 
