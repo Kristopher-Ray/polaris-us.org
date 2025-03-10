@@ -4,11 +4,12 @@ draft: false
 featured: true
 title: The CCP is Increasing Military Spending – Again
 date: 2025-03-07T06:19:52.918Z
-summary: 'Earlier this week, The Chinese Communist Party announced plans to
-  increase its annual military. This continues the CCP’s decades of rapid
-  expansion as Chinese leaders pledge they are ready to fight “any kind of war”
-  with the United States “to the end." America must invest in a stronger defense
-  to deter threats before it’s too late. '
+summary: Earlier this week, The Chinese Communist Party announced plans to
+  increase its annual military budget by another 7.2%. This continues the CCP’s
+  decades of rapid expansion as Chinese leaders pledge they are ready to fight
+  “any kind of war” with the United States “to the end.” Failing to deter China
+  by cutting our own military would be one of the most catastrophic mistakes the
+  United States has ever made.
 cta: Read More →
 categories:
   - Newsroom
