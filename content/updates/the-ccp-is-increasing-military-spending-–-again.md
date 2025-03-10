@@ -4,6 +4,10 @@ draft: false
 featured: true
 title: The CCP is Increasing Military Spending – Again
 date: 2025-03-07T06:19:52.918Z
+summary: This past week, China has announced a 7.2% increase in its military
+  budget, continuing decades of rapid expansion while pledging readiness for war
+  with the U.S. To prevent a catastrophic conflict, America must abandon budget
+  cuts and invest in a stronger defense to deter threats before it’s too late.
 cta: Read More →
 categories:
   - Newsroom
