@@ -15,7 +15,7 @@ categories:
 image: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredimage_mon-feb-24-2025.webp
 og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredimage_mon-feb-24-2025.webp
 ---
-###### The Bottom Line
+#### **The Bottom Line**
 
 * The Chinese Communist Party announced plans to increase its annual military budget by another 7.2% this week. **This continues the CCP’s decades of massive investments into its military as Chinese leaders [pledge](https://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkd007S-UHxKPc6UOFG7PEcm4pDT-sVgRoPvQqRaP01KWo_eIKK671GNrwkBMeOL__B703vN-jdYhyN5tXfAYGCMXuflsrF83ZbChyK0CaDh6UxJBy-_Z3jURvrQSA-_bRJ&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w== "https\://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkd007S-UHxKPc6UOFG7PEcm4pDT-sVgRoPvQqRaP01KWo_eIKK671GNrwkBMeOL\_\_B703vN-jdYhyN5tXfAYGCMXuflsrF83ZbChyK0CaDh6UxJBy-\_Z3jURvrQSA-\_bRJ&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w==") they are ready to fight “any kind of war” with the United States “to the end."**  
 * The CCP’s military spending increase is alarming enough, but the danger is even worse because the Biden Administration spent the past four years kneecapping America’s defense budget. Beijing is rapidly scaling its military capabilities while our defense apparatus suffers from real budget cuts and reduced buying power due to inflation.
@@ -25,7 +25,7 @@ og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredi
 
 - - -
 
-###### The Truth About China’s Military Budget
+#### The Truth About China’s Military Budget
 
 * The CCP says it will only spend about $245 billion on China’s military, but the true value of its spending is far higher. Estimates by the U.S. intelligence community and leading defense budget experts [indicate ](https://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkdE-LOA2WaVSzvay9gOf7N_NLEoGkPaqK-lt8BClCh02piHFvd8SACoTYkDSJndaOQcGdI-vdTtuZ1hQZ2qWwdkk2uN7jNAhDPn1m35L4EAF-DhS_pdHrHvTXMavcO1MGpMEpDgce0mZj6OhvolFbgRGBybPz-WzG5Gi8imPwZgaLBLyLFC_jXs5gRskUik-5YvGXwrcwbKKXbOrU1I9qlpJ03nlsUT4GhJSi9YByBexc1FMdJ5TSp9Q==&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w== "https\://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkdE-LOA2WaVSzvay9gOf7N_NLEoGkPaqK-lt8BClCh02piHFvd8SACoTYkDSJndaOQcGdI-vdTtuZ1hQZ2qWwdkk2uN7jNAhDPn1m35L4EAF-DhS_pdHrHvTXMavcO1MGpMEpDgce0mZj6OhvolFbgRGBybPz-WzG5Gi8imPwZgaLBLyLFC_jXs5gRskUik-5YvGXwrcwbKKXbOrU1I9qlpJ03nlsUT4GhJSi9YByBexc1FMdJ5TSp9Q==&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w==")**the true amount may be triple what China’s topline claims.**
 * To minimize international blowback, PRC officials work hard every year to diffuse their military expenditures across China’s federal budget. They omit tens of billions of dollars the CCP spends on R&D, internal state security, paramilitaries, and space initiatives from its reported military spending.  
@@ -36,7 +36,7 @@ og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredi
 
 - - -
 
-###### The Threat is Real
+#### The Threat is Real
 
 * Even before the CCP’s military budget increase, the Defense Department was [sounding](https://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkdAwOS20IZs5caGeW462GEgxI4I9R3bDUn73zTgVoaHbX6N4mt9l7rl8UZ41PqciiUdUQq7gk23fu3_nkjBuKp6VQzxr4zDlqTL-ioIhrrJsEkWfXImanZrdrY8gmAm-jSRkVaWHk58apDpIR-xCIoxoAhb_VoKAfKo2awRKgzXIw--fAwb6aFtRvMeba5Z23BAAv5jHlGwBLEn18s2eIXQwfWurqWRQkLj2awK7rxDSwy9UvS3xyy8t8j2Q2NIsTnz4E9L5h1qG0=&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w== "https\://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkdAwOS20IZs5caGeW462GEgxI4I9R3bDUn73zTgVoaHbX6N4mt9l7rl8UZ41PqciiUdUQq7gk23fu3_nkjBuKp6VQzxr4zDlqTL-ioIhrrJsEkWfXImanZrdrY8gmAm-jSRkVaWHk58apDpIR-xCIoxoAhb_VoKAfKo2awRKgzXIw--fAwb6aFtRvMeba5Z23BAAv5jHlGwBLEn18s2eIXQwfWurqWRQkLj2awK7rxDSwy9UvS3xyy8t8j2Q2NIsTnz4E9L5h1qG0=&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w==") the alarm on the threats posed by the CCP’s military buildup to the United States in a December report.
 * The Pentagon warned Congress what Communist China would do with an even larger military budget in 2025: drive spending on high-tech military assets–stealth fighters, aircraft carriers, and an expanded nuclear arsenal.
@@ -45,7 +45,7 @@ og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredi
 
 - - -
 
-###### The CCP’s Intentions Are Clear
+#### The CCP’s Intentions Are Clear
 
 * Some argue that China just wants a security perimeter and its military weapons are just for defensive purposes. If that’s the case, why is the CCP hacking U.S. telecommunications, attacking Filipino sailors, encircling Taiwan with provocative exercises, and backing Russia’s war in Ukraine?
 * **The CCP is clearly preparing to go to war with America.** Just hours before announcing their military spending increase, China’s embassy [declared](https://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkd7gwbo1Qm-LenvBAsZHodmGDseaXxQtqyQZSSgvKXczwQ1MLpGQyVaCIYov-JqZF-Xw40-0Gsq4rdsJSWWNAk7IwNDqfM4fVh-ZB4EBhiBeeSS6o69iduBrFBw9I-NjpP&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w== "https\://8nithvebb.cc.rs6.net/tn.jsp?f=001krOoKyehg4_1CHplxRSr8srTuC22A9lhOqmkUb5oygjS_FJvbSph9D0GNauCghkd7gwbo1Qm-LenvBAsZHodmGDseaXxQtqyQZSSgvKXczwQ1MLpGQyVaCIYov-JqZF-Xw40-0Gsq4rdsJSWWNAk7IwNDqfM4fVh-ZB4EBhiBeeSS6o69iduBrFBw9I-NjpP&c=KENPg0JeyqW1BMq9ojGh8MQsaxcZ6WyE-iQMiCPZyMEIx54sjIvT7A==&ch=CJorP5UvE81ARzJBLyHL_VRBpZqps8I_nKgYPjYB0efDvX2oi4h42w==") the PRC was “ready to fight” any type of war with America “until the end.”
@@ -55,7 +55,7 @@ og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredi
 
 - - -
 
-###### Biden’s Delusion on Defense
+#### Biden’s Delusion on Defense
 
 * Even as the threats from abroad rose, President Biden kept proposing defense budgets to Congress with cuts, taking into account the high inflation generated by his policies. It is only thanks to conservatives that the worst of those cuts were averted. 
 * The result is a U.S. military budget that is among the smallest since before the Second World War, and a historically low share of GDP spent on the U.S. military.
@@ -65,7 +65,7 @@ og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredi
 
 - - -
 
-###### Maintaining Peace in Asia Will Require U.S. Military Strength
+#### Maintaining Peace in Asia Will Require U.S. Military Strength
 
 * **We can’t expect to stop China’s aggression without giving our defense apparatus the funding to get the job done.** Without defense spending increases, China’s military edge over America will only accelerate.
 * President Trump has made clear he is determined to restore American military strength, lethality, and readiness. **A precondition to delivering on that agenda is Congress providing the Trump Administration a defense budget that aligns with the scope of the challenge.**
