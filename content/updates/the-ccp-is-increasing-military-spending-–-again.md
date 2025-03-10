@@ -14,8 +14,8 @@ cta: Read More →
 categories:
   - Newsroom
   - China
-image: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredimage_mon-feb-24-2025.webp
-og_img: /img/updates/clean-china-taiwan-combat-readiness-_getty-images_featuredimage_mon-feb-24-2025.webp
+image: /img/updates/img_3791.jpeg
+og_img: /img/updates/img_3791.jpeg
 ---
 #### **The Bottom Line**
 
