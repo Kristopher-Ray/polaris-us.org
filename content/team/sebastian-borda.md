@@ -4,7 +4,7 @@ position: Policy Director
 team_categories:
   - Team
 image: /img/team/seb-borda.jpeg
-weight: 3
+weight: 2
 ---
 Sebastian Borda serves as the Policy Director of POLARIS National Security.  A graduate of the Harvard Kennedy School, he received a Master in Public Policy after working in Congress as a Legislative Correspondent for Sen. James Lankford. 
 
