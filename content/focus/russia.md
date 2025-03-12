@@ -1,5 +1,6 @@
 ---
 visible: true
+draft: true
 weight: 3
 title: Standing Up To Russia
 slug: russia
