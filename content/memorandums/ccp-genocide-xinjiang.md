@@ -1,11 +1,16 @@
 ---
-title: The CCP's Genocide in Xinjiang
-summary: Since 2014, the CCP has placed over one million Muslims of the Uyghur minority group in forced detention camps. This is a human rights abuse at a scale not observed since Hitler’s concentration camps during the Holocaust. In January 2021, the Trump Administration formally recognized that the Chinese Communist Party (CCP) is committing genocide against the Uyghur People.
-image: /img/memorandums/img_ccp-genocide-xinjiang.png
-memorandum_categories:
-   - China
-weight: 4
 visible: true
+draft: true
+weight: 4
+memorandum_categories:
+  - China
+title: The CCP's Genocide in Xinjiang
+summary: Since 2014, the CCP has placed over one million Muslims of the Uyghur
+  minority group in forced detention camps. This is a human rights abuse at a
+  scale not observed since Hitler’s concentration camps during the Holocaust. In
+  January 2021, the Trump Administration formally recognized that the Chinese
+  Communist Party (CCP) is committing genocide against the Uyghur People.
+image: /img/memorandums/img_ccp-genocide-xinjiang.png
 ---
 
 
