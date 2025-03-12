@@ -1,6 +1,6 @@
 ---
 visible: true
-weight: 6
+weight: 2
 title: Deterring Iran
 slug: iran
 summary: On day one, the Biden Administration abandoned the ‘Maximum Pressure’
