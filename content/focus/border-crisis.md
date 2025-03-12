@@ -1,20 +1,19 @@
 ---
 visible: true
-weight: 5
-title: The Border Crisis
+weight: 3
+title: Securing the Border
 slug: border
-summary: The United States was built by immigrants. But the failed immigration
-  policies of the Biden-Harris Administration are anything but compassionate to
-  Americans, legal immigrants, and even illegal migrants trafficked by cartels.
-  The Biden-Harris White House is derelict in its constitutional duty and has
+summary: The United States was built by immigrants. But the failed border
+  policies of the Biden Administration were anything but compassionate to
+  Americans, legal immigrants, and even illegal migrants trafficked by
+  cartels.  The Biden White House was derelict in its constitutional duty and
   dangerously exposed our homeland to terrorists and criminals eagerly
-  exploiting open borders. The present surge in illegal crossings and inadequate
-  vetting is fueling tragic rises in drug trafficking, human smuggling, and
-  abuse across border communities. We must restore law and order bring integrity
-  to our immigration system.
-btn_label: Learn more about the dangers of a wide-open border →
+  exploiting open borders.  Thankfully, President Trump is working to restore
+  our sovereignty, deliver law and order, and bring integrity to our immigration
+  system because he knows that America’s national security starts at home.
+btn_label: ""
 image: /img/focus/img_bidens-border-crisis.jpg
-section_img: /img/focus/630270.jpg
+section_img: ""
 memorandums: border
 accordions: border
 updates: border
