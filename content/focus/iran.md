@@ -14,7 +14,7 @@ summary: On day one, the Biden Administration abandoned the ‘Maximum Pressure�
   acquire a nuclear weapon. Americans should cheer on the Trump Administration
   as it advances the Maximum Pressure Campaign on the Islamic Republic of Iran,
   the world’s leading state sponsor of terrorism.
-btn_label: More on Biden’s Dangerous Pursuit of a Nuclear Deal →
+btn_label: ""
 image: /img/focus/img_confronting-the-threat-of-iran.jpg
 section_img: ""
 memorandums: iran
