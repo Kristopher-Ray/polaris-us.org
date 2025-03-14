@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 weight: 2
 title: "Israel’s Protection of Civilians: Setting the Record Straight"
 faqs_categories:
