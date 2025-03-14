@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 weight: 3
 title: "NATO: The Free World’s Collective Security Architecture"
 faqs_categories:
