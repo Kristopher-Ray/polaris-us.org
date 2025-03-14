@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 weight: 8
 title: Halting European Wars
 slug: russia
