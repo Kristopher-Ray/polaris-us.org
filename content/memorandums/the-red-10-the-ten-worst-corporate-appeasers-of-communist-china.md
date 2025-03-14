@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: false
+draft: true
 weight: 1
 memorandum_categories:
   - China
