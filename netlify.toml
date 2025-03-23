@@ -19,7 +19,7 @@
   HUGO_BUILD_EXPIRED = "false"
 
 [context.branch-deploy]
-  command = "hugo --gc --buildFuture --ignoreVendorPaths site.baseURL"
+  command = "hugo --gc --buildFuture --baseURL=/"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.141.0"
