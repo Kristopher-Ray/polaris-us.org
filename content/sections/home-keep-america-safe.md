@@ -5,6 +5,7 @@ id: safe-america
 #position: justify-content-end align-content-center
 size: col-12 
 #image: /img/bg_home_updates.jpg
+draft: true
 section_categories:
     - Home
 ---

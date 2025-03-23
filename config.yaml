@@ -26,7 +26,7 @@ markup:
       attribute:
         block: true
         title: true
-      autoHeadingID: true
+      autoHeadingID: false
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: false
     renderer:
@@ -40,26 +40,25 @@ taxonomies:
   faqs_category: faqs_categories
   team_category: team_categories
   section_category: section_categories
-paginate: 1
 title: Polaris National Security
 baseURL: https://polaris-us.org
 menu:
   main:
-    - name: Our Focus
+    - name: About Us
+      url: /about
+      weight: 5
+    - name: Policy Focus
       url: /focus
       weight: 10
     - name: Updates
       url: /updates
       weight: 20
-    - name: About
-      url: /about
-      weight: 30
     - name: Gallery
       url: /gallery
-      weight: 35
+      weight: 30
     - name: Past Events
       url: /events
-      weight: 37
+      weight: 35
     - name: Contact
       url: /contact
       weight: 40
@@ -67,18 +66,18 @@ menu:
     - name: Home
       url: /
       weight: 10
-    - name: Our Focus
+    - name: About Us
+      url: /about
+      weight: 15
+    - name: Policy Focus
       url: /focus
       weight: 20
     - name: Updates
       url: /updates
       weight: 30
-    - name: About
-      url: /about
-      weight: 40
     - name: Gallery
       url: /gallery
-      weight: 45
+      weight: 40
     - name: Past Events
       url: /events
       weight: 45

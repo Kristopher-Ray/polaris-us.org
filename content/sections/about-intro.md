@@ -10,8 +10,11 @@ section_categories:
 id: about-intro
 ---
 
-- We believe that America is strongest when we fully fund and equip our military to achieve peace through strength.
-- We believe that America is safer and the world will be more peaceful when our allies respect us and our adversaries fear us. We must demonstrate bold and principled leadership around the world and stand up for our allies and against our enemies.
-- We see the threats around the world as they are, not as we wished they would be. We believe we must fight radical Islamic terror groups from ISIS to Al-Qaeda to the Islamic Republic of Iran. We must push back against Vladimir Putin and Xi Jinping through words AND deeds. We must expose and degrade the socialist regimes that have turned Cuba and Venezuela into slums.
-- We believe America must re-establish energy and supply chain independence. We must not rely on authoritarian nations like China and Russia for the goods to fill our stores and the energy to power our cars, homes, and factories. We should build, invent, invest, and drill in America.
+## Our Values
+
+- **Foreign Policy Starts at Home.**  Our government’s first responsibility is to protect the American people and the U.S. homeland.  That means securing our Southern Border, stopping the flow of fentanyl and deadly narcotics, ensuring our college campuses are free of anti-Semitism and safe for Jewish students, and ending the CCP’s infiltration into our schools, phones, and businesses.
+- **We Must Put America First.**  U.S. actions overseas should deliver a return on investment for the taxpayer, align with our values, and advance our national interests.  All policies should meet three core tests: make America safer, stronger, and more prosperous.  
+- **Trump’s Strength Can Fix Biden’s Weakness.**  For four years, the Biden White House allowed adversaries to hide behind threats of nuclear escalation and their veto power at the United Nations.  President Trump and his administration can restore America’s credibility and reputation abroad with ‘Peace Through Strength’ policies.
+- **We Prevent War With Deterrence, Not Retreat.**  America’s security increases when her enemies fear our response – not when they sense fear in us.  We must maintain the strongest military in the world to address the most dangerous threats in the world and prevent us from ever needing to send our men and women in uniform into harm’s way.
+- **An America that Wins Helps the World.**  China and Russia dominate, intimidate, oppress, and invade their neighbors.  America’s strength prevents authoritarian aggression and makes the world safer.  Our example, values, businesses and people bring peace, prosperity and flourishing across the world.
 {.list-shield}

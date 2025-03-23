@@ -11,7 +11,7 @@ section_categories:
 
 <div class="headline">
 <div class="headlineIn">
-<h2>The Latest On Social Media</h2>
+<h2>Polaris on X</h2>
 <!-- <div class="headingTagline">Explore Our Latest Updates</div> -->
 </div>
 <!-- <a href="/updates/" class="button btn-dark">See All →</a> -->

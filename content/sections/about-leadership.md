@@ -10,12 +10,6 @@ section_categories:
 id: about-leadership
 ---
 
-<div class="headline text-center">
-<h2>Our Leadership</h2>
-</div>
-
-{{<team leadership>}}
-
 <div class="headline text-center pt-1">
 <h2>Our Team</h2>
 </div>

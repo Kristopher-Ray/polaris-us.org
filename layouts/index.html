@@ -4,9 +4,91 @@
 
 {{ partial "header.html" . }}
 
-{{ partial "home-slider.html" . }}
+<section id="banner">
+    <div class="banner-background-rotator">
+        <div class="bg-image active" style="background-image: url('/img/banner/d-day.png');"></div>
+        <div class="bg-image" style="background-image: url('/img/banner/moon-landing.png');"></div>
+        <div class="bg-image" style="background-image: url('/img/banner/reagan.png');"></div>
+        <div class="bg-image" style="background-image: url('/img/banner/trump-israel.png');"></div>
+    </div>
 
+    <div class="container">
+        <div class="row">
+            <div class="col col-12 text-center">
+                <div class="animated fadeIn">
+                    <h2>
+                        Fighting for an America <strong>That Leads, Stands Strong, and Wins.</strong>
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const images = document.querySelectorAll('#banner .banner-background-rotator .bg-image');
+            let currentIndex = 0;
+            
+            function rotateBackground() {
+                // Hide current image
+                images[currentIndex].classList.remove('active');
+                
+                // Move to next image or back to first
+                currentIndex = (currentIndex + 1) % images.length;
+                
+                // Show next image
+                images[currentIndex].classList.add('active');
+            }
+            
+            // Set interval for rotation (5 seconds)
+            setInterval(rotateBackground, 5000);
+        });
+    </script>
+
+    <style>
+        #banner {
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .banner-background-rotator {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+        
+        .banner-background-rotator .bg-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            opacity: 0;
+            transition: opacity 1.5s ease-in-out;
+        }
+        
+        .banner-background-rotator .bg-image.active {
+            opacity: 1;
+        }
+        
+        #banner .container {
+            position: relative;
+            z-index: 1;
+        }
+        
+        #banner h2 {
+            color: #fff;
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</section>
+
+{{ partial "signup.html" . }}
 
 <main role="main" class="main-sections">
 

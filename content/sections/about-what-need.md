@@ -6,6 +6,7 @@ section_categories:
   - About
 size: col-12 col-md-7
 id: what-need
+draft: true
 ---
 ### What We Need To Do {.sectionTitle .text-uppercase}
 

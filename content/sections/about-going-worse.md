@@ -6,6 +6,7 @@ section_categories:
   - About
 size: col-12 col-md-7
 id: getting-worse
+draft: true
 ---
 ### It's Only Getting Worse {.sectionTitle .text-uppercase}
 

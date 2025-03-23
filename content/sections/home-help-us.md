@@ -1,10 +1,10 @@
 ---
 title: Help Us Fight Back
 image: /img/quote-instagram-post-1-.png
-weight: 3
+weight: 6
 section_categories:
   - Home
-size: col col-12 col-md-7 col-lg-6
+size: col col-12 col-md-6
 position: justify-content-start
 id: help-us
 ---
