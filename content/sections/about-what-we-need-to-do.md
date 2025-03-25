@@ -4,10 +4,10 @@ image: /img/what-we-need-to-do.png
 weight: 2
 section_categories:
   - About
-size: col-12 col-md-7
+size: col-12 col-md-8
 id: whats-wrong
 ---
-### What We Need To Do {.sectionTitle .text-uppercase}
+### A New Way Forward {.sectionTitle .text-uppercase}
 
 For decades, U.S. foreign policy has been failed by decades of myopic strategy by Washington’s political elite.  America’s adversaries have exploited this naïveté to advance their interests at the expense of U.S. national security.
 

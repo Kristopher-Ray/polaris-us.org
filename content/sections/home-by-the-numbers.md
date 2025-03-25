@@ -16,7 +16,7 @@ draft: false
     <div class="card h-100 text-center">
       <div class="card-body">
         <h3 class="card-title">70+</h3>
-        <p class="card-text">events with dozens of Senate and House candidates</p>
+        <p class="card-text">dozens of national security events</p>
       </div>
     </div>
   </div>

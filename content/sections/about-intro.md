@@ -2,7 +2,7 @@
 title: About Page Intro
 weight: 1
 #position: align-items-center
-size: col-12 col-md-8 col-lg-7
+size: col-12 col-md-8
 image: /img/logo_mask.svg
 #section_image: /img/img_backed_aff.png
 section_categories:

@@ -1520,6 +1520,8 @@ ul.slides {
 
   form {
     .button {
+      width: 100%;
+      text-align: center;
       background: $primary-dark;
       border-color: $primary-dark;
     }
@@ -1528,8 +1530,17 @@ ul.slides {
 
 #home {
   #banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+
+    @media (max-width: 991px) {
+      height: auto;
+      display: block;
+      padding: 300px 0 100px;
+    }
     
-    padding: 200px 0 100px;
 
     .bg-image {
       width: 100%;
@@ -1910,6 +1921,10 @@ ul.list-spacing {
   padding: 3.85rem 0 3.55rem;
   overflow: hidden;
   background: #fff;
+
+  strong {
+    text-decoration: underline;
+  }
   .bg-image {
     width: 43%;
     left: initial;
@@ -2037,16 +2052,33 @@ ul.list-spacing {
       }      
     }
   }
+
+  
   p {
     line-height: 1.5em;
     margin-bottom: 1.2em;
   }
-  ul.font21 {
-    margin-bottom: 0.55em;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left:0;
     li {
-      padding-bottom: 0.35em;
+      position: relative;
+      padding-left: 1.5em;
+      
+      &:before {
+        content: '\f054'; /* Font Awesome right arrow (fa-chevron-right) */
+        font-family: 'Font Awesome 6 Pro';
+        font-weight: 400;
+        position: absolute;
+        left: 0;
+        top: 0.25em;
+        color: $action-color;
+      }
     }
   }
+  
 }
 
 
