@@ -1,6 +1,6 @@
 ---
 title: Threats Grow Each Week
-weight: 7
+weight: 6
 id: home-updates
 #position: justify-content-end align-content-center
 size: col-12 

@@ -1,10 +1,11 @@
 ---
 title: Our Core Mission
-image: /img/img_what_need.jpg
+#image: /img/img_what_need.jpg
 weight: 2
 section_categories:
   - Home
-size: col-12 col-md-6
+size: col-12 col-md-8 text-center
+position: justify-content-center
 id: our-mission
 draft: false
 ---

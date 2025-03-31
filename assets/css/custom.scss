@@ -1991,7 +1991,7 @@ ul.list-spacing {
 
 #our-mission {
   position: relative;
-  padding: 100px 0;
+  padding: 100px 0 80px;
   background: $primary-dark;
   .bg-image {
     width: 50%;
@@ -2029,8 +2029,10 @@ ul.list-spacing {
 
 #what-we-do {
   position: relative;
-  padding: 100px 0;
+  padding: 0 0 100px;
   background: $primary-dark;
+
+
   .bg-image {
     width: 50%;
     left: 0;
@@ -2063,17 +2065,18 @@ ul.list-spacing {
     list-style: none;
     padding-left: 0;
     margin-left:0;
+    
     li {
       position: relative;
-      padding-left: 1.5em;
+      padding: 0;
+      margin: 16px 0;
       
       &:before {
         content: '\f054'; /* Font Awesome right arrow (fa-chevron-right) */
         font-family: 'Font Awesome 6 Pro';
         font-weight: 400;
-        position: absolute;
-        left: 0;
-        top: 0.25em;
+        position: relative;
+        padding-right: 20px;
         color: $action-color;
       }
     }
