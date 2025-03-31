@@ -82,6 +82,28 @@
             {{ partial "pagination.html" .}}
         </div>
     </div>
+
+    <section id="event-gallery">
+        <div class="container">
+
+            <div class="row">
+                <div class="col text-center">
+                    <h2>Past Events Gallery</h2>
+                </div>
+            </div>
+    
+            <div class="row d-flex align-items-center justify-content-center">
+    
+                {{ range (where site.RegularPages "Section" "gallery").ByDate.Reverse }}
+                <div class="col col-12 col-md-4">
+                    <a href="{{ .Params.image }}" class="gallery-item" title="{{ .Title }}"><img class="lazyload" data-src="{{ .Params.image }}" alt="{{ .Title }} - Morgan Ortagus Gallery Image"></a>
+                </div>
+                {{ end }}
+    
+            </div>
+    
+        </div>
+    </section>
 </main>
 {{ partial "footer.html" . }}
 {{ partial "scripts.html" . }}

@@ -8,6 +8,5 @@ summary: Polaris National Security partnered with The Bastion Institute to
   continue the "America the Great" Tour in Nashua, New Hampshire, with special
   guests, Iowa Senator, Joni Ernst, North Dakota Governor Doug Burgum, and
   Polaris National Security founder, Morgan Ortagus.
-cta: Read More →
 image: /img/updates/20231013-polaris-161.jpg
 ---

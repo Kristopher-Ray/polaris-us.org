@@ -53,9 +53,9 @@ menu:
     - name: Updates
       url: /updates
       weight: 20
-    - name: Gallery
-      url: /gallery
-      weight: 30
+    - name: Media
+      url: /media
+      weight: 32
     - name: Past Events
       url: /events
       weight: 35
@@ -75,9 +75,9 @@ menu:
     - name: Updates
       url: /updates
       weight: 30
-    - name: Gallery
-      url: /gallery
-      weight: 40
+    - name: Media
+      url: /media
+      weight: 32
     - name: Past Events
       url: /events
       weight: 45

@@ -1989,6 +1989,16 @@ ul.list-spacing {
   }
 }
 
+#event-gallery {
+  h2 {
+    color: $primary-dark;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 1em;
+    margin-bottom: 24px;
+  }
+}
+
 #our-mission {
   position: relative;
   padding: 100px 0 80px;

@@ -17,7 +17,7 @@
                 {{ .Content }}
             </div>
         </div>
-        <div id="categoryFilter">
+        {{/*  <div id="categoryFilter">
             <span>SORT by:</span>
             <ul class="categoriesList">
                 
@@ -26,7 +26,7 @@
                 <li><a class="button rounded-2 btn-sm btn-haze" href="/categories/newsroom">Articles</a></li>
                 
             </ul>
-        </div>
+        </div>  */}}
         <div class="row entries_all">
             {{ range (.Paginator 6).Pages }}
                 {{ partial "news-entry.html" . }}
