@@ -13,10 +13,12 @@
             {{if .Params.career}}
             <div class="teamCareer">{{.Params.career}}</div>
             {{end}}
+            {{ if .Content }}
             <div class="teamBtn">
                 <a class="button btn-xs" data-fancybox="{{ .File.ContentBaseName }}"
                     data-src="#{{ .File.ContentBaseName }}" href="javascript:;">READ BIO →</a>
             </div>
+            {{end}}
         </div>
     </div>
     <div class="team-popup lightbox" id="{{ .File.ContentBaseName }}">

@@ -11,6 +11,13 @@ id: about-leadership
 ---
 
 <div class="headline text-center pt-1">
+<h2>Our Founder</h2>
+</div>
+
+{{<team founder>}}
+
+
+<div class="headline text-center pt-1">
 <h2>Our Team</h2>
 </div>
 

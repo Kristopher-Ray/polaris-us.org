@@ -2,10 +2,10 @@
 title: What We Do
 #image: /img/img_what_need.jpg
 weight: 3
-position: justify-content-center
+#position: justify-content-center
 section_categories:
   - Home
-size: col-12 col-md-8 text-center
+size: col-12 col-md-8
 id: what-we-do
 draft: false
 ---

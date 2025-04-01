@@ -4,8 +4,8 @@ title: Our Core Mission
 weight: 2
 section_categories:
   - Home
-size: col-12 col-md-8 text-center
-position: justify-content-center
+size: col-12 col-md-8 
+#position: justify-content-center
 id: our-mission
 draft: false
 ---
