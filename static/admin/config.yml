@@ -79,6 +79,25 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false }
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
       - {label: "Update Body", name: "body", widget: "markdown", required: false}
+  - name: "hidden"
+    label: "Hidden Pages"
+    folder: "content/hidden"
+    media_folder: '/static/img/updates'
+    public_folder: '/img/updates'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Trailing URL (following the .org/)", name: "url", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false }
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Sitemap Priority", name: "sitemap", widget: "object", required: false, fields: [{label: "Priority", name: "priority", widget: "number", default: 0}]}
   - name: "focus"
     label: "Our Focus Categories"
     folder: "content/focus"
