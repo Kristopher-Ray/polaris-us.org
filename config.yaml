@@ -7,6 +7,7 @@ params:
   popup: ""
   popup_link: ""
   form_endpoint: https://usebasin.com/f/bc8c13289456
+  form_endpoint_signup: https://usebasin.com/f/0df09d0343e3
   facebook_link: https://www.facebook.com/101769448776724
   paid_for: Paid for by Polaris Action Inc
   youtube_link: https://www.youtube.com/channel/UCtGcOmOrtHtPFyjdzwGGvpA
