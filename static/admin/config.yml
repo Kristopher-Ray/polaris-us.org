@@ -55,6 +55,30 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false }
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
       - {label: "Update Body", name: "body", widget: "markdown", required: false}
+  - name: "media"
+    label: "Media"
+    folder: "content/media"
+    media_folder: '/static/img/updates'
+    public_folder: '/img/updates'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Featured?", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Meta Description", name: "description", widget: "string", required: false}
+      - {label: "Short Summary", name: "summary", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Outbound Link", name: "outbound", widget: "string", required: false}
+      - {label: "CTA (Button) Text", name: "cta", widget: "string", required: false}
+      - { label: "Categories", name: "categories", widget: "list", summary: "{{fields.category}}", field: { label: "Category", name: "category", widget: "string" }}
+      - {label: "Featured Image", name: "image", widget: "image", required: false }
+      - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Update Body", name: "body", widget: "markdown", required: false}
   - name: "focus"
     label: "Our Focus Categories"
     folder: "content/focus"
