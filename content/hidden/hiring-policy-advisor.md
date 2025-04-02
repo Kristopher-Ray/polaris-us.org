@@ -23,7 +23,7 @@ Salary is commensurate with experience. POLARIS provides full healthcare benefit
 * ﻿﻿Have strong writing and research skills; 
 * Be broadly aligned with our values, as found on our website;
 * Prior experience in Congress, the Executive Branch, or on campaigns is preferred but not necessarily required;
-* ﻿﻿Be available to begin by May 1, 2025.
+* ﻿﻿Be available to begin in May.
 
 **Deadline**
 
