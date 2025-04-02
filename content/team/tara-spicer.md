@@ -4,7 +4,7 @@ position: Finance Director
 team_categories:
   - Team
 image: /img/team/screenshot-2025-03-29-at-9.40.29 pm.png
-weight: 5
+weight: 4
 ---
 Tara Spicer is a seasoned strategist with over 20 years of political experience. Tara is the Finance Director for Team Graham, Inc., the campaign committee for US Senator Lindsey Graham (R-SC). She is a Partner in Strategic Partners of SC, a South Carolina based political firm specializing in issue management, fundraising and event planning – both corporate and political.
 
