@@ -4,7 +4,7 @@ draft: false
 title: "Hiring: Policy Advisor"
 url: policy-advisor
 date: 2025-04-02T21:01:39.452Z
-image: ""
+image: /img/updates/screenshot-2025-04-02-at-4.13.41 pm.png
 sitemap:
   priority: 0
 ---
