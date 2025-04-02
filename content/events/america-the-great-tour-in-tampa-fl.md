@@ -9,4 +9,7 @@ summary: Special guests Rep. Jim Banks, Laurel Lee, Anna Paulina Luna, former
   join Polaris Founder Morgan Ortagus for a panel discussion on the most
   pressing national security issues.
 image: /img/updates/hqdefault-65.png
+event_gallery:
+  - /img/gallery/022-1260494-230628-douglas-coulter.jpg
+  - /img/gallery/035-1260566-230628-douglas-coulter.jpg
 ---
