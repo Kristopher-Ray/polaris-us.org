@@ -20,8 +20,9 @@ Salary is commensurate with experience. POLARIS provides full healthcare benefit
 
 * ﻿﻿Bring at least three years of experience working in national security;
 * ﻿﻿Hold a robust understanding of contemporary geopolitics and an interest in strategic communications;
-* ﻿﻿Have strong writing and research skills;\
-  but not necessarily required.
+* ﻿﻿Have strong writing and research skills; 
+* Be broadly aligned with our values, as found on our website;
+* Prior experience in Congress, the Executive Branch, or on campaigns is preferred but not necessarily required;
 * ﻿﻿Be available to begin by May 1, 2025.
 
 **Deadline**
