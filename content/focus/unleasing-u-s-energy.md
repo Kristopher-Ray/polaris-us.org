@@ -2,7 +2,7 @@
 visible: true
 draft: false
 weight: 6
-title: Unleasing U.S. Energy
+title: Unleashing U.S. Energy
 slug: Energy
 summary: "President Biden’s war on energy had disastrous consequences for the
   American consumer and our economy.  Rather than increasing U.S. production, he
