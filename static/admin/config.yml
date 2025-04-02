@@ -176,6 +176,7 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false }
       - {label: "Past Event Recap Body", name: "body", widget: "markdown", required: false}
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
+      - {label: "Event Gallery Images", name: "event_gallery", widget: "list", summary: "{{fields.category}}", field: { label: "Image", name: "image", widget: "image" }, required: false }
   - label: "Configuration"
     name: "configuration"
     files:
