@@ -159,8 +159,8 @@ collections:
   - name: "events"
     label: "Past Events"
     folder: "content/events"
-    media_folder: '/static/img/updates'
-    public_folder: '/img/updates'
+    media_folder: '/static/img/gallery'
+    public_folder: '/img/gallery'
     filter: {field: "visible", value: true}
     create: true
     slug: "{{slug}}"
