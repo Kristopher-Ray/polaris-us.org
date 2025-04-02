@@ -1,6 +1,6 @@
-site_url: https://polaris-us.netlify.app
-display_url: https://polaris-us.netlify.app
-logo_url: https://polaris-us.netlify.app/img/login-logo.svg
+site_url: https://polaris-us.org
+display_url: https://polaris-us.org
+logo_url: https://polaris-us.org/img/login-logo.svg
 show_preview_links: false
 backend:
   name: git-gateway
