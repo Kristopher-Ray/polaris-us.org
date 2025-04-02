@@ -4,7 +4,7 @@ draft: false
 title: "Hiring: Policy Advisor"
 url: policy-advisor
 date: 2025-04-02T21:01:39.452Z
-image: /img/updates/polaris-white-stacked-logo.png
+image: ""
 sitemap:
   priority: 0
 ---
