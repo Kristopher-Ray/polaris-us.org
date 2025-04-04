@@ -5,9 +5,9 @@ featured: false
 title: Polling Update on Houthi Strikes
 date: 2025-04-04T16:16:59.739Z
 summary: "As the Trump Administration continues to restore deterrence in the Red
-  Sea, new national Harvard-Harris proves what the White House has said all
-  along: the vast majority of Americans support its airstrikes against Houthi
-  terrorists."
+  Sea, new national Harvard-Harris polling proves what the White House has said
+  all along: the vast majority of Americans support its airstrikes against
+  Houthi terrorists."
 cta: Read More →
 categories:
   - Newsroom
