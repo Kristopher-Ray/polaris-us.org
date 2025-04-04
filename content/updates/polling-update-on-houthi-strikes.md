@@ -11,7 +11,7 @@ summary: "As the Trump Administration continues to restore deterrence in the Red
 cta: Read More →
 categories:
   - Newsroom
-  - Iran
+  - Middle East
 image: /img/updates/signal-2025-04-04-111339_002.jpeg
 og_img: /img/updates/signal-2025-04-04-111339_002.jpeg
 ---
