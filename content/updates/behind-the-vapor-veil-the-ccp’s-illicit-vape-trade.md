@@ -4,9 +4,12 @@ draft: true
 featured: false
 title: "Behind The Vapor Veil: The CCP’s Illicit Vape Trade"
 date: 2025-04-07T23:14:57.737Z
-summary: "Despite declining global tobacco use, China’s tobacco and vaping
-  industry continues to boom, generating upwards of $200 billion in annual
-  revenue for the Chinese government. "
+summary: "POLARIS National Security’s newly released report reveals a harsh
+  reality: China’s state-run vaping industry is thriving off the addiction of
+  American children.  Our report outlines how smarter enforcement, clearer
+  regulations, and stronger customs controls—like those pursued under the Trump
+  Administration—could help shut down this dangerous revenue stream and protect
+  American interests."
 cta: Read More →
 categories:
   - Newsroom
