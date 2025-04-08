@@ -4,12 +4,11 @@ draft: false
 featured: false
 title: "Behind The Vapor Veil: The CCP’s Illicit Vape Trade"
 date: 2025-04-07T23:14:57.737Z
-summary: "POLARIS National Security’s newly released report reveals a harsh
-  reality: China’s state-run vaping industry is thriving off the addiction of
-  American children.  Our report outlines how smarter enforcement, clearer
-  regulations, and stronger customs controls—like those pursued under the Trump
-  Administration—could help shut down this dangerous revenue stream and protect
-  American interests."
+summary: POLARIS National Security’s latest report explains how China’s
+  state-run vaping industry is siphoning billions of dollars from American
+  consumers to bankroll the Chinese Communist Party's budget.  Smarter
+  enforcement, clearer regulations, and stronger customs controls can help shut
+  down this dangerous revenue stream and protect America's youth.
 cta: Read More →
 categories:
   - Newsroom
