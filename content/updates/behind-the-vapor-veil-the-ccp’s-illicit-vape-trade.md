@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: "Behind The Vapor Veil: The CCP’s Illicit Vape Trade"
 date: 2025-04-07T23:14:57.737Z
@@ -11,8 +11,8 @@ cta: Read More →
 categories:
   - Newsroom
   - China
-image: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-81-.jpg
-og_img: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-81-.jpg
+image: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
+og_img: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
 ---
 ![](/img/updates/1.png)
 
