@@ -3,7 +3,7 @@ visible: true
 draft: false
 featured: false
 title: "Behind The Vapor Veil: The CCP’s Illicit Vape Trade"
-date: 2025-04-07T23:14:57.737Z
+date: 2025-04-08T23:14:57.737Z
 summary: POLARIS National Security’s latest report explains how China’s
   state-run vaping industry is siphoning billions of dollars from American
   consumers to bankroll the Chinese Communist Party's budget.  Smarter
@@ -16,6 +16,8 @@ categories:
 image: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
 og_img: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
 ---
+*PDF available [here](https://www.dropbox.com/scl/fi/yr74lv7ac6f9u7hnqb1al/Behind-The-Vapor-Veil-The-CCP-s-Illicit-Vape-Trade-2.pdf?rlkey=jx1232vwb6hfvi73khnkgh4sb&st=koa6thjg&dl=0).*
+
 ![](/img/updates/1.png)
 
 ![](/img/updates/2.png)
