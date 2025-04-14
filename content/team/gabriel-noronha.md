@@ -1,13 +1,12 @@
 ---
 title: Gabriel Noronha
 position: Executive Director
-image: /img/team/gabriel-noronha.png
 team_categories:
   - Team
+image: /img/team/gabriel-noronha.png
 weight: 2
 ---
-Gabriel Noronha is the Executive Director of POLARIS National Security. Over the past two years, Gabriel has
-become a leading advisor to Congress on national security policy and he has testified to the House Foreign Affairs Committee on sanctions policy. His research on Iran, Russia, and China has been cited in dozens of letters, statements, testimonies, and pieces of legislation by the Senate and House of Representatives. He exposed a major $10 billion nuclear deal between Russia and Iran and worked with Congress to sanction the program.
+Gabriel Noronha is the Executive Director of POLARIS National Security. Since co-founding POLARIS in 2021, Gabriel has become a leading advisor to Congress on national security policy and he regularly provides testimony and advice to the State Department, Treasury Department, Senate, and House of Representatives. His research on Iran, Russia, and China has been cited in dozens of letters, statements, testimonies, and pieces of legislation by Congress; and his policy recommendations have been passed into several laws. He exposed a major $10 billion nuclear deal between Russia and Iran and worked with Congress to sanction the program.
 
 From 2019 to 2021, Gabriel served as Special Advisor for the Iran Action Group at the U.S. Department of State, where he coordinated policy that deprived the regime of around $200 billion that otherwise could have gone to support terrorism, and he directed the Department's communications and congressional affairs for Iran.
 
