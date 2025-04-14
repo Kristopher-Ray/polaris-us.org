@@ -3,7 +3,7 @@ title: John Noonan
 position: Senior Advisor
 team_categories:
   - Team
-image: /img/team/screenshot-2025-04-14-at-10.20.52 am.png
+image: /img/team/screenshot-2025-04-14-at-10.20.20 am.png
 weight: 7
 ---
 John Noonan is a seasoned national security expert and defense strategist with a distinguished career spanning military service, legislative roles, and advisory positions in both governmental and private sectors.
