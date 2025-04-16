@@ -16,7 +16,7 @@ categories:
 image: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
 og_img: /img/updates/behind-the-vapor-veil-the-ccp’s-illicit-vape-trade-presentation-1-.png
 ---
-*PDF available [here.](https://drive.google.com/file/d/1gIQ1vbyj_YjFO7IJKJsYp_BVlo5Bq5UW/view?usp=sharing)*
+*PDF available [here.](/download/BehindThe-Vapor-Veil-The-CCP-Illicit-Vape-Trade.pdf)*
 
 ![](/img/updates/1.png)
 
