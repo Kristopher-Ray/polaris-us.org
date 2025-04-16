@@ -98,6 +98,20 @@ collections:
       - {label: "Open Graph Social Preview Image (1200x628)", name: "og_img", widget: "image", required: false }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Sitemap Priority", name: "sitemap", widget: "object", required: false, fields: [{label: "Priority", name: "priority", widget: "number", default: 0}]}
+  - name: "documents"
+    label: "Documents"
+    folder: "content/documents"
+    media_folder: '/static/docs'
+    public_folder: '/docs'
+    filter: {field: "visible", value: true}
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Visible in CMS", name: "visible", widget: hidden, default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "File Upload", name: "document", widget: "file" }
+      - {label: "Preview Image", name: "image", widget: "image" }
+      - {label: "Order", name: "weight", widget: "number" }
   - name: "focus"
     label: "Our Focus Categories"
     folder: "content/focus"

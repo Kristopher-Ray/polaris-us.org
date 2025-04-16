@@ -5,10 +5,11 @@
                     alt="{{ .Site.Title }} Logo"></a>
         </div>
         <div id="footerLeft">
-            <div id="footerNavBar">
-                {{if .Site.Params.donate_link}}
-                <div class="footerBtn"><a href="{{.Site.Params.donate_link}}" class="button">DONATE Now →</a></div>
+            {{if .Site.Params.donate_link}}
+                <div class="footerBtn mb-5"><a href="{{.Site.Params.donate_link}}" class="button">DONATE Now →</a></div>
                 {{end}}
+            <div id="footerNavBar">
+                
                 <div class="footerNav">
                     <ul>
                         {{ range .Site.Menus.footer }}
