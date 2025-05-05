@@ -14,7 +14,7 @@ categories:
   - Newsroom
 image: /img/updates/screenshot-2025-05-05-at-12.47.58 pm.png
 ---
-*PDF available [here](polaris-us.org/download/congress-must-step-up-on-defense.pdf)*
+*PDF available [here](https://polaris-us.org/docs/congress-must-step-up-on-defense.pdf)*
 
 President Trump’s historic defense budget request lays the foundation for returning America’s defenses from Biden’s dangerous cuts.  Congress should fully support it – and carry the vision forward with supplemental funding to equip him to successfully defend America.
 
