@@ -12,7 +12,7 @@ summary: President Trump’s proposed budget to congress reflects a necessary
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/screenshot-2025-05-05-at-12.47.58 pm.png
+image: /img/updates/signal-2025-05-05-134845_002.jpeg
 ---
 *PDF available [here](https://polaris-us.org/docs/congress-must-step-up-on-defense.pdf)*
 
