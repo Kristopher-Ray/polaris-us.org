@@ -13,6 +13,7 @@ cta: Read More →
 categories:
   - Newsroom
 image: /img/updates/signal-2025-05-05-134845_002.jpeg
+og_img: /img/updates/polaris-blue-stacked-logo.jpg
 ---
 *PDF available [here](https://polaris-us.org/docs/congress-must-step-up-on-defense.pdf)*
 
