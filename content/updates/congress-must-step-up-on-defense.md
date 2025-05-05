@@ -1,11 +1,14 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: Congress Must Step Up on Defense
 date: 2025-05-05T18:02:59.466Z
+categories:
+  - Newsroom
+image: /img/updates/screenshot-2025-05-05-at-12.47.58 pm.png
 ---
-*PDF available here*
+*PDF available [here](polaris-us.org/download/congress-must-step-up-on-defense.pdf)*
 
 President Trump’s historic defense budget request lays the foundation for returning America’s defenses from Biden’s dangerous cuts.  Congress should fully support it – and carry the vision forward with supplemental funding to equip him to successfully defend America.
 
@@ -18,8 +21,6 @@ President Trump’s historic defense budget request lays the foundation for retu
 * Facing generational threats requires generational investments.  Congress has a responsibility to provide the President with negotiating leverage and military tools to protect the homeland.  Doing so will require passing and building on this budget proposal.
 * The Biden Administration believed in Peace Through Slogans while cutting America’s defense budget.  But President Trump and his conservative allies in Congress know Peace Through Strength means funding the fight.  Biden’s runaway inflation has made that task more difficult than ever: A trillion dollars at the end of President Trump’s first term today has the purchasing power of only $825 billion now.  That means our military must buy less for more unless its budget grows.
 * Biden’s weakness and incompetence made our military more expensive and our world more dangerous to America.  But Congress can’t allow Biden’s inflation crisis to have the final word on our national security. To meet the moment, lawmakers should adopt President Trump’s trillion-dollar budget request plus $150 billion in supplemental funding for a total of $1.16 trillion – a level that would emulate Reagan’s military build-up that helped win the Cold War.
-
-
 
 ##### America’s Military is Falling Behind
 
