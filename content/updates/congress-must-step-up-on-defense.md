@@ -50,7 +50,7 @@ President Trump’s historic defense budget request lays the foundation for retu
 * That is even more striking considering that nearly half of the U.S. public believes the U.S. defense budget is significantly larger than it is.  A third of Americans believe it accounts for one-quarter to one-half of federal spending–and another 16% believes defense spending exceeds half of the entire federal budget.
 * The American people believe U.S. defense spending is significantly higher than it is–and they still want it to be even higher.
 
-![](/img/updates/screenshot-2025-05-05-at-12.47.58 pm.png)
+![](/img/updates/screenshot-2025-05-05-at-1.51.28 pm.png)
 
 ##### Biden-Era Budgets Won’t Meet the Moment
 
