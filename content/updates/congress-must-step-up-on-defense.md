@@ -4,6 +4,12 @@ draft: false
 featured: false
 title: Congress Must Step Up on Defense
 date: 2025-05-05T18:02:59.466Z
+summary: After years of underfunding and inflation-driven erosion of military
+  purchasing power under the Biden Administration, President Trump’s proposed
+  budget reflects a necessary return to Peace Through Strength. To ensure
+  national security and match the scale of generational threats, lawmakers
+  should not only pass the base budget but also approve an additional $150
+  billion in supplemental funding, totaling $1.16 trillion.
 categories:
   - Newsroom
 image: /img/updates/screenshot-2025-05-05-at-12.47.58 pm.png
