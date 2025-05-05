@@ -4,11 +4,10 @@ draft: false
 featured: false
 title: Congress Must Step Up on Defense
 date: 2025-05-05T18:02:59.466Z
-summary: President Trump’s proposed budget to congress reflects a necessary
-  return to Peace Through Strength. To ensure national security and match the
-  scale of generational threats, lawmakers should not only pass the base budget
-  but also approve an additional $150 billion in supplemental funding, totaling
-  $1.16 trillion.
+summary: President Trump’s historic defense budget request lays the foundation
+  for returning America’s defenses from Biden’s dangerous cuts.  Congress should
+  fully support it – and carry the vision forward with supplemental funding to
+  equip him to successfully defend America.
 cta: Read More →
 categories:
   - Newsroom
