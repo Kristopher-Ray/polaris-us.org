@@ -1,6 +1,6 @@
 ---
 title: Gabriel Noronha
-position: President
+position: "Executive Director "
 team_categories:
   - Team
 image: /img/team/gabriel-noronha.png
