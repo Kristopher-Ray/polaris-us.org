@@ -4,7 +4,7 @@ position: Senior Advisor
 team_categories:
   - Team
 image: /img/team/img_8229.jpeg
-weight: 6
+weight: 7
 ---
 Cale Brown is a Senior Advisor to Polaris National Security.  
 
