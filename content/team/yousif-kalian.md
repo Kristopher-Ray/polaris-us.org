@@ -6,7 +6,7 @@ team_categories:
 image: /img/team/unknown.jpeg
 weight: 5
 ---
-Yousif Kalian serves as policy director for POLARIS National Security.
+Yousif Kalian serves as Policy Advisor for POLARIS National Security.
 
 Yousif Kalian has over a decade of experience advancing American interests across the Middle East and Eurasia. He most recently worked in the U.S. government, coordinating interagency efforts for North African development. Previously, Yousif worked at the International Republican Institute, where he managed U.S. government-funded programs focused on civil society, improving governance, and supporting strategic polling and policy analysis to inform U.S. engagement. He led efforts to monitor authoritarian influence in Eurasia, and helped oversee an initiative addressing humanitarian and security challenges in Syria’s al-Hol camp.
 
