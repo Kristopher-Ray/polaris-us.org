@@ -6,8 +6,6 @@ team_categories:
 image: /img/team/unknown-1.jpeg
 weight: 3
 ---
-Sebastian Borda serves as the Policy Director of POLARIS National Security.  A graduate of the Harvard Kennedy School, he received a Master in Public Policy after working in Congress as a Legislative Correspondent for Sen. James Lankford. 
+Sebastian Borda is the Executive Director of POLARIS National Security. He previously served as the organization’s Policy Director, following his graduate studies and time as a Legislative Correspondent for Sen. James Lankford.  Sebastian has conducted foreign policy research for the Senate Foreign Relations Committee, the Vandenberg Coalition, and the Trinity Forum.  He is passionate about America’s foreign policy leadership and faith-based decision-making.
 
-Sebastian has conducted foreign policy research for the Senate Foreign Relations Committee, the Vandenberg Coalition, and the Trinity Forum. He is passionate about American leadership in the world, faith-based national security decision-making, and advancing U.S. interests within multilateral organizations.
-
-Sebastian received a B.A. with highest honors in public policy studies and a minor in history from Duke University in 2020.
+Sebastian holds a M.A. in Public Policy from the Harvard Kennedy School of Government.  He earned a B.A. with highest honors in public policy studies and political science from Duke University.
