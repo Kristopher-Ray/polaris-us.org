@@ -1,7 +1,7 @@
 ---
 visible: true
 draft: false
-title: America The Great Tour- RNC Convention 2024
+title: "America The Great Tour- RNC Convention 2024 "
 outbound: ""
 date: 2024-07-17T18:43:59.036Z
 summary: "Polaris National Security, in partnership with The Bastion Institute
