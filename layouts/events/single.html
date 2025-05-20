@@ -82,7 +82,7 @@
                 {{ if .Params.event_gallery }}
             <div class="row mt-5">
                 {{ range .Params.event_gallery }}
-                    <div class="col col-12 col-md-4">
+                    <div class="col col-12 col-md-4 mb-3">
                         <a href="{{ . }}" class="gallery-item" title="{{ $.Title }}"><img class="lazyload" data-src="{{ . }}" alt="{{ $.Title }} - Event Gallery Image"></a>
                     </div>
                 {{ end }}
