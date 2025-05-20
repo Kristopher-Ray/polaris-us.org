@@ -12,4 +12,4 @@ event_gallery:
   - /img/gallery/screenshot-2025-05-19-at-11.19.12 am.png
   - /img/gallery/screenshot-2025-05-19-at-11.20.31 am.png
 ---
-{{<youtube USgFAGdBAuo}}
+{{<youtube USgFAGdBAuo >}}

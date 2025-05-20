@@ -17,4 +17,4 @@ event_gallery:
   - /img/gallery/isrenag3.jpeg
   - /img/gallery/img_8204.jpeg
 ---
-{{<youtube 35vX7qBjCVA}}
+{{<youtube 35vX7qBjCVA >}}
