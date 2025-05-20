@@ -7,7 +7,7 @@ summary: POLARIS National Security was proud to host another successful ‘Women
   in NatSec’ reception! Thank you to our special guests Attorney General Pam
   Bondi, Senator Joni Ernst, and Deputy Special Envoy Morgan Ortagus for joining
   us and sharing valuable insights on building a career in national security.
-image: /img/gallery/158-s2830327.jpeg
+image: /img/gallery/201-s2830511.jpeg
 event_gallery:
   - /img/gallery/158-s2830327.jpeg
   - /img/gallery/156-s2830321.jpeg
