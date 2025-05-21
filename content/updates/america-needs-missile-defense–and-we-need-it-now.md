@@ -14,7 +14,7 @@ categories:
 image: /img/updates/missile-pic.jpeg
 og_img: /img/updates/missile-pic.jpeg
 ---
-*PDF version [here.]([pdf](https:polaris.us-org/docs/america-needs-missile-defense.pdf)*re*)*
+*PDF version [here](/docs/america-needs-missile-defense.pdf).*
 
 Yesterday, President Trump shared a three-year plan to build the Golden Dome–a bold missile defense shield to protect the homeland from every vector of missile attack.  That announcement followed a chilling Defense Intelligence Agency (DIA) [report](https://www.dia.mil/Articles/Press-Release/Article/4182231/dia-releases-golden-dome-missile-threat-assessment/) outlining the missile threats to the U.S. over the next decade.  **America faces the most dangerous missile threat environment in history, and we are falling dangerously behind**.
 
