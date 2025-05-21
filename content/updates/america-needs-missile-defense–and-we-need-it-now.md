@@ -15,7 +15,7 @@ categories:
 image: /img/updates/missile-pic.jpeg
 og_img: /img/updates/missile-pic.jpeg
 ---
-*PDF version [here.](polaris-us.org/docs/america-needs-missile-defense.pdf)*
+*PDF version [here.]([pdf](https:polaris.us-org/docs/america-needs-missile-defense.pdf)*re*)*
 
 Yesterday, President Trump shared a three-year plan to build the Golden Dome–a bold missile defense shield to protect the homeland from every vector of missile attack.  That announcement followed a chilling Defense Intelligence Agency (DIA) [report](https://www.dia.mil/Articles/Press-Release/Article/4182231/dia-releases-golden-dome-missile-threat-assessment/) outlining the missile threats to the U.S. over the next decade.  **America faces the most dangerous missile threat environment in history, and we are falling dangerously behind**.
 
@@ -59,4 +59,4 @@ While this Quartet of Evil sprinted toward missile dominance, Biden stood still�
 * **American ingenuity is our best weapon.** Just days ago, a Houston-based startup [completed](https://www.washingtonpost.com/technology/2025/05/14/hypersonic-startups-missiles-china/) the first high-thrust U.S. flight test of a rotating detonation rocket engine—a breakthrough that may lead to affordable hypersonic weapons and rapid global travel. To sustain U.S. missile defense superiority, the Trump Administration and Congress should prioritize investment in next-gen propulsion tech and streamline public-private defense innovation partnerships. 
 * **Enhancing U.S. missile defense will require streamlining research and procurement for the military technologies of tomorrow and speeding up production with commercial solutions.**  We must develop advanced systems across land, sea, air, and space to ensure integrated command and control against threats from all four hemispheres.
 
-We are rapidly approaching a world where the United States is outgunned and outpaced with dangerous missile threats.  Only decisive action will keep the peace and deliver America’s security against this missile threat en
+We are rapidly approaching a world where the United States is outgunned and outpaced with dangerous missile threats.  Only decisive action will keep the peace and deliver America’s security against this missile threat environment–the most dangerous of all time.
