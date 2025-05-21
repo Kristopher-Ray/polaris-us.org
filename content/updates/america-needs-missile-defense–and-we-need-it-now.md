@@ -12,8 +12,8 @@ cta: Read More →
 categories:
   - Newsroom
   - Defending America
-image: /img/updates/npk62tt34rbrxnxymihv77rh4a.jpeg
-og_img: /img/updates/npk62tt34rbrxnxymihv77rh4a.jpeg
+image: /img/updates/missile-pic.jpeg
+og_img: /img/updates/missile-pic.jpeg
 ---
 *PDF version [here.](polaris-us.org/docs/america-needs-missile-defense.pdf)*
 
