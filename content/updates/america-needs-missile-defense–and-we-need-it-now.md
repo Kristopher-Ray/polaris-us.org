@@ -12,8 +12,8 @@ cta: Read More →
 categories:
   - Newsroom
   - Defending America
-image: /img/updates/searam-1-300x200-2x.jpg
-og_img: /img/updates/searam-1-300x200-2x.jpg
+image: /img/updates/npk62tt34rbrxnxymihv77rh4a.jpeg
+og_img: /img/updates/npk62tt34rbrxnxymihv77rh4a.jpeg
 ---
 *PDF version [here.](/docs/america-needs-missi…e–and-we-need-it-now.pdf)*
 
