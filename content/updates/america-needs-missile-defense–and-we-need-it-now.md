@@ -20,7 +20,7 @@ Yesterday, President Trump shared a three-year plan to build the Golden Dome–a
 
 - - -
 
-#### **U.S. Adversaries Are on the Move**
+##### **U.S. Adversaries Are on the Move**
 
 * **China:** The Chinese Communist Party (CCP) is undertaking the most rapid and comprehensive [nuclear and missile expansion](https://interestingengineering.com/military/china-revives-radar-evading-orbital-nukes) in modern history. By 2035, the DIA assesses Beijing will:
 * * **Expand its intercontinental ballistic missile (ICBM) arsenal** from 400 to 700—with many housed in newly constructed hardened silos and mobile launch platforms.  
