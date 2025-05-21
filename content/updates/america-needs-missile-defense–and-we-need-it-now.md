@@ -4,10 +4,9 @@ draft: false
 featured: false
 title: America Needs Missile Defense–And We Need It Now
 date: 2025-05-21T20:37:09.136Z
-summary: Following President Trump’s Golden Dome announcement, POLARIS National
-  Security breaks down why America faces the most dangerous missile threat
-  environment in history—and why a bold, modern missile defense system is
-  urgently needed to protect the homeland from every avenue of attack.
+summary: POLARIS National Security breaks down how America faces the most
+  dangerous threat environment in history and why we need enhanced missile
+  defense to protect the homeland.
 cta: Read More →
 categories:
   - Newsroom
