@@ -12,7 +12,7 @@ categories:
   - Newsroom
   - Defending America
 image: /img/updates/missile-pic.jpeg
-og_img: /img/updates/missile-pic.jpeg
+og_img: /img/updates/polaris-blue-stacked-logo.jpg
 ---
 *PDF version [here](/docs/america-needs-missile-defense.pdf).*
 
