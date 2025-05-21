@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: President Trump is focused on results.
+title: President Trump is Focused on Results
 date: 2025-05-15T21:45:30.533Z
 summary: Gabriel Noronha joins Newsmax to dicuss President Trump's historic
   visit to the Middle East.   "President Trump is focused on results not
