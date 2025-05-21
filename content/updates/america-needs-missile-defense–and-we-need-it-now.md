@@ -41,7 +41,7 @@ Yesterday, President Trump shared a three-year plan to build the Golden Dome–a
 
   * **Increase its ICBM inventory fivefold** from 10 or fewer to 50 and [deploy solid-fueled ICBMs like the Hwasong-18](https://koreajoongangdaily.joins.com/news/2025-05-14/national/northKorea/North-Koreas-ICBM-arsenal-may-rise-to-50-by-2035-US-intel-report/2307086), which can be launched at U.S. cities with minimal warning and are significantly harder to track or preempt.
   * **Field submarine-launched ballistic missiles** (SLBMs), giving the regime a mobile, sea-based second-strike capability for the first time if technical and industrial advances continue.
-  * Develop maneuverable hypersonic glide vehicles and missiles capable of bypassing U.S. defenses, enabling Pyongyang to threaten forward deployed U.S. forces and coerce Indo-Pacific allies with nuclear blackmail.
+  * **Develop maneuverable hypersonic glide vehicles and missiles capable of bypassing U.S. defenses,** enabling Pyongyang to threaten forward deployed U.S. forces and coerce Indo-Pacific allies with nuclear blackmail.
 
 ##### Biden Refused to Face These Threats
 
