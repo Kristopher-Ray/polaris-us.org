@@ -2,7 +2,7 @@
 visible: true
 draft: false
 featured: false
-title: Russia is not serious about ending the war
+title: Russia is Not Serious About Ending the War
 date: 2025-05-14T01:07:27.371Z
 summary: 'Gabriel Noronha on Newsmax: "Everything we hear from Putin is not
   showing signs that he wants to war to end"'
