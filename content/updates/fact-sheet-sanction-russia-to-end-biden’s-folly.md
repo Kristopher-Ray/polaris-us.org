@@ -4,11 +4,9 @@ draft: false
 featured: false
 title: "FACT SHEET: Sanction Russia To End Biden’s Folly"
 date: 2025-06-04T18:59:52.961Z
-summary: "POLARIS National Security outlines how the Trump Administation plans
-  to reverse course on President Biden's weak sanctions by imposing real,
-  hard-hitting sanctions that give Putin a clear choice: pursue peace or face
-  economic collapse. Only President Trump has the strength and strategy to hold
-  Moscow accountable and end the war."
+summary: POLARIS National Security outlines how President Trump can end the war
+  in Ukraine by convincing Putin the alternative to peace is economic hell to
+  pay.
 cta: Read More →
 categories:
   - Newsroom
