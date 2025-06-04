@@ -34,7 +34,9 @@ Soon after Russia invaded Ukraine in 2022, Biden [declared](https://www.politico
 * **He turned a blind eye to China and others buying Russian oil.** While preaching solidarity with Ukraine, the White House allowed Beijing and others to bankroll the Kremlin with massive [energy purchases](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/crude-oil/121324-russia-to-increase-oil-gas-exports-to-china-in-2025-to-sustain-income-tsinghua). Chinese imports of Russian crude surged, offsetting Western pressure, and India and Turkey kept buying tens of billions of Russia’s crude oil and refined petroleum. By refusing to penalize these buyers, Biden undermined his own sanctions and strengthened the China-Russia axis.
 * **He protected Russian debt markets and kept their banks on SWIFT.** Instead of sanctioning secondary trading of Russian sovereign debt, Biden allowed investors to keep backing Putin’s war machine. He also left approximately 200 Russian banks in the SWIFT system, throwing Moscow a financial lifeline that could have been severed on day one of the invasion.
 
-##### **What Real Sanctions Would Do to Russia**
+- - -
+
+#### **What Real Sanctions Would Do to Russia**
 
 * **They would deprive Moscow of energy revenues.** Senator Lindsey Graham’s sanctions [bill](https://www.reuters.com/world/europe/us-senator-graham-senate-work-russia-sanctions-bill-next-week-2025-05-30/) would impose a 500 percent tariff on imports from countries buying Russian oil, gas, uranium and other products. That would all but force Russia’s customers to abandon Russia as a supplier, devastating its economy, reducing its annual export revenues by tens of billions, and limiting Putin’s ability to fund his war machine.
 * **They would drive down the ruble’s value and force capital flight.** Energy exports are Russia’s primary source of dollars, euros, and yuan. Cut those off and Russia will struggle to buy foreign goods, tech, and parts—particularly for weapons production and high-tech systems. Couple that with expanded SWIFT cutoffs, freezing central bank assets, and targeting ALL Russian banks, and the ruble will crater. 
