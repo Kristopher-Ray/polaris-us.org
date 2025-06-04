@@ -14,7 +14,7 @@ categories:
 image: /img/updates/putin-sanctions.jpeg
 og_img: /img/updates/putin-sanctions.jpeg
 ---
-PDF version [here](/docs/sanction-russia-to-end-biden’s-folly.pdf)
+PDF version [here.](/docs/sanction-russia-to-end-biden’s-folly.pdf)
 
 If Russia continues to stall peace talks, how can President Trump force Moscow to the table and end the war? By convincing Putin the alternative to peace is economic hell to pay. Biden promised to shrink Russia’s economy in half. Instead, his administration’s weak-kneed sanctions allowed strong Russian growth that prolonged the war.
 
