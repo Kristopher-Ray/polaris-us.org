@@ -77,7 +77,7 @@ However, the job is not done.  Several nuclear facilities remain intact, as do 
 * Since October 7, Iran-backed groups in Iraq and Syria have launched well over 200 attacks against U.S. personnel–a 630% increase.  In 2023, the IAEA confirmed Iran conducted uranium enrichment up to 83.7%—near weapons-grade.  **But despite these developments, the Biden Administration continued to ease pressure on the regime and refused to enforce energy sanctions.**
 * Sanctions enforcement on Iranian oil exports, particularly to China, [weakened](https://www.bloomberg.com/graphics/2024-iran-south-china-sea-oil-trade/?embedded-checkout=true) significantly under Biden, allowing Tehran to increase revenues and fund its network of militias from Lebanon to Yemen.  These funds helped sustain groups like Hezbollah, Hamas, and the Houthis—contributing directly to the regional instability that culminated in the October 7 attacks.
 * **In the absence of decisive leadership, Israel acted to fill the void.** Its operations severely disrupted [Hezbollah’s infrastructure](https://www.newsweek.com/iran-israel-conflict-escalates-battered-hezbollah-stays-out-fight-2085115), degraded Hamas’s capabilities, and weakened Iran-backed forces in Yemen.
-* While diplomatic engagement can be a tool, recent years have shown that pressure, not leniency, is what curtails Iranian aggression.  Iran’s weakened position today is the result of external resistance—not a product of accommodation.
+* While diplomatic engagement can be a tool, recent years have shown that pressure, not leniency, is what curtails Iranian aggression.  **Iran’s weakened position today is the result of external resistance—not a product of accommodation.**
 
   ![](/img/updates/screenshot-2025-06-14-at-1.41.21 pm.png)
 
