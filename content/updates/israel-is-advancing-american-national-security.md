@@ -10,7 +10,7 @@ cta: Read More →
 categories:
   - Newsroom
   - Israel
-image: /img/updates/tehran.webp
+image: /img/updates/june-14-2025.jpeg
 ---
 *PDF version [here.](https://polaris-us.netlify.app/docs/israel-is-advancing-american-national-security.pdf)*
 
