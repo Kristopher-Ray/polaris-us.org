@@ -1,9 +1,12 @@
 ---
 visible: true
-draft: false
+draft: true
 featured: false
 title: "FACT SHEET: Israel is Advancing American National Security"
 date: 2025-06-14T18:57:30.417Z
+summary: POLARIS National Security outlines how President Trump can end the war
+  in Ukraine by convincing Putin the alternative to peace is economic hell to
+  pay.
 cta: Read More →
 categories:
   - Newsroom
