@@ -1,8 +1,8 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
-title: Israel is Advancing American National Security
+title: "FACT SHEET: Israel is Advancing American National Security"
 date: 2025-06-14T18:57:30.417Z
 cta: Read More →
 categories:
@@ -10,7 +10,7 @@ categories:
   - Israel
 image: /img/updates/tehran.webp
 ---
-*PDF version [here. ](https://polaris-us.netlify.app/docs/israel-is-advancing-american-national-security.pdf)*
+*PDF version [here.](https://polaris-us.netlify.app/docs/israel-is-advancing-american-national-security.pdf)*
 
 Yesterday, Israel’s military preemptively struck Iran’s nuclear program and senior leadership to deny them a nuclear weapon.  This campaign will likely continue for one to two more weeks.
 
@@ -65,7 +65,9 @@ However, the job is not done.  Several nuclear facilities remain intact, as do 
 * And a new poll this week [shows](https://harvardharrispoll.com/press-release-june-2025-special-report/) that large majorities of Americans - and 78% of Republicans - want the United States to support Israel in its strikes against Iran.
 * Two-thirds of Americans also believe the best way to stop Iran from obtaining nuclear weapons is not via negotiations, but by isolating the regime, imposing sanctions, and raising the costs of pursuing nukes.
 
-Policy Failures That Strengthened Iran
+- - -
+
+##### Policy Failures That Strengthened Iran
 
 * U.S. policy decisions under the Biden administration allowed Iran to significantly advance its nuclear and regional military capabilities without consequence.  Rather than confronting Iran’s expanding threat network, the administration prioritized diplomacy while relaxing enforcement of key sanctions.  As a result, Iran’s uranium enrichment levels rose dramatically—up to 60% purity—and weaponization activities freely advanced. Meanwhile, Iranian proxies gained strength across the region.
 * Since October 7, Iran-backed groups in Iraq and Syria have launched well over 200 attacks against U.S. personnel–a 630% increase.  In 2023, the IAEA confirmed Iran conducted uranium enrichment up to 83.7%—near weapons-grade.  But despite these developments, the Biden Administration continued to ease pressure on the regime and refused to enforce energy sanctions.
