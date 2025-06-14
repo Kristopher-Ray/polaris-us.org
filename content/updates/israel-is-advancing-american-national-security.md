@@ -28,7 +28,8 @@ Backing Israel as it takes the fight to Iran’s regime is America First policy.
 * Inflicted Significant Damage on Iran’s Nuclear Program. Israel struck the Natanz nuclear facility in central Iran–a key site for producing fissile material for a bomb–as well as Isfahan, a uranium conversion facility and stocks of enriched uranium.  That comes amid reports Iran was planning to provide its nuclear weapons to its terrorist proxies.
 * Neutralized Iran’s Nuclear Scientists. At least ten scientists central to Tehran’s weapons program are confirmed dead, including the former head of Iran’s Atomic Energy Organization Fereydoon Abbasi and physicist Mohammad Mehdi Tehranchi.
 * Eliminated Iran’s Senior Chain of Command. In just hours, Israel isolated Supreme Leader Khameinei and killed some 20 top military Iranian commanders, including:
-* * Ali Shamkhani, senior advisor to Supreme Leader Khamenei.
+
+  * Ali Shamkhani, senior advisor to Supreme Leader Khamenei.
   * Maj. General Mohammad Bagheri, Chief of the General Staff of Iran’s military.
   * Hossein Salami, Commander-in-Chief of the Islamic Revolutionary Guard Corps.
   * Brig. General Esmail Ghaani, IRGC Quds Force Commander.
