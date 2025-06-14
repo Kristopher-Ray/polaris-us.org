@@ -4,9 +4,9 @@ draft: true
 featured: false
 title: "FACT SHEET: Israel is Advancing American National Security"
 date: 2025-06-14T18:57:30.417Z
-summary: POLARIS National Security outlines how President Trump can end the war
-  in Ukraine by convincing Putin the alternative to peace is economic hell to
-  pay.
+summary: POLARIS National Security breaks down Israel’s military preemptively
+  that struck Iran’s nuclear program and senior leaders to deny them a nuclear
+  weapon. America must back Israel as it takes the fight to Iran’s regime.
 cta: Read More →
 categories:
   - Newsroom
