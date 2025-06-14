@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: "FACT SHEET: Israel is Advancing American National Security"
 date: 2025-06-14T18:57:30.417Z
