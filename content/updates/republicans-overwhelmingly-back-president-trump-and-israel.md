@@ -5,7 +5,7 @@ featured: false
 title: Republicans Overwhelmingly Back President Trump and Israel
 date: 2025-06-20T19:28:27.094Z
 summary: Contrary to critics’ claims, the overwhelming majority of conservatives
-  and Republican elected to congree, firmly support President Trump’s decision
+  and Republican elected to congress, firmly support President Trump’s decision
   to stand with our key ally, Israel, and consider military action to prevent
   Iran from going nuclear.
 cta: Read More →
