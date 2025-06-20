@@ -18,6 +18,8 @@ PDF version [here](https://polaris-us.netlify.app/docs/republicans-back-presiden
 
 This week, critics have been out in force [attacking](https://www.yahoo.com/news/tucker-carlson-blasts-trump-being-040325583.html) President Trump for standing with Israel and considering a military strike to stop Iran from going nuclear.  The only problem?  They don’t [represent](https://www.theatlantic.com/politics/archive/2025/06/trump-interview-iran-israel/683192/) the America First movement – and the overwhelming majority of conservatives [disagree](https://nypost.com/2025/06/18/us-news/maga-voters-overwhelmingly-support-us-strikes-on-iranian-military-poll/) with their takes.
 
+- - -
+
 Here’s what Republicans in Congress - elected by actual Republican voters - are saying:
 
 **[Senate Majority Leader John Thune:](https://x.com/LeaderJohnThune/status/1934279015352946805)** “President Trump is all about trying to keep America out of wars and to try to find a path toward peaceful outcomes and peaceful solutions. He’s tried to do that with Iran. Iran has grown, I think, increasingly defiant of late in these talks, these discussions. But what this comes down to is action taken by Israel to defend themselves and their people. They view Iran’s nuclear capability, as do we, as a non-starter.”
