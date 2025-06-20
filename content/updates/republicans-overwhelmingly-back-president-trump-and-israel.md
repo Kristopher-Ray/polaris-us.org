@@ -12,7 +12,7 @@ cta: Read More →
 categories:
   - Newsroom
   - Iran
-image: /img/updates/united-states-capitol-building.jpg
+image: /img/updates/rts10vm4-2.webp
 ---
 PDF version [here](/docs/republicans-back-pr…ent-trump-and-israel.pdf).
 
