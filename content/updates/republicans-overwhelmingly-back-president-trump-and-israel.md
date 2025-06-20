@@ -14,7 +14,7 @@ categories:
   - Iran
 image: /img/updates/rts10vm4-2.webp
 ---
-PDF version [here](/docs/republicans-back-pr…ent-trump-and-israel.pdf).
+PDF version [here](https://polaris-us.netlify.app/docs/republicans-back-president-trump-and-israel.pdf).
 
 This week, critics have been out in force [attacking](https://www.yahoo.com/news/tucker-carlson-blasts-trump-being-040325583.html) President Trump for standing with Israel and considering a military strike to stop Iran from going nuclear.  The only problem?  They don’t [represent](https://www.theatlantic.com/politics/archive/2025/06/trump-interview-iran-israel/683192/) the America First movement – and the overwhelming majority of conservatives [disagree](https://nypost.com/2025/06/18/us-news/maga-voters-overwhelmingly-support-us-strikes-on-iranian-military-poll/) with their takes.
 
