@@ -11,7 +11,7 @@ summary: "Just days ago, the United States and Israel conducted one of the most
 categories:
   - Newsroom
   - Iran
-image: /img/updates/download.jpeg
+image: /img/updates/img_1163.jpeg
 ---
 PDF available [here](https://polaris-us.netlify.app/docs/five-lessons-learned-from-president-trump%E2%80%99s-iran-strikes.pdf).
 
