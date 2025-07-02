@@ -21,7 +21,7 @@ The operation shattered not just centrifuges, but decades of myths pushed by the
 
 Here are five critical lessons we’ve taken away from Israel’s operations and President Trump’s targeted strikes: 
 
-**Lesson #1: Israel Proved Itself the Ideal ‘America First’ Partner**
+##### **Lesson #1: Israel Proved Itself the Ideal ‘America First’ Partner**
 
 * **Israel carries its own weight–and more.** Conservatives often talk about building alliances in which our partners share the security burden with the United States. [Israel just gave a masterclass in the America First approach](https://freebeacon.com/culture/why-america-first-loves-israel/): They eliminated our enemy’s nuclear scientists, took out IRGC generals and the regime’s terror apparatus, and destroyed missile sites and infrastructure — all with their own forces. Each of these targets directly threatened U.S. citizens and interests. Israel took care of our interests. 
 * **Israel accomplished everything it could without U.S. help.** Israel dismantled a shared threat without asking for a single American boot on the ground. They did everything in their power to eliminate Iran’s nuclear infrastructure, only turning to the U.S. for what they didn’t have: B-2 bombers and bunker busters for Fordow and other key nuclear sites. That’s the opposite of free-riders, who wish to use the U.S. military as the tool of first resort. Israel was also prepared to act on their own and had readied contingency plans in case America chose not to strike.
