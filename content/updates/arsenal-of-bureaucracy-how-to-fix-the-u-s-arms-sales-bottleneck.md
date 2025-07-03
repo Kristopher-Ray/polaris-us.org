@@ -4,10 +4,13 @@ draft: false
 featured: false
 title: "Arsenal of Bureaucracy: How to Fix the U.S. Arms Sales Bottleneck"
 date: 2025-07-03T03:45:57.506Z
-summary: Despite all of President Trump’s massive wins, U.S. national security
-  is on the brink of crisis. Why? Our arms sales system is broken—and time is
-  running out to fix it. Our latest report outlines what America must do to
-  reverse the damage and win the new Cold War.
+summary: Of all the swampish processes in Washington, none may do more damage to
+  our national security—or our pocketbook—than the Foreign Military Sales (FMS)
+  system.  Designed for a different era, FMS is paralyzed by outdated
+  regulations and bloated bureaucracy, leaving trusted allies waiting years for
+  critical weapons while China races ahead.  Our latest report lays out how
+  President Trump can reverse the damage, rebuild American deterrence, and win
+  the new Cold War.
 cta: Read More →
 categories:
   - Newsroom
