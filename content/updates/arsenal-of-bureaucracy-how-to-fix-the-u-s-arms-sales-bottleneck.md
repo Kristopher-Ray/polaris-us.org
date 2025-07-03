@@ -11,7 +11,7 @@ summary: Despite all of President Trump’s massive wins, U.S. national security
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/screenshot-2025-07-03-at-12.11.58 am.png
+image: /img/updates/screenshot-2025-07-03-at-9.08.10 am.png
 ---
 **PDF available [here](https://polaris-us.netlify.app/docs/arsenal-of-bureaucracy-how-to-fix-the-u.s.-arms-sales-bottleneck.pdf).**
 
