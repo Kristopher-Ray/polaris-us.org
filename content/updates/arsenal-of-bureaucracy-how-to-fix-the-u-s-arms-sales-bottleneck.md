@@ -17,7 +17,7 @@ image: /img/updates/screenshot-2025-07-03-at-9.08.10 am.png
 
 - - -
 
-## **Executive Summary**
+##### **Executive Summary**
 
 The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of modern great-power competition.It was built for the Cold War's priorities: controlling proliferation and limiting Soviet access to American technology. But U.S. priorities have changed. America needs a FMS system that enables strategic collaboration with partners, meets today’s fast-moving threats, and adapts to ever-changing technology. While adversaries like China with fewer restrictions deliver arms rapidly, the U.S. is bogged down by red tape, leaving allies vulnerable and undermining deterrence.
 
@@ -31,57 +31,55 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 
 - - -
 
-## **Core Recommendations:**
+##### **Core Recommendations:**
 
-**Build a Trusted Partners List**
+1. **Build a Trusted Partners List**
 
-* Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
+   * Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
+2. **Establish a Defense Surplus Transfer Authority for Trusted Partners**
 
-**Establish a Defense Surplus Transfer Authority for Trusted Partners**
-
-* Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
-
-1. **Empower a Central Arms Sales Leader**
+   * Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
+3. **Empower a Central Arms Sales Leader**
 
    * Establish an Assistant Secretary of Defense for International Cooperation to unify FMS decisions and oversight across DoD, State, and the NSC.
-2. **Streamline Technology Security Reviews**
+4. **Streamline Technology Security Reviews**
 
    * Replace linear reviews with parallel processes and firm deadlines (e.g., 60 days), eliminate outdated offices like the Defense Technology Security Administration, and sunset duplicative boards like the National Disclosure Policy Committee.
-3. **Hold Contractors Accountable**
+5. **Hold Contractors Accountable**
 
    * Enforce existing penalties in the Federal Acquisition Regulation for missed delivery timelines due to internal delays. Reduce dependency on large primes.
-4. **Open the Door to Innovator**
+6. **Open the Door to Innovator**
 
    * Reduce regulatory and cost barriers for small and nontraditional firms. Allow rapid inclusion of off-the-shelf and commercial-origin systems.
-5. **Incentivize Production Ahead of Demand**
+7. **Incentivize Production Ahead of Demand**
 
    * Use advanced procurement and long-lead investments to stabilize manufacturing and preserve skilled labor. Predictability drives expansion.
-6. **Expand the Special Defense Acquisition Fund (SDAF)** 
+8. **Expand the Special Defense Acquisition Fund (SDAF)** 
 
    * Fund export stockpiles in advance. Consider a Defense Export Loan Guarantee to support U.S. industry fulfilling allied orders.
-7. **Create a Congressional Commission on FMS Reform**
+9. **Create a Congressional Commission on FMS Reform**
 
    * Modeled on the Cyberspace Solarium Commission, empower an expert panel to review authorities, propose statutory changes, and eliminate inefficiencies.
-8. **Rewrite the Arms Export Control Act (AECA)**
+10. **Rewrite the Arms Export Control Act (AECA)**
 
-   * Modernize export laws to prioritize agility and collaboration with trusted partners. Legislation like the SPEED Act offers a starting blueprint.
-9. **Redefine Controlled Technologies**
+    * Modernize export laws to prioritize agility and collaboration with trusted partners. Legislation like the SPEED Act offers a starting blueprint.
+11. **Redefine Controlled Technologies**
 
-   * Categorize systems based on security sensitivity—e.g., legacy platforms, software-defined systems, and dual-use commercial technologies—enabling low-risk exports to move faster.
-10. **Replace Case-by-Case Micromanagement with Strategic Oversight**
+    * Categorize systems based on security sensitivity—e.g., legacy platforms, software-defined systems, and dual-use commercial technologies—enabling low-risk exports to move faster.
+12. **Replace Case-by-Case Micromanagement with Strategic Oversight**
 
     * Allow broader Congressional notification thresholds and reduce political second-guessing for pre-cleared systems sold to vetted partners.
-11. **Reform the International Traffic in Arms Regulations (ITAR)**
+13. **Reform the International Traffic in Arms Regulations (ITAR)**
 
     * ITAR is a major barrier to innovation and allied collaboration. Expand exemptions like those granted under AUKUS to other trusted partners. Simplify licensing and eliminate “ITAR taint” that deters co-development.
-12. **Modernize Arms Cooperation and Procurement Processes**
+14. **Modernize Arms Cooperation and Procurement Processes**
 
     * Adopt time-based export models: pre-approve systems, negotiate pricing in advance, and stockpile inventory for faster delivery.
     * Reform procurement staffing and IT infrastructure to prioritize professional, not political, leadership.
-13. **Create Pre-Negotiated Indefinite Delivery/Indefinite Quantity (IDIQ) Contracts**
+15. **Create Pre-Negotiated Indefinite Delivery/Indefinite Quantity (IDIQ) Contracts**
 
     * IDIQ contracts for trusted partners would include fixed pricing, modular configurations, and fast production options, giving allies and industry greater predictability.
-14. **Revive a Strategic Export Pre-Clearance Group**
+16. **Revive a Strategic Export Pre-Clearance Group**
 
     * Reestablish a group like the former Arms Transfer and Technology Release Senior Steering Group (ATTR-SSG) to proactively determine exportability by partner and system—removing bottlenecks before they occur.
 
