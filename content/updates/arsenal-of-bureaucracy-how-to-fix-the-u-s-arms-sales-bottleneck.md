@@ -31,7 +31,7 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 
 - - -
 
-#### **Core Recommendations:**
+## **Core Recommendations:**
 
 **Build a Trusted Partners List**
 
