@@ -11,13 +11,13 @@ summary: Despite all of President Trump’s massive wins, U.S. national security
 cta: Read More →
 categories:
   - Newsroom
-image: /img/updates/screenshot-2025-07-03-at-12.11.58 am.png
+image: /img/updates/screenshot-2025-07-03-at-9.08.10 am.png
 ---
 **PDF available [here](https://polaris-us.netlify.app/docs/arsenal-of-bureaucracy-how-to-fix-the-u.s.-arms-sales-bottleneck.pdf).**
 
 - - -
 
-#### **Executive Summary**
+## **Executive Summary**
 
 The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of modern great-power competition.It was built for the Cold War's priorities: controlling proliferation and limiting Soviet access to American technology. But U.S. priorities have changed. America needs a FMS system that enables strategic collaboration with partners, meets today’s fast-moving threats, and adapts to ever-changing technology. While adversaries like China with fewer restrictions deliver arms rapidly, the U.S. is bogged down by red tape, leaving allies vulnerable and undermining deterrence.
 
@@ -31,7 +31,7 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 
 - - -
 
-#### **Core Recommendations:**
+## **Core Recommendations:**
 
 **Build a Trusted Partners List**
 
