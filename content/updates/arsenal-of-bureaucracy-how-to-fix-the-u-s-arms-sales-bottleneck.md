@@ -29,7 +29,7 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 * Stalled Innovation: Unpredictable timelines and politically driven reversals deter private sector investment, especially among small and mid-sized innovators critical to future capability.
 * Global Competition: China and Russia are delivering weapons faster and more flexibly, gaining influence in key regions. Iran and North Korea are also growing as arms suppliers to authoritarian allies and proxies.
 
-##### **Core Recommendations:**
+###### **Core Recommendations:**
 
 1. **Build a Trusted Partners List**
 
@@ -81,7 +81,7 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 
     * Reestablish a group like the former Arms Transfer and Technology Release Senior Steering Group (ATTR-SSG) to proactively determine exportability by partner and system—removing bottlenecks before they occur.
 
-##### **Introduction**
+#### **Introduction**
 
 America’s Foreign Military Sales (FMS) system is broken.  It was built for the Cold War and sought to control proliferation and limit Soviet access to American technology, not to enable strategic collaboration with partners and not built for today’s fast-moving threats and rapidly developing technology. The process is painfully slow, deterring American allies’ defense investment in American aircraft, firepower, technology and electronics, and defense systems, weakening U.S. credibility abroad.  Our allies want U.S. weapons, but antiquated rules and bureaucratic delays keep them waiting years.
 
@@ -93,7 +93,7 @@ According to the [Aerospace Industries Association’s 2024 report,](https://www
 
 A more efficient FMS process gives companies the confidence to expand production, hire skilled workers, and build up the infrastructure needed to meet global demand.  FMS reform isn’t just about helping allies; it’s about rebuilding the American economy.  The Trump Administration should lead FMS reform in the spirit of the Department of Government Efficiency (DOGE), embracing lean, agile solutions that empower trusted officials, eliminate duplication, and accelerate decision-making.  It’s about cutting the bad, keeping the good, and restoring competence to the heart of American defense exports.
 
-##### **Arsenal of Red Tape: How America’s Bureaucracy Is Failing**
+### **Arsenal of Red Tape: How America’s Bureaucracy Is Failing**
 
 * **It takes years to deliver key systems.** On average, it now takes [11 years](https://www.washingtonexaminer.com/magazine/3121603/arsenal-of-bureaucracy-us-lagging-behind-china-in-acquiring-weapons-needed-for-a-future-war/)—from initial concept to final delivery—for a major defense acquisition program to reach completion. While China moves five to six times faster and spends far less to achieve comparable capabilities, the United States FMS system is stuck in a procurement model that rewards complexity over speed.  These are not isolated problems, they’re symptoms of a broken process that leaves allies vulnerable and adversaries emboldened.
 
