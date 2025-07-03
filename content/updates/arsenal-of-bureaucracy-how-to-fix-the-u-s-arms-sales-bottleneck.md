@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: false
+draft: true
 featured: false
 title: "Arsenal of Bureaucracy: How to Fix the U.S. Arms Sales Bottleneck"
 date: 2025-07-03T03:45:57.506Z
@@ -76,3 +76,15 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 16. **Revive a Strategic Export Pre-Clearance Group**
 
     * Reestablish a group like the former Arms Transfer and Technology Release Senior Steering Group (ATTR-SSG) to proactively determine exportability by partner and system—removing bottlenecks before they occur.
+
+##### **Introduction**
+
+America’s Foreign Military Sales (FMS) system is broken.  It was built for the Cold War and sought to control proliferation and limit Soviet access to American technology, not to enable strategic collaboration with partners and not built for today’s fast-moving threats and rapidly developing technology. The process is painfully slow, deterring American allies’ defense investment in American aircraft, firepower, technology and electronics, and defense systems, weakening U.S. credibility abroad.  Our allies want U.S. weapons, but antiquated rules and bureaucratic delays keep them waiting years.
+
+The consequences are dangerous. China’s defense exports now [dominate](https://merics.org/en/tracker/chinas-arms-industry-increasingly-global-dont-expect-it-supplant-natos-counterparts-any) in South Asia, Sub-Saharan Africa, and Southeast Asia, and are rapidly gaining ground in Central Asia and the Middle East. Russia is simultaneously arming [Hezbollah](https://www.reuters.com/world/middle-east/hezbollahs-anti-ship-missiles-bolster-its-threat-us-navy-2023-11-08/) with advanced anti-tank missiles while [cutting deals](https://www.rusi.org/explore-our-research/publications/commentary/brothers-arms-assessing-north-koreas-contribution-russias-war-ukraine) with North Korea to refill its own artillery and rocket stockpiles—fueling terror abroad even as it builds up its military industrial base for war.
+
+Reforming the FMS system is a national security imperative.  Cutting red tape will diversify America’s defense industrial base and client base, a boon for American companies and homeland security.  Reforming the FMS system can spark a new wave of economic reinvestment in America’s industrial base by allies abroad and the American private sector. By cutting unnecessary red tape and signaling to investors and tech companies that defense innovation is a national priority, we open the door to new factories, supply chains, and jobs—particularly in the Rust Belt and manufacturing-heavy regions.
+
+According to the [Aerospace Industries Association’s 2024 report,](https://www.aia-aerospace.org/news/2024-facts-figures-american-aerospace-and-defense-remains-an-economic-powerhouse/) the U.S. aerospace and defense sector exported $135.9 billion in 2023 and supported 2.21 million American jobs.  On average, every $1 million in end-use sales supports about four jobs—translating to roughly 4,000 jobs per $1 billion in exports.  Accordingly, FY2023’s $238 billion in FMS deals approved support nearly one million U.S. jobs.  FMS reform that accelerates and expands the execution of deals could create and sustain hundreds of thousands more jobs—many in regions of our nation hit hardest by industrial decline.
+
+A more efficient FMS process gives companies the confidence to expand production, hire skilled workers, and build up the infrastructure needed to meet global demand.  FMS reform isn’t just about helping allies; it’s about rebuilding the American economy.  The Trump Administration should lead FMS reform in the spirit of the Department of Government Efficiency (DOGE), embracing lean, agile solutions that empower trusted officials, eliminate duplication, and accelerate decision-making.  It’s about cutting the bad, keeping the good, and restoring competence to the heart of American defense exports.
