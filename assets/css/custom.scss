@@ -2416,6 +2416,27 @@ ul.list-spacing {
         > p {
           margin-bottom: 0.8em;
         }
+
+        > ol {
+
+          margin-left:0;
+          
+          li {
+            margin: 16px 0;
+
+            p {
+              margin: 0;
+            }
+
+            ul {
+              margin:0 0 0 20px;
+
+              li {
+                margin:0 0 24px;
+              }
+            }
+          }
+        }
   
         > ul {
           li {
