@@ -13,7 +13,9 @@ categories:
   - Newsroom
 image: /img/updates/screenshot-2025-07-02-at-11.40.59 pm.png
 ---
-![]()
+**PDF available [here](https://polaris-us.netlify.app/docs/arsenal-of-bureaucracy-how-to-fix-the-u.s.-arms-sales-bottleneck.pdf).**
+
+- - -
 
 ##### **Executive Summary**
 
@@ -91,8 +93,6 @@ According to the [Aerospace Industries Association’s 2024 report,](https://www
 
 A more efficient FMS process gives companies the confidence to expand production, hire skilled workers, and build up the infrastructure needed to meet global demand.  FMS reform isn’t just about helping allies; it’s about rebuilding the American economy.  The Trump Administration should lead FMS reform in the spirit of the Department of Government Efficiency (DOGE), embracing lean, agile solutions that empower trusted officials, eliminate duplication, and accelerate decision-making.  It’s about cutting the bad, keeping the good, and restoring competence to the heart of American defense exports.
 
-
-
 ##### **Arsenal of Red Tape: How America’s Bureaucracy Is Failing**
 
 * **It takes years to deliver key systems.** On average, it now takes [11 years](https://www.washingtonexaminer.com/magazine/3121603/arsenal-of-bureaucracy-us-lagging-behind-china-in-acquiring-weapons-needed-for-a-future-war/)—from initial concept to final delivery—for a major defense acquisition program to reach completion. While China moves five to six times faster and spends far less to achieve comparable capabilities, the United States FMS system is stuck in a procurement model that rewards complexity over speed.  These are not isolated problems, they’re symptoms of a broken process that leaves allies vulnerable and adversaries emboldened.
@@ -122,8 +122,6 @@ Both Iran and North Korea are emerging as exporters themselves—sending drones,
 
 We want China and Russia reacting to American tech around the world—not the other way around.  But that requires speed, agility, and trust in our foreign military sales. America hasn’t had a revolutionary export since stealth aircraft like the F-117 Nighthawk. We’re overdue for bold moves.
 
-
-
 ##### **Policy Solutions: Recommendations for Reform**
 
 1. **Build a Formal “Trusted Partners List” with Defined Benefits.** The U.S. must create a formal “Trusted Partners List” that grants specific benefits to pre-qualified allies and partners, further divided into Tier One and Tier Two level partners.  These should include streamlined approvals, expedited contracting, prioritized delivery, and reduced oversight for low-risk transfers.  Criteria for inclusion should be based on shared strategic interests, existing defense agreements, and demonstrated compliance with end-use monitoring.  This tiered approach would ensure our most capable partners are treated as such—enhancing deterrence, strengthening interoperability, and reducing uncertainty across the board.  Streamlining allied defense cooperation requires removing outdated red tape, such as exempting close partners from burdensome congressional notification requirements and eliminating duplicative Third Party Transfer approvals. These changes would accelerate joint defense production and strengthen coordination with trusted partners. This list should be formalized by statute or executive order, with periodic review and the ability to add or remove countries based on performance and strategic shifts.  Tier One partners should include NATO and AUKUS countries as well as key regional partners like Taiwan and Israel, while Tier Two partners could include emerging partners such as India, the Philippines, and Gulf allies. Furthering America's commitment to building closer relationships with its emerging allies, the U.S. should also work with its Tier Two partners to establish a roadmap for reaching Tier One status after several years.
@@ -146,8 +144,6 @@ We want China and Russia reacting to American tech around the world—not the ot
 ##### **Conclusion**
 
 FMS reform isn’t just about selling weapons. It’s about projecting strength, securing our allies, revitalizing our industrial base, and outpacing our adversaries.  The Trump Administration and Congress must be prepared to eliminate red tape.  That means slashing delays, reforming laws, and getting serious about national security.  America must become the Arsenal of Democracy again—not the Arsenal of Bureaucracy.
-
-
 
 **Further Reading & Congressional Testimonies:**
 
