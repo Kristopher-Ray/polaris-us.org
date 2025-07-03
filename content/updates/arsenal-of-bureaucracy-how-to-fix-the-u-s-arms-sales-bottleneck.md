@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: "Arsenal of Bureaucracy: How to Fix the U.S. Arms Sales Bottleneck"
 date: 2025-07-03T03:45:57.506Z
@@ -28,11 +28,11 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 ##### **Core Recommendations:**
 
 1. **Build a Trusted Partners List**
+       * Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
 
-   * Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
 2. **Establish a Defense Surplus Transfer Authority for Trusted Partners**
+       * Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
 
-   * Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
 3. **Empower a Central Arms Sales Leader**
 
    * Establish an Assistant Secretary of Defense for International Cooperation to unify FMS decisions and oversight across DoD, State, and the NSC.
