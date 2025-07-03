@@ -1,6 +1,6 @@
 ---
 visible: true
-draft: true
+draft: false
 featured: false
 title: "Arsenal of Bureaucracy: How to Fix the U.S. Arms Sales Bottleneck"
 date: 2025-07-03T03:45:57.506Z
