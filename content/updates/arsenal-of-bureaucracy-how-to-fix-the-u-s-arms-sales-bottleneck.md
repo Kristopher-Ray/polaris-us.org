@@ -28,10 +28,10 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 ##### **Core Recommendations:**
 
 1. **Build a Trusted Partners List**
-       * Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
+     * Create a formal list of vetted allies eligible for expedited contracting, reduced oversight, and prioritized delivery. 
 
 2. **Establish a Defense Surplus Transfer Authority for Trusted Partners**
-       * Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
+     * Establish a Defense Surplus Transfer Authority to quickly provide trusted allies with decommissioned but capable U.S. military platforms instead of letting them rot in storage.
 
 3. **Empower a Central Arms Sales Leader**
 
