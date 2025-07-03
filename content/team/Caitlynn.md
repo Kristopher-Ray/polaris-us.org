@@ -3,7 +3,7 @@ title: Caitlynn Rasmussen
 position: Director of Operations
 team_categories:
   - Team
-image: /img/team/screenshot-2025-07-03-at-9.04.29 am.png
+image: /img/team/screenshot-2025-07-03-at-9.04.29 am.jpeg
 weight: 4
 ---
 Caitlynn Rasmussen serves as the Director of Operations for Polaris National Security.
