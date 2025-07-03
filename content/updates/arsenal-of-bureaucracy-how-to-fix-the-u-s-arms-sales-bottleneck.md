@@ -17,11 +17,11 @@ image: /img/updates/screenshot-2025-07-02-at-11.40.59 pm.png
 
 - - -
 
-##### **Executive Summary**
+#### **Executive Summary**
 
 The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of modern great-power competition.It was built for the Cold War's priorities: controlling proliferation and limiting Soviet access to American technology. But U.S. priorities have changed. America needs a FMS system that enables strategic collaboration with partners, meets today’s fast-moving threats, and adapts to ever-changing technology. While adversaries like China with fewer restrictions deliver arms rapidly, the U.S. is bogged down by red tape, leaving allies vulnerable and undermining deterrence.
 
-##### Key Problems:
+#### Key Problems:
 
 * Cold War Legacy Systems: The FMS system was built to control proliferation, not to enable strategic collaboration. Today’s defense landscape demands rapid integration with allies, particularly in software-driven and commercially developed technologies.
 * One-Size-Fits-All Approach: Trusted allies like Israel, Japan, and Poland endure the same review delays as less U.S. aligned countries, straining partnerships and damaging readiness.
@@ -29,7 +29,9 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 * Stalled Innovation: Unpredictable timelines and politically driven reversals deter private sector investment, especially among small and mid-sized innovators critical to future capability.
 * Global Competition: China and Russia are delivering weapons faster and more flexibly, gaining influence in key regions. Iran and North Korea are also growing as arms suppliers to authoritarian allies and proxies.
 
-###### **Core Recommendations:**
+- - -
+
+#### **Core Recommendations:**
 
 1. **Build a Trusted Partners List**
 
@@ -81,6 +83,8 @@ The U.S. Foreign Military Sales (FMS) system is failing to meet the demands of m
 
     * Reestablish a group like the former Arms Transfer and Technology Release Senior Steering Group (ATTR-SSG) to proactively determine exportability by partner and system—removing bottlenecks before they occur.
 
+- - -
+
 #### **Introduction**
 
 America’s Foreign Military Sales (FMS) system is broken.  It was built for the Cold War and sought to control proliferation and limit Soviet access to American technology, not to enable strategic collaboration with partners and not built for today’s fast-moving threats and rapidly developing technology. The process is painfully slow, deterring American allies’ defense investment in American aircraft, firepower, technology and electronics, and defense systems, weakening U.S. credibility abroad.  Our allies want U.S. weapons, but antiquated rules and bureaucratic delays keep them waiting years.
@@ -93,7 +97,9 @@ According to the [Aerospace Industries Association’s 2024 report,](https://www
 
 A more efficient FMS process gives companies the confidence to expand production, hire skilled workers, and build up the infrastructure needed to meet global demand.  FMS reform isn’t just about helping allies; it’s about rebuilding the American economy.  The Trump Administration should lead FMS reform in the spirit of the Department of Government Efficiency (DOGE), embracing lean, agile solutions that empower trusted officials, eliminate duplication, and accelerate decision-making.  It’s about cutting the bad, keeping the good, and restoring competence to the heart of American defense exports.
 
-### **Arsenal of Red Tape: How America’s Bureaucracy Is Failing**
+- - -
+
+#### **Arsenal of Red Tape: How America’s Bureaucracy Is Failing**
 
 * **It takes years to deliver key systems.** On average, it now takes [11 years](https://www.washingtonexaminer.com/magazine/3121603/arsenal-of-bureaucracy-us-lagging-behind-china-in-acquiring-weapons-needed-for-a-future-war/)—from initial concept to final delivery—for a major defense acquisition program to reach completion. While China moves five to six times faster and spends far less to achieve comparable capabilities, the United States FMS system is stuck in a procurement model that rewards complexity over speed.  These are not isolated problems, they’re symptoms of a broken process that leaves allies vulnerable and adversaries emboldened.
 
@@ -110,7 +116,9 @@ In a world of great-power competition, we must equip our allies faster than our 
 
 Other allies have faced dangerous hold-ups too. Poland’s request for additional HIMARS and integrated air defenses has faced more than 18 months of delays despite frontline urgency.  [Saudi Arabia](https://www.wsj.com/world/middle-east/saudi-arabia-pleads-for-missile-defense-resupply-as-its-arsenal-runs-low-11638878400) and the UAE saw deliveries of precision munitions and drones delayed by 2–3 years due to political reviews.  The Philippines’ attack helicopter [order](https://www.defensenews.com/global/asia-pacific/2024/05/24/philippines-receives-two-delayed-t129-combat-helicopters/?utm_) has been on hold for over a year, caught in Defense Security Cooperation Agency (DSCA) cost disputes and interagency confusion, jeopardizing deterrence in the South China Sea.
 
-##### **The Arsenal of Autocracy: A Comparison**
+- - -
+
+#### **The Arsenal of Autocracy: A Comparison**
 
 Meanwhile, China is a growing force in the global arms trade, rapidly expanding its footprint by offering fast, affordable, and politically unencumbered weapons to a widening network of clients.  While its global share remains smaller than that of the U.S., Russia, or France, China is closing the gap—especially in regions like South Asia, Africa, and the Middle East.  Pakistan remains its top recipient, with a steady stream of JF-17 fighter jets, frigates, and drones, but China has also made inroads with countries like Nigeria, Algeria, Thailand, and the UAE through sales of VT-4 tanks, Wing Loong drones, and air defense systems.  
 
@@ -122,7 +130,9 @@ Both Iran and North Korea are emerging as exporters themselves—sending drones,
 
 We want China and Russia reacting to American tech around the world—not the other way around.  But that requires speed, agility, and trust in our foreign military sales. America hasn’t had a revolutionary export since stealth aircraft like the F-117 Nighthawk. We’re overdue for bold moves.
 
-##### **Policy Solutions: Recommendations for Reform**
+- - -
+
+#### **Policy Solutions: Recommendations for Reform**
 
 1. **Build a Formal “Trusted Partners List” with Defined Benefits.** The U.S. must create a formal “Trusted Partners List” that grants specific benefits to pre-qualified allies and partners, further divided into Tier One and Tier Two level partners.  These should include streamlined approvals, expedited contracting, prioritized delivery, and reduced oversight for low-risk transfers.  Criteria for inclusion should be based on shared strategic interests, existing defense agreements, and demonstrated compliance with end-use monitoring.  This tiered approach would ensure our most capable partners are treated as such—enhancing deterrence, strengthening interoperability, and reducing uncertainty across the board.  Streamlining allied defense cooperation requires removing outdated red tape, such as exempting close partners from burdensome congressional notification requirements and eliminating duplicative Third Party Transfer approvals. These changes would accelerate joint defense production and strengthen coordination with trusted partners. This list should be formalized by statute or executive order, with periodic review and the ability to add or remove countries based on performance and strategic shifts.  Tier One partners should include NATO and AUKUS countries as well as key regional partners like Taiwan and Israel, while Tier Two partners could include emerging partners such as India, the Philippines, and Gulf allies. Furthering America's commitment to building closer relationships with its emerging allies, the U.S. should also work with its Tier Two partners to establish a roadmap for reaching Tier One status after several years.
 2. **Establish a Defense Surplus Transfer Authority for Trusted Partners.** The U.S. should create a formal Defense Surplus Transfer Authority to enable the rapid transfer of decommissioned but still-capable U.S. military platforms to trusted allies, rather than sending them to storage or scrap.  Many systems retired from U.S. service—such as aircraft, vehicles, or munitions—remain highly effective for partners facing asymmetric or high-threat environments.  Yet these platforms are often discarded despite their proven performance and strategic relevance.  This new authority would allow the Department of Defense to pre-clear select systems for expedited transfer to countries on the “Trusted Partners List,” bypassing bureaucratic delays and leveraging equipment the U.S. no longer needs to strengthen allied deterrence.  Instead of discarding capable, upgraded platforms, the U.S. should prioritize transferring them to trusted allies who can put them to immediate operational use.  [For example](https://asiatimes.com/2025/06/give-the-a-10s-to-taiwan-and-they-can-stop-a-chinese-sea-invasion/), rather than sending upgraded A-10s to rot in the boneyard at Davis Monthan Air Force Base in Tucson, Arizona, the U.S. could transfer them to an ally like Taiwan—where they would bolster defenses against maritime invasion and drone swarms at minimal cost.  By empowering allies with proven American platforms, the U.S. can close capability gaps, reduce delivery backlogs, and reinforce deterrence without waiting a decade for new systems to come online.
@@ -141,7 +151,9 @@ We want China and Russia reacting to American tech around the world—not the ot
 15. **Create Pre-Negotiated IDIQ Contracts for Trusted Partners:** To provide greater predictability and speed, the Department of Defense should create Indefinite Delivery/Indefinite Quantity (IDIQ) contract vehicles for pre-approved systems bound for trusted allies.  These contracts would include fixed pricing, modular configurations, and rapid production timelines, allowing allies to plan defense budgets with confidence while giving U.S. industry the stability to invest in manufacturing and scale.  This approach aligns with how the U.S. already manages urgent domestic defense needs.
 16. **Revive ATTR-SSG or a Successor Body for Export Pre-Clearance:** The DoD should revive and empower a body like the defunct Arms Transfer and Technology Release Senior Steering Group (ATTR-SSG) to proactively assess and authorize exports by country and capability.  This group would make strategic, forward-leaning determinations on which allies can receive which systems—eliminating the need for repetitive, reactive reviews.  With a mandate to coordinate across the interagency and a clear timeline for decisions, this mechanism would bring predictability and coherence to the FMS process.
 
-##### **Conclusion**
+- - -
+
+#### **Conclusion**
 
 FMS reform isn’t just about selling weapons. It’s about projecting strength, securing our allies, revitalizing our industrial base, and outpacing our adversaries.  The Trump Administration and Congress must be prepared to eliminate red tape.  That means slashing delays, reforming laws, and getting serious about national security.  America must become the Arsenal of Democracy again—not the Arsenal of Bureaucracy.
 
