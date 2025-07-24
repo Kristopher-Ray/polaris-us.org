@@ -14,7 +14,7 @@ categories:
   - Syria
 image: /img/updates/screenshot-2025-07-24-at-4.40.05 pm.png
 ---
-PDF version [here](https://polaris-us.netlify.app/docs/docs/explainer-navigating-syria%E2%80%99s-chaos.pdf).
+PDF version [here](https://polaris-us.netlify.app/docs/explainer-navigating-syria%E2%80%99s-chaos.pdf).
 
 Just months after the fall of Bashar al-Assad, Syria is spiraling back into chaos. Instead of ushering in a new era of peace, the interim government is presiding over massacres of ethnic minorities by former al-Qaeda fighters, jihadist militias, and elements of its own government.
 
